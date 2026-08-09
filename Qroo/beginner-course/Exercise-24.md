@@ -1,0 +1,160 @@
+## **Qroo Paul's Spanish Master Course Lesson 24 Exercise Skool.com/qroo**
+
+Select the correct sentence in Spanish.
+
+(ANSWER KEY ATTACHED)
+
+- 1. I am hungry.
+  - A) Estoy hambre.
+  - B) Tengo hambre.
+  - C) Soy hambre.
+- 2. I am very hungry.
+  - A) Tengo muy hambre.
+  - B) Tengo mucha hambre.
+  - C) Estoy mucha hambre.
+- 3. I am thirsty.
+  - A) Tengo sed.
+  - B) Estoy sed.
+  - C) Soy sed.
+- 4. I am very thirsty.
+  - A) Tengo muy sed.
+  - B) Tengo mucha sed.
+  - C) Estoy mucha sed.
+- 5. Juan is hungry.
+  - A) Juan es hambre.
+  - B) Juan tiene hambre.
+  - C) Juan está hambre.
+- 6. The men are hungry.
+  - A) Los hombres tienen hambre.
+  - B) Los hombres son hambre.
+  - C) Los hombres están hambre.
+- 7. I am cold (feeling).
+  - A) Estoy frío.
+
+- B) Tengo frío.
+- C) Soy frío.
+- 8. I am very cold.
+  - A) Tengo muy frío.
+  - B) Tengo mucho frío.
+  - C) Estoy mucho frío.
+- 9. I am hot (feeling).
+  - A) Estoy calor.
+  - B) Tengo calor.
+  - C) Soy calor.
+- 10. It is hot outside.
+  - A) Está caliente afuera.
+  - B) Hace calor afuera.
+  - C) Tiene calor.
+- 11. It is very hot today.
+  - A) Hace muy calor.
+  - B) Hace mucho calor.
+  - C) Está mucho calor.
+- 12. It is cold today.
+  - A) Hace frío.
+  - B) Tiene frío.
+  - C) Está frío hoy.
+- 13. The coffee is hot.
+  - A) El café tiene calor.
+  - B) El café está caliente.
+  - C) El café es caliente.
+- 14. The coffee is very hot.
+  - A) El café está muy caliente.
+  - B) El café tiene mucho calor.
+  - C) El café es muy caliente.
+- 15. The food is cold.
+  - A) La comida tiene frío.
+  - B) La comida está fría.
+  - C) La comida es fría.
+
+- 16. The food is spicy.
+  - A) La comida está picante.
+  - B) La comida tiene picante.
+  - C) La comida son picante.
+- 17. The food is very spicy.
+  - A) La comida son muy picante.
+  - B) La comida está muy picante.
+  - C) La comida tiene muy picante.
+- 18. I am 30 years old.
+  - A) Estoy 30 años.
+  - B) Tengo 30 años.
+- C) Soy 30 años. 19.Juan is 20 years old.
+  - A) Juan es 20 años.
+  - B) Juan tiene 20 años.
+  - C) Juan está 20 años.
+- 20. I feel like going to the beach.
+  - A) Tengo ganas de ir a la playa.
+  - B) Tengo gana ir a la playa.
+- C) Estoy ganas de ir a la playa. 21.Do you feel like going to the beach?
+  - A) ¿Tienes ganas ir a la playa?
+  - B) ¿Tienes ganas de ir a la playa?
+  - C) ¿Estás ganas de ir a la playa?
+- 22. I am sleepy.
+  - A) Estoy sueño.
+  - B) Tengo sueño.
+  - C) Soy sueño.
+- 23. I am very sleepy.
+  - A) Tengo muy sueño.
+  - B) Tengo mucho sueño.
+  - C) Estoy mucho sueño.
+- 24. I am in a hurry.
+  - A) Estoy prisa.
+
+- B) Tengo prisa.
+- C) Soy prisa. 25.Juan is very successful.
+  - A) Juan tiene mucho éxito.
+  - B) Juan es mucho éxito.
+  - C) Juan está éxito.
+- 26. I am lucky.
+  - A) Estoy suerte.
+  - B) Tengo suerte.
+  - C) Soy suerte.
+- 27. I don't have patience.
+  - A) No estoy paciencia.
+  - B) No tengo paciencia.
+  - C) No soy paciencia.
+- 28. It's my fault.
+  - A) Estoy la culpa.
+  - B) Tengo la culpa.
+  - C) Soy la culpa.
+- 29. It's not your fault.
+  - A) No estás la culpa.
+  - B) No tienes la culpa.
+  - C) No eres la culpa.
+- 30. The room is hot.
+  - A) El cuarto está caliente.
+  - B) El cuarto tiene calor.
+  - C) El cuarto caliente.
+- 31. The eagle is in a hurry.
+  - A) El águila es prisa.
+  - B) La águila tiene prisa.
+  - C) El águila tiene prisa.
+
+- 1. I am hungry. **Tengo hambre.**
+- 2. I am very hungry. **Tengo mucha hambre.**
+- 3. I am thirsty. **Tengo sed.**
+- 4. I am very thirsty. **Tengo mucha sed.**
+- 5. Juan is hungry. **Juan tiene hambre.**
+- 6. The men are hungry. **Los hombres tienen hambre.**
+- 7. I am cold (feeling). **Tengo frío.**
+- 8. I am very cold. **Tengo mucho frío.**
+- 9. I am hot (feeling). **Tengo calor.**
+- 10. It is hot outside. **Hace calor afuera.**
+- 11. It is very hot today. **Hace mucho calor.**
+- 12. It is cold today. **Hace frío.**
+- 13. The coffee is hot. **El café está caliente.**
+- 14. The coffee is very hot. **El café está muy caliente.**
+- 15. The food is cold. **La comida está fría.**
+- 16. The food is spicy. **La comida está picante.**
+- 17. The food is very spicy. **La comida está muy picante.**
+- 18. I am 30 years old. **Tengo 30 años.** 19.Juan is 20 years old. — **Juan tiene 20 años.**
+- 20. I feel like going to the beach. **Tengo ganas de ir a la playa.** 21.Do you feel like going to the beach? — **¿Tienes ganas de ir a la playa?**
+- 22. I am sleepy. **Tengo sueño.**
+- 23. I am very sleepy. **Tengo mucho sueño.**
+- 24. I am in a hurry. **Tengo prisa.** 25.Juan is very successful. — **Juan tiene mucho éxito.**
+- 26. I am lucky. **Tengo suerte.**
+
+- 27. I don't have patience. **No tengo paciencia.**
+- 28. It's my fault. **Tengo la culpa.**
+- 29. It's not your fault. **No tienes la culpa.**
+- 30. The room is hot. **El cuarto está caliente.**
+- 31. The eagle is in a hurry. **El águila tiene prisa.**

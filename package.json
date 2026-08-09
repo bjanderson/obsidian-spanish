@@ -1,0 +1,8 @@
+{
+  "name": "obsidian-spanish",
+  "private": true,
+  "description": "Tooling for the obsidian-spanish vault (practice-sheet PDF generation).",
+  "devDependencies": {
+    "md-to-pdf": "^5.2.4"
+  }
+}

@@ -1,0 +1,160 @@
+## **Qroo Paul's Spanish Master Course Lesson 22 Exercise Skool.com/qroo**
+
+Select the correct sentence in Spanish. (Answer Key Attached)
+
+- 1. I have to work Monday.
+  - a) Tengo que trabajar lunes.
+  - b) Tengo que trabajar el lunes.
+  - c) Tengo que trabajar la lunes.
+- 2. Do you want to go to the park Saturday?
+  - a) ¿Quieres ir al parque sábado?
+  - b) ¿Quieres ir al parque el sábado?
+  - c) ¿Quieres ir al parque la sábado?
+- 3. I can go to the beach on Sunday.
+  - a) Puedo ir a la playa el domingo.
+  - b) Puedo ir a la playa domingo.
+  - c) Puedo ir a la playa la domingo.
+- 4. You have to study tomorrow night.
+  - a) Tienes que estudiar mañana en la noche.
+  - b) Tienes que estudiar mañana noche.
+  - c) Tienes que estudiar mañana por la noche.
+- 5. I want to go to the supermarket this afternoon.
+  - a) Quiero ir al supermercado la tarde.
+  - b) Quiero ir al supermercado esta tarde.
+  - c) Quiero ir al supermercado tarde.
+- 6. Do you have to work next weekend?
+  - a) ¿Tienes que trabajar el próximo fin de semana?
+  - b) ¿Tienes que trabajar próximo fin de semana?
+  - c) ¿Tienes que trabajar la próximo fin de semana?
+- 7. I have to attend a meeting at three in the afternoon.
+  - a) Tengo que asistir a una reunión a las tres por la tarde.
+  - b) Tengo que asistir a una reunión a las tres la tarde.
+  - c) Tengo que asistir a una reunión tres por la tarde.
+
+- 8. Do you want to go to the movies Friday night?
+  - a) ¿Quieres ir al cine el viernes por la noche?
+  - b) ¿Quieres ir al cine viernes por la noche?
+  - c) ¿Quieres ir al cine la viernes por la noche?
+- 9. I can visit my grandmother on Thursday.
+  - a) Puedo visitar a mi abuela el jueves.
+  - b) Puedo visitar a mi abuela jueves.
+  - c) Puedo visitar a mi abuela la jueves.
+- 10. Do you want to go on vacation in December?
+  - a) ¿Quieres ir de vacaciones en diciembre?
+  - b) ¿Quieres ir de vacaciones diciembre?
+  - c) ¿Quieres ir de vacaciones la diciembre?
+- 11. What time do you have to work?
+  - a) ¿Qué hora tienes trabajar?
+  - b) ¿A qué hora tienes que trabajar?
+  - c) ¿A qué hora tienes trabajar el trabajo?
+- 12. I have to wake up early tomorrow.
+  - a) Tengo que despertarme temprano mañana.
+  - b) Tengo despertarme temprano mañana.
+  - c) Tengo que despierto temprano mañana.
+- 13. Do you want to eat lunch at one o'clock?
+  - a) ¿Quieres almorzar la una?
+  - b) ¿Quieres almorzar a la una?
+  - c) ¿Quieres almorzar a la uno?
+- 14. I can help you Saturday afternoon.
+  - a) Puedo ayudarte el sábado por la tarde.
+  - b) Puedo ayudarte sábado tarde.
+  - c) Puedo ayudarte la sábado por la tarde.
+- 15. You have to call me tonight.
+  - a) Tienes que llamarme esta noche.
+  - b) Tienes que llamarme noche.
+  - c) Tienes que llamarme la noche.
+- 16. I want to go to the park this weekend.
+  - a) Quiero ir al parque este fin de semana.
+
+- b) Quiero ir al parque fin de semana.
+- c) Quiero ir al parque la fin de semana.
+- 17. Do you have to leave at eight in the morning?
+  - a) ¿Tienes salir a las ocho de la mañana?
+  - b) ¿Tienes que salir a las ocho mañana?
+  - c) ¿Tienes que salir a las ocho de la mañana?
+- 18. I have to go to the bank Friday morning.
+  - a) Tengo que ir al banco viernes por la mañana.
+  - b) Tengo que ir al banco el viernes por la mañana.
+- c) Tengo que ir al banco la viernes por la mañana. 19.Can you open the door at six?
+  - a) ¿Puedes abrir la puerta a las seis?
+  - b) ¿Puedes abrir puerta seis?
+  - c) ¿Puedes abrir la puerta seis?
+- 20. Do you want to eat dinner tomorrow night?
+  - a) ¿Quieres cenar mañana por la noche?
+  - b) ¿Quieres cenar mañana noche?
+  - c) ¿Quieres cenar la mañana por la noche?
+- 21. I have an appointment on June 10th.
+  - a) Tengo una cita el 10 de junio.
+  - b) Tengo una cita 10 de junio.
+  - c) Tengo una cita la 10 de junio.
+- 22. We want to go to the beach next month.
+  - a) Queremos ir a la playa próximo mes.
+  - b) Queremos ir a la playa el próximo mes.
+  - c) Queremos ir a la playa la próximo mes.
+- 23. I have to work this weekend.
+  - a) Tengo trabajar este fin semana.
+  - b) Tengo que trabajar la fin de semana.
+  - c) Tengo que trabajar este fin de semana.
+- 24. Do you have to work today?
+  - a) ¿Tienes que trabajar hoy?
+  - b) ¿Tienes trabajar hoy?
+  - c) ¿Tienes trabajar el hoy?
+
+- 25. I can't go to the park next week.
+  - a) No puedo ir al parque la próxima semana.
+  - b) No puedo ir parque próxima semana.
+  - c) No puedo ir al parque la próxima semana.
+- 26. What time is the class?
+  - a) ¿Qué hora es clase?
+  - b) ¿A qué hora es la clase?
+  - c) ¿Qué hora la clase es?
+- 27. The party is at eight at night.
+  - a) La fiesta es a las ocho de la noche.
+  - b) La fiesta es ocho noche.
+  - c) La fiesta es la ocho de la noche.
+- 28. I want to travel in January.
+  - a) Quiero viajar enero.
+  - b) Quiero viajar en enero.
+  - c) Quiero viajar la enero.
+- 29. Can you come at ten in the morning?
+  - a) ¿Puedes venir a las diez de la mañana?
+  - b) ¿Puedes venir diez mañana?
+  - c) ¿Puedes venir la diez de la mañana?
+- 30. The meeting is on September 22nd.
+  - a) La reunión es 22 de septiembre.
+  - b) La reunión es el 22 de septiembre.
+  - c) La reunión es la 22 de septiembre.
+
+## **Answer Key**
+
+- 1. (b) I have to work Monday. → **Tengo que trabajar el lunes.**
+- 2. (b) Do you want to go to the park Saturday? → **¿Quieres ir al parque el sábado?**
+- 3. (a) I can go to the beach on Sunday. → **Puedo ir a la playa el domingo.**
+- 4. (c) You have to study tomorrow night. → **Tienes que estudiar mañana por la noche.**
+- 5. (b) I want to go to the supermarket this afternoon. → **Quiero ir al supermercado esta tarde.**
+- 6. (a) Do you have to work next weekend? → **¿Tienes que trabajar el próximo fin de semana?**
+- 7. (a) I have to attend a meeting at three in the afternoon. → **Tengo que asistir a una reunión a las tres por la tarde.**
+- 8. (a) Do you want to go to the movies Friday night? → **¿Quieres ir al cine el viernes por la noche?**
+- 9. (a) I can visit my grandmother on Thursday. → **Puedo visitar a mi abuela el jueves.**
+- 10. (a) Do you want to go on vacation in December? → **¿Quieres ir de vacaciones en diciembre.**
+- 11. (b) What time do you have to work? → **¿A qué hora tienes que trabajar?**
+- 12. (a) I have to wake up early tomorrow. → **Tengo que despertarme temprano mañana.**
+- 13. (b) Do you want to eat lunch at one o'clock? → **¿Quieres almorzar a la una?**
+- 14. (a) I can help you Saturday afternoon. → **Puedo ayudarte el sábado por la tarde.**
+- 15. (a) You have to call me tonight. → **Tienes que llamarme esta noche.**
+- 16. (a) I want to go to the park this weekend. → **Quiero ir al parque este fin de semana.**
+- 17. (c) Do you have to leave at eight in the morning? → **¿Tienes que salir a las ocho de la mañana?**
+- 18. (b) I have to go to the bank Friday morning. → **Tengo que ir al banco el viernes por la mañana.**
+- 19. (a) Can you open the door at six? → **¿Puedes abrir la puerta a las seis?**
+
+- 20. (a) Do you want to eat dinner tomorrow night? → **¿Quieres cenar mañana por la noche?**
+- 21. (a) I have an appointment on June 10th. → **Tengo una cita el 10 de junio.**
+- 22. (b) We want to go to the beach next month. → **Queremos ir a la playa el próximo mes.**
+- 23. (c) I have to work this weekend. → **Tengo que trabajar este fin de semana.**
+- 24. (a) Do you have to work today? → **¿Tienes que trabajar hoy?**
+- 25. (a) I can't go to the park next week. → **No puedo ir al parque la próxima semana.**
+- 26. (b) What time is the class? → **¿A qué hora es la clase?**
+- 27. (a) The party is at eight at night. → **La fiesta es a las ocho de la noche.**
+- 28. (b) I want to travel in January. → **Quiero viajar en enero.**
+- 29. (a) Can you come at ten in the morning? → **¿Puedes venir a las diez de la mañana?**
+- 30. (b) The meeting is on September 22nd. → **La reunión es el 22 de septiembre.**

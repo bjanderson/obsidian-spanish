@@ -1,0 +1,109 @@
+## **Qroo Paul's Spanish Master Course Lesson 60b Exercise Skool.com/qroo**
+
+Select the correct sentence in Spanish. (ANSWER KEY ATTACHED)
+
+- 1. What are you thinking about?
+  - A) ¿Qué piensas en?
+  - B) ¿En qué piensas?
+- 2. What are you going to dress up as?
+  - A) ¿De qué te vas a disfrazar?
+  - B) ¿Qué te vas a disfrazar de?
+- 3. What is Maria complaining about?
+  - A) ¿De qué se queja María?
+  - B) ¿Qué se queja María de?
+- 4. What do you want to talk about?
+  - A) ¿De qué quieres hablar?
+  - B) ¿Qué quieres hablar de?
+- 5. What do you regret?
+  - A) ¿Qué te arrepientes de?
+  - B) ¿De qué te arrepientes?
+- 6. I always think about you.
+  - A) Siempre pienso en ti.
+  - B) Siempre pienso ti en.
+- 7. My wife complains about the neighbor's dogs.
+  - A) Mi mujer se queja de los perros de los vecinos.
+  - B) Mi mujer se queja los perros de los vecinos de.
+- 8. I want to talk about the party.
+  - A) Quiero hablar de la fiesta.
+  - B) Quiero hablar la fiesta de.
+
+- 9. I dressed up as a clown.
+  - A) Me disfracé de payaso.
+  - B) Me disfracé payaso de.
+- 10. What are you thinking about now?
+  - A) ¿En qué piensas ahora?
+  - B) ¿Qué piensas ahora en?
+- 11. What do you want to talk about today?
+  - A) ¿De qué quieres hablar hoy?
+  - B) ¿Qué quieres hablar hoy de?
+- 12. What is he complaining about?
+  - A) ¿De qué se queja él?
+  - B) ¿Qué se queja él de?
+- 13. What does your brother want to talk about?
+  - A) ¿De qué habla tu hermano?
+  - B) ¿De qué quiere hablar tu hermano?
+- 14. I think about Maria.
+  - A) Pienso en María.
+  - B) Pienso María en.
+- 15. We always talk about the project.
+  - A) Siempre hablamos del proyecto.
+  - B) Siempre hablamos el proyecto de.
+- 16. What are they thinking about?
+  - A) ¿En qué piensan?
+  - B) ¿Qué piensan en?
+- 17. What do you regret now?
+  - A) ¿De qué te arrepientes ahora?
+  - B) ¿Qué te arrepientes ahora de?
+- 18. He complains about the food.
+  - A) Él se queja de la comida.
+  - B) Él se queja la comida de.
+- 19. What are you going to dress up as tonight?
+  - A) ¿De qué te vas a disfrazar esta noche?
+  - B) ¿Qué te vas a disfrazar de esta noche?
+
+- 20. I think about that problem.
+  - A) Pienso en ese problema.
+  - B) Pienso ese problema en.
+- 21. What do you want to talk about tomorrow?
+  - A) ¿De qué quieres hablar mañana?
+  - B) ¿Qué quieres hablar mañana de?
+- 22. We complain about the weather.
+  - A) Nos quejamos del clima.
+  - B) Nos quejamos el clima de.
+- 23. What are you thinking about today?
+  - A) ¿En qué piensas hoy?
+  - B) ¿Qué piensas hoy en?
+- 24. I want to think about the problem.
+  - A) Quiero pensar en el problema.
+  - B) Quiero pensar el problema en.
+- 25. What is Juan complaining about?
+  - A) ¿De qué se queja Juan?
+  - B) ¿Qué se queja Juan de?
+
+## ANSWER KEY NEXT PAGE
+
+- 1. B ¿En qué piensas?
+- 2. A ¿De qué te vas a disfrazar?
+- 3. A ¿De qué se queja María?
+- 4. A ¿De qué quieres hablar?
+- 5. B ¿De qué te arrepientes?
+- 6. A Siempre pienso en ti.
+- 7. A Mi mujer se queja de los perros de los vecinos.
+- 8. A Quiero hablar de la fiesta.
+- 9. A Me disfracé de payaso.
+- 10. A ¿En qué piensas ahora?
+- 11. A ¿De qué quieres hablar hoy?
+- 12. A ¿De qué se queja él?
+- 13. B ¿De qué quiere hablar tu hermano?
+- 14. A Pienso en María.
+- 15. A Siempre hablamos del proyecto.
+- 16. A ¿En qué piensan?
+- 17. A ¿De qué te arrepientes ahora?
+- 18. A Él se queja de la comida.
+- 19. A ¿De qué te vas a disfrazar esta noche?
+- 20. A Pienso en ese problema.
+- 21. A ¿De qué quieres hablar mañana?
+- 22. A Nos quejamos del clima.
+- 23. A ¿En qué piensas hoy?
+- 24. A Quiero pensar en el problema.
+- 25. A ¿De qué se queja Juan?

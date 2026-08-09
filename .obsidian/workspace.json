@@ -13,28 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "CEFR/CEFR_Master_Outline-Claude.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
-            }
-          }
-        ]
-      },
-      {
-        "id": "44c4e110d66e4b62",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "3ed6bfcc0ecd622a",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "CEFR_Master_Outline-Claude"
             }
           }
         ]
@@ -57,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -201,6 +187,42 @@
   },
   "active": "be888c2d9a7d2270",
   "lastOpenFiles": [
-    "Welcome.md"
+    "00 Templates/Flashcard Set Template.md",
+    "CEFR/CLAUDE.md",
+    "Welcome.md",
+    "CEFR/CLAUDE1.md",
+    "CEFR/Unconfirmed 71843.crdownload",
+    "CEFR/CEFR-Outline_Grok.md",
+    "CEFR/CEFR-Outline_Gemini.md",
+    "CEFR/CEFR-Outline_Claude.md",
+    "CEFR/CEFR_Master_Outline-Claude.md",
+    "00 Templates/Lesson Template.md",
+    "00 Templates/Lesson Template",
+    "04 Flashcards",
+    "03 Attachments",
+    "02 MOCs",
+    "01 Lessons",
+    "00 Templates",
+    "Lessons",
+    "Untitled.canvas",
+    "Anki",
+    "Qroo/beginner-course/vocabrooms.md",
+    "Qroo/beginner-course/tion-cognates.md",
+    "Qroo/beginner-course/Summary-would.md",
+    "Qroo/beginner-course/Summary-8.md",
+    "Qroo/beginner-course/summary-64.md",
+    "Qroo/beginner-course/Summary-63.md",
+    "Qroo/beginner-course/Summary-62.md",
+    "Qroo/beginner-course/Summary-61.md",
+    "Qroo/beginner-course/Summary-60.md",
+    "Qroo/beginner-course/summary-60a.md",
+    "Qroo/beginner-course/Summary-59.md",
+    "Qroo/beginner-course/Summary-58.md",
+    "Qroo/beginner-course/Summary-57.md",
+    "Qroo/beginner-course/Summary-56.md",
+    "Qroo/beginner-course/Summary-55.md",
+    "Qroo/beginner-course/Summary-54.md",
+    "Qroo/beginner-course/Summary-53.md",
+    "Qroo/beginner-course"
   ]
 }
