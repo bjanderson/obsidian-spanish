@@ -42,7 +42,7 @@ under `01 Lessons/`, `04 Flashcards/`, `03 Attachments/`, or `02 MOCs/`).
   matching the lesson file's code and title exactly. Contains natural, commonly-occurring
   conversational sentences using that lesson's grammar point, grouped by the sentence
   pattern each one follows.
-- `CEFR/CEFR-Outline.md` — a leveled (A1-C2) curriculum outline with alphanumeric codes (e.g. `A1.3.2`). The user may reference a code and ask to "add a lesson on X to section Y.Z" — use this file to find what that code covers. Use this outline to name and organize files and folders that contain the course content (lessons, attachments, flashcards, etc...)
+- `CEFR/CEFR-Outline.md` — a leveled (A1-C2) curriculum outline with alphanumeric codes (e.g. `A1.3.2`), plus per-lesson formula/immersion channel picks, Qroo source mapping, pacing, and build status. The user may reference a code and ask to "add a lesson on X to section Y.Z" — use this file to find what that code covers and where to source it from. Use this outline to name and organize files and folders that contain the course content (lessons, attachments, flashcards, etc...)
 - `CEFR/CEFR-Folder-Structure.md` — the authoritative pattern for how CEFR codes map
   to nested folder/file names across `01 Lessons/`, `03 Attachments/`, and
   `04 Flashcards/` (and the Anki deck tag). Treat it as a pattern to follow, not a
@@ -54,7 +54,7 @@ under `01 Lessons/`, `04 Flashcards/`, `03 Attachments/`, or `02 MOCs/`).
   match the channel's focus and level to the lesson's CEFR code and topic. If you
   come across a channel that fits this list's pattern but isn't on it, suggest it to
   the user instead of using it or adding it yourself.
-- `Qroo/beginner-course/` — raw source material (summaries/exercises) imported from a third-party course ("Qroo Paul's Spanish Master Course", skool.com/qroo). Treat as reference input for drafting lessons, not as vault content itself. **It contains Spain-specific forms (vosotros conjugations, etc.) — strip these out per `.claude/rules/spanish-language.md` when pulling material from it into a lesson.**
+- `Qroo/beginner-course/` and `Qroo/intermediate-course/` — raw source material (summaries/exercises) imported from a third-party course ("Qroo Paul's Spanish Master Course", skool.com/qroo). Treat as reference input for drafting lessons, not as vault content itself. **Both folders contain Spain-specific forms (vosotros conjugations, etc.) — strip these out per `.claude/rules/spanish-language.md` when pulling material from either into a lesson.**
 - `todo/TODO.md` / `todo/TODONE.md` — internal bug/improvement/suggestion/insight/discovery tracking for this vault's Claude Code tooling. **Not vault content — never link to `todo/` from a lesson, MOC, `Welcome.md`, or any other note.** A hook (`.claude/hooks/guard-todo-link.js`) blocks this, but don't rely on it. See "Todo tracking" below.
 
 ## Todo tracking
@@ -137,9 +137,9 @@ lesson whose content changed after the fact.
   MOC-linking steps.
 - Let `spanish-style-reviewer` do the language check instead of manually
   re-reading a finished lesson against `.claude/rules/spanish-language.md`.
-- When pulling material from `Qroo/beginner-course/`, grep for the specific
-  topic instead of reading an entire source file — those files are long raw
-  transcripts/summaries and mostly irrelevant to any single lesson.
+- When pulling material from `Qroo/beginner-course/` or `Qroo/intermediate-course/`,
+  grep for the specific topic instead of reading an entire source file — those files
+  are long raw transcripts/summaries and mostly irrelevant to any single lesson.
 - For multi-file checks (e.g. "does every lesson in a MOC exist," "which
   flashcard files are missing"), use one Glob/Grep pass over the folder
   instead of opening files one at a time.

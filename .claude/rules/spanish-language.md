@@ -53,5 +53,5 @@ flashcards, practice sheets, and MOCs — not Claude's own replies to the user.
   substitute it for the neutral form.
 - Avoid Spain-specific forms — *vosotros* conjugations, *vale*, leísmo — unless a lesson
   is specifically contrasting regional variation. This matters most when pulling from
-  `Qroo/beginner-course/` source material, which is written with *vosotros* forms
-  throughout and needs to be adapted, not copied.
+  `Qroo/beginner-course/` or `Qroo/intermediate-course/` source material, both of which
+  are written with *vosotros* forms throughout and need to be adapted, not copied.

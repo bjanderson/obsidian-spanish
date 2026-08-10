@@ -1,0 +1,65 @@
+- 1. What do you want me to do?
+- 2. Do you want me to take out the garbage?
+- 3. Do you want me to arrive early?
+- 4. Do you want us to arrive early?
+- 5. Do you want me to organize the meeting?
+- 6. Do you want me to wash the car?
+- 7. Do you want me to cook dinner?
+- 8. Do you want me to clean the kitchen?
+- 9. Do you want me to stay home?
+- 10. Do you want me to get dressed?
+- 11. Do you want me to lie down/go to bed?
+- 12. Do you want me to write the report?
+- 13. Do you want me to go to the store?
+- 14. Do you want me to set the table?
+- 15. Do you want me to wash the dishes?
+- 16. Do you want me to vacuum the living room?
+- 17. Do you want me to open the windows?
+- 18. Do you want me to close the door?
+- 19. Do you want me to pay the bill?
+- 20. Do you want me to ask for more napkins?
+- 21. Do you want me to organize the files?
+- 22. Do you want me to cut the grass?
+
+- 23. Do you want me to bring you a coffee?
+- 24. Do you want me to buy you a coffee?
+- 25. Do you want me to leave you alone?
+- 26. What do you want me to say?
+- 27. What do you want me to tell you/say to you?
+- 28. Do you want us to wait for you?
+- 29. Do you want me to give you a hand?
+- 30. Do you want me to take you home?
+
+## **Traducciones Abajo** ⇩
+
+- 1. ¿Qué quieres que haga?
+- 2. ¿Quieres que saque la basura?
+- 3. ¿Quieres que llegue temprano?
+- 4. ¿Quieres que lleguemos temprano?
+- 5. ¿Quieres que organice la reunión?
+- 6. ¿Quieres que lave el carro/coche (Esp.)
+- 7. ¿Quieres que cocine la cena?
+- 8. ¿Quieres que limpie la cocina?
+- 9. ¿Quieres que me quede en casa?
+- 10. ¿Quieres que me vista?
+- 11. ¿Quieres que me acueste?
+
+- 12. ¿Quieres que escriba el informe?
+- 13. ¿Quieres que vaya a la tienda?
+- 14. ¿Quieres que ponga la mesa?
+- 15. ¿Quieres que lave los platos?
+- 16. ¿Quieres que pase la aspiradora en la sala?
+- 17. ¿Quieres que abra las ventanas?
+- 18. ¿Quieres que cierre la puerta?
+- 19. ¿Quieres que pague la cuenta?
+- 20. ¿Quieres que pida más servilletas?
+- 21. ¿Quieres que organice los archivos?
+- 22. ¿Quieres que corte el césped?
+- 23. ¿Quieres que te traiga un café?
+- 24. ¿Quieres que te compre un café?
+- 25. ¿Quieres que te deje en paz?
+- 26. ¿Qué quieres que diga?
+- 27. ¿Qué quieres que te diga?
+- 28. ¿Quieres que te esperemos?
+- 29. ¿Quieres que te eche/dé una mano?
+- 30. ¿Quieres que te lleve a casa?
