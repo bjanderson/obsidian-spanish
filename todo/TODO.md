@@ -13,15 +13,3 @@ Add items with the `add-todo` skill. Mark items done with the `complete-todo` sk
 which moves them to `TODONE.md`.
 
 ---
-
-## TD-001 — `npm install` isn't writing a package-lock.json
-
-- **Type:** discovery
-- **Created:** 2026-08-09
-
-Ran `npm install` twice in the vault root (for the `md-to-pdf` dependency used by the
-`new-lesson` skill's practice-PDF step) and no `package-lock.json` was generated either
-time, even though `package.json` and `node_modules/` were created normally. Likely an
-`.npmrc` setting (local or global) with `package-lock=false`, or an npm config default
-on this machine. Worth tracking down so installs stay reproducible — right now a fresh
-`npm install` could silently resolve different transitive versions of `md-to-pdf`.

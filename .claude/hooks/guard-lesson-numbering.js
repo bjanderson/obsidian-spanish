@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 // PreToolUse hook (Write|Edit matcher). Blocks creating a lesson/flashcard file whose
-// NNN prefix is already used by a different topic in the same directory.
-// Enforces CLAUDE.md "Numbering rule: never reuse an existing number."
+// CEFR code is already used by a different topic in the same folder.
+// Enforces CLAUDE.md "Numbering rule: never reuse an existing CEFR code."
 const fs = require("fs");
 const path = require("path");
 
@@ -13,12 +13,14 @@ try {
 }
 
 const filePath = (data.tool_input && data.tool_input.file_path) || "";
-const m = filePath.match(/[\\/](01 Lessons|04 Flashcards)[\\/](\d{3}) (.+)\.md$/);
+if (!/[\\/](01 Lessons|04 Flashcards)[\\/]/.test(filePath)) process.exit(0);
+
+const base = path.basename(filePath);
+const m = base.match(/^([A-C][12](?:\.\d+){3}) (.+)\.md$/);
 if (!m) process.exit(0);
 
 const dir = path.dirname(filePath);
-const number = m[2];
-const base = path.basename(filePath);
+const code = m[1];
 
 let entries = [];
 try {
@@ -27,8 +29,8 @@ try {
   process.exit(0);
 }
 
-const numberPrefix = new RegExp("^" + number + " ");
-const collision = entries.find((f) => f !== base && numberPrefix.test(f));
+const codePrefix = new RegExp("^" + code.replace(/\./g, "\\.") + " ");
+const collision = entries.find((f) => f !== base && codePrefix.test(f));
 
 if (collision) {
   console.log(
@@ -36,7 +38,7 @@ if (collision) {
       hookSpecificOutput: {
         hookEventName: "PreToolUse",
         permissionDecision: "deny",
-        permissionDecisionReason: `Lesson/flashcard number ${number} is already used by "${collision}" in this directory. Lesson numbers must never be reused — pick the next unused number.`,
+        permissionDecisionReason: `CEFR code ${code} is already used by "${collision}" in this folder. Lesson codes must never be reused — pick the correct unused code from CEFR/CEFR-Outline.md.`,
       },
     })
   );

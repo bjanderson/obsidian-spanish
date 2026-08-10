@@ -1,16 +1,15 @@
 ---
 type: lesson
-number: 000
-title: { { title } }
+code: {{code}}
+title: {{title}}
 status: draft # draft | in-progress | complete
 youtube:
-anki_deck: Spanish::{{title}}
 category: []
 tags:
   - spanish
   - topic
   - ...
-created: { { date } }
+created: {{date}}
 related: []
 ---
 
@@ -46,17 +45,14 @@ related: []
 
 ## Practice
 
-![[01 - {{title}} - Practice.pdf]]
+<!-- Path mirrors the lesson's nested CEFR folder — see CEFR/CEFR-Folder-Structure.md -->
 
-Or link: [[Practices/01 - {{title}} - Practice.pdf]]
+![[03 Attachments/{{level}}/{{section}}/{{subsection}}/{{code}} {{title}}/{{code}} {{title}} - Practice.pdf]]
 
 ## Flashcards
 
-<!-- Link to the FLashcards folder -->
-
-See: [[04 Flashcards/{{title}}]]
+See: [[04 Flashcards/{{level}}/{{section}}/{{subsection}}/{{code}} {{title}}]]
 
 ## Related Lessons
 
-- [[002 Personal a]]
 - ...

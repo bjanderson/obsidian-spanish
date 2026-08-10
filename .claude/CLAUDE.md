@@ -15,12 +15,6 @@ focused (one grammar point or word per lesson — e.g. "Querer," "the personal a
 - CLI Docs: https://obsidian.md/cli
 - Developer Docs: https://docs.obsidian.md/Home
 
-#### Plugin: Simple Anki Sync
-
-- Repo: https://github.com/lukmay/simple-anki-sync
-- Community page: https://community.obsidian.md/plugins/simple-anki-sync
-- Stats/overview: https://www.obsidianstats.com/plugins/simple-anki-sync
-
 ### Anki
 
 Profile: Obsidian Flashcards
@@ -30,7 +24,7 @@ Profile: Obsidian Flashcards
 
 #### Add-on: AnkiConnect
 
-Connection: https://localhost:8765
+Connection: http://localhost:8765
 Addon page: https://ankiweb.net/shared/info/2055492159
 Source/docs: https://git.sr.ht/~foosoft/anki-connect (or GitHub mirrors)
 
@@ -44,11 +38,25 @@ under `01 Lessons/`, `04 Flashcards/`, `03 Attachments/`, or `02 MOCs/`).
 
 - Use `./Welcome.md` as the entry point to this vault. Assume that it will be opened first, and make it easy to navigate the rest of the vault from there.
 - `00 Templates/` — Lesson Template.md, Flashcard Set Template.md
-- `01 Lessons/` — one file per lesson, named `NNN Topic.md` (3-digit prefix). Empty as of 2026-08-09 — no lessons created yet, so the next lesson number is `001`.
+- `01 Lessons/` — nested by CEFR code, one file per lesson at the most granular
+  (4th-segment) code. See "Numbering rule" below for the exact folder pattern.
+  `02 MOCs/` is the only content folder that does *not* follow this nested pattern.
 - `02 MOCs/` — content map: one file per grammar category, manually linking to lessons
-- `03 Attachments/NNN Topic/` — PDF practice sheets for that lesson
-- `04 Flashcards/` — one file per lesson, named `NNN Topic.md`, matching the lesson's number exactly
+- `03 Attachments/<same nested path>/<code> Title/` — PDF practice sheets for that lesson
+- `04 Flashcards/<same nested path>/` — one file per lesson, named `<code> Title.md`,
+  matching the lesson file's code and title exactly
 - `CEFR/CEFR-Outline.md` — a leveled (A1-C2) curriculum outline with alphanumeric codes (e.g. `A1.3.2`). The user may reference a code and ask to "add a lesson on X to section Y.Z" — use this file to find what that code covers. Use this outline to name and organize files and folders that contain the course content (lessons, attachments, flashcards, etc...)
+- `CEFR/CEFR-Folder-Structure.md` — the authoritative pattern for how CEFR codes map
+  to nested folder/file names across `01 Lessons/`, `03 Attachments/`, and
+  `04 Flashcards/` (and the Anki deck tag). Treat it as a pattern to follow, not a
+  fixed list — only the branches for lessons that actually exist need to exist on disk.
+- `CEFR/CEFR-YouTube-Channels.md` — the approved list of YouTube channels for a
+  lesson's `youtube` field, with each channel's CEFR range and focus, plus a
+  CEFR-stage-to-channel mapping table. When finding a video for a lesson (see
+  "Creating a new lesson" below), the video must come from a channel on this list —
+  match the channel's focus and level to the lesson's CEFR code and topic. If you
+  come across a channel that fits this list's pattern but isn't on it, suggest it to
+  the user instead of using it or adding it yourself.
 - `Qroo/beginner-course/` — raw source material (summaries/exercises) imported from a third-party course ("Qroo Paul's Spanish Master Course", skool.com/qroo). Treat as reference input for drafting lessons, not as vault content itself. **It contains Spain-specific forms (vosotros conjugations, etc.) — strip these out per `.claude/rules/spanish-language.md` when pulling material from it into a lesson.**
 - `todo/TODO.md` / `todo/TODONE.md` — internal bug/improvement/suggestion/insight/discovery tracking for this vault's Claude Code tooling. **Not vault content — never link to `todo/` from a lesson, MOC, `Welcome.md`, or any other note.** A hook (`.claude/hooks/guard-todo-link.js`) blocks this, but don't rely on it. See "Todo tracking" below.
 
@@ -58,16 +66,28 @@ under `01 Lessons/`, `04 Flashcards/`, `03 Attachments/`, or `02 MOCs/`).
 a permanent, never-reused ID (`TD-NNN`).
 
 - To log a bug, improvement, suggestion, insight, or discovery: use the `add-todo` skill.
-- To mark one done (moves it from TODO.md to TODONE.md): use the `complete-todo` skill.
+- To implement the fix for one and mark it done: use the `fix-todo` skill (e.g. "fix
+  TD-002"). It handles the fix and then hands off to `complete-todo`.
+- To just mark one done without doing the fix yourself (moves it from TODO.md to
+  TODONE.md): use the `complete-todo` skill.
 - Log things proactively — if you notice a bug, a rough edge, or a good idea while
   doing unrelated work, add a todo item for it rather than letting it drop, then
   continue with the original task.
 
 ## Numbering rule
 
-Lesson number = next unused integer, zero-padded to 3 digits (001, 002, ...).
-Never renumber existing lessons. The same number is reused for the lesson
-file, its attachment folder, and its flashcard file.
+Lessons are identified by their CEFR code (e.g. `A1.1.1.1`), not a sequential
+number. Look up the code and title wording in `CEFR/CEFR-Outline.md`; use
+`CEFR/CEFR-Folder-Structure.md` for the exact folder/file naming pattern.
+
+- Folder path: `01 Lessons/<Level Code Name>/<Section Code Name>/<Subsection Code Name>/`
+  (e.g. `A1 Breakthrough Absolute Beginner/A1.1 Phonetics Pronunciation Orthography/A1.1.1 Vowels Consonants and Accent Marks/`).
+- Lesson file: `<code> <Title>.md` inside that folder (e.g. `A1.1.1.1 Pure Vowel Sounds.md`).
+- The same nested path and code are reused for the attachment folder
+  (`03 Attachments/<same path>/<code> <Title>/`) and the flashcard file
+  (`04 Flashcards/<same path>/<code> <Title>.md`).
+- Never reuse a CEFR code for a different topic, and never renumber/rename an
+  existing lesson's code once created.
 
 ## Creating a new lesson
 
@@ -92,12 +112,14 @@ the lesson is finalized — never as part of creating the lesson itself.
   lesson doesn't fit existing ones — don't invent a category silently
   without updating this file.)
 - sentence formulas
+- pronunciation
 
 ## What NOT to do
 
-- Don't renumber or rename existing lesson/flashcard files. A hook
-  (`.claude/hooks/guard-lesson-renames.js`) blocks `mv`/`rm` on these paths,
-  but don't rely on the hook — avoid it in the first place.
+- Don't change an existing lesson's CEFR code, or rename/move a finished
+  lesson/flashcard file. A hook (`.claude/hooks/guard-lesson-renames.js`)
+  blocks `mv`/`rm` on these paths, but don't rely on the hook — avoid it in
+  the first place.
 - Don't merge multiple grammar points into a single lesson, even if related.
 - Don't fabricate a YouTube link — leave it blank and flag it if no good
   video exists.
@@ -151,19 +173,24 @@ the lesson is finalized — never as part of creating the lesson itself.
 ## Tooling set up for this vault
 
 - **Skills**: `new-lesson` (full lesson creation workflow), `add-flashcards`
-  (flashcard generation for a finalized lesson), `add-todo` / `complete-todo`
-  (see "Todo tracking" above).
+  (flashcard generation for a finalized lesson), `add-todo` / `fix-todo` /
+  `complete-todo` (see "Todo tracking" above).
 - **Agent**: `spanish-style-reviewer` — read-only check of lesson/flashcard
   content against `.claude/rules/spanish-language.md`. Both skills above
   dispatch it automatically before reporting done.
-- **Rule**: `.claude/rules/spanish-language.md` — path-scoped, auto-loads
+- **Rules**: `.claude/rules/spanish-language.md` — path-scoped, auto-loads
   when Claude touches `01 Lessons/`, `04 Flashcards/`, `03 Attachments/`, or
-  `02 MOCs/`.
+  `02 MOCs/`. `.claude/rules/anki-connect.md` — path-scoped to `04 Flashcards/`,
+  the exact AnkiConnect protocol `add-flashcards` uses to push cards to Anki
+  directly (profile, deck naming, note model, duplicate-avoidance, ID write-back).
 - **Hooks**: `guard-lesson-renames.js` (blocks destructive `mv`/`rm` on
   lesson/flashcard/attachment paths), `guard-lesson-numbering.js` (blocks
-  writing a lesson/flashcard file whose number collides with an existing,
-  differently-named file), and `guard-todo-link.js` (blocks linking `todo/`
-  from vault content). All wired in `.claude/settings.json`.
+  writing a lesson/flashcard file whose CEFR code collides with an existing,
+  differently-named file in the same folder), and `guard-todo-link.js`
+  (blocks linking `todo/` from vault content). All wired in
+  `.claude/settings.json`.
 - **PDF generation**: `md-to-pdf` (npm, installed via `package.json` in the
   vault root — run `npm install` once after cloning). No system PDF engine
   or sudo install required; it bundles its own headless Chromium.
+- **`.npmrc`**: sets `package-lock=false`. This project never commits a
+  `package-lock.json` — don't add one back or fight the setting.
