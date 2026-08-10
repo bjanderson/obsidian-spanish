@@ -3,3 +3,5 @@ dist/
 .env
 .tmp/
 .obsidian/workspace.json
+.obsidian/workspace
+.obsidian/workspace*

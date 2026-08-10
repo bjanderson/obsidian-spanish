@@ -50,8 +50,9 @@ separate later action. Don't stop before that step.
    (different subjects/contexts), Common Mistakes. Follow the Spanish Language and
    English Language rules in CLAUDE.md (neutral Latin American Spanish, no Spain forms,
    personal *a*, *al*/*del* contractions, no redundant subject pronouns, American English).
-   If drawing on `Qroo/beginner-course/` source material, strip any vosotros forms or
-   other Spain-specific Spanish before it goes in the lesson.
+   If drawing on `Qroo/beginner-course/` or `Qroo/intermediate-course/` source
+   material, strip any vosotros forms or other Spain-specific Spanish before it goes
+   into the lesson.
 
 7. **Generate the practice PDF.** `md-to-pdf` has no `--dest` flag and no bare
    `none` value for `--stylesheet` — don't use either; it always writes the PDF
