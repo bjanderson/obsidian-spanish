@@ -28,6 +28,24 @@ flashcards, practice sheets, and MOCs — not Claude's own replies to the user.
 - Use the contractions *al* and *del* (*a + el*, *de + el*). Both are easy to drop when
   translating from English and both are wrong when missing.
 
+## Tone and register (lesson explanations)
+
+- Write a lesson's `Explanation` and `Key Points` prose in a
+  conversational-tutor voice: friendly, plain-spoken, like a patient tutor
+  talking a learner through the point. Use "you," short paragraphs, and
+  relatable comparisons.
+- Lead with a plain-language description, not grammar terminology — e.g.
+  "the word that gets the action" before "direct object." Introduce the
+  standard term right after as a label; don't drop it, the learner needs to
+  recognize it elsewhere.
+- Add a short usage/cultural note when a form's use varies by context,
+  register, or region (e.g. how common it is in fast casual speech vs.
+  formal writing). Skip the note when there's nothing worth flagging — don't
+  add one to every lesson for its own sake.
+- This governs lesson explanatory prose specifically. Flashcard content
+  stays terse per the flashcard template/skill — this section doesn't apply
+  there.
+
 ## Dialect notes
 
 - When a Bolivian usage differs meaningfully from the neutral form (e.g. regional *vos*

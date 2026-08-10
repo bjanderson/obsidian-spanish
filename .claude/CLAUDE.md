@@ -17,16 +17,9 @@ focused (one grammar point or word per lesson — e.g. "Querer," "the personal a
 
 ### Anki
 
-Profile: Obsidian Flashcards
-
-- Website: https://apps.ankiweb.net/
-- Docs: https://docs.ankiweb.net/
-
-#### Add-on: AnkiConnect
-
-Connection: http://localhost:8765
-Addon page: https://ankiweb.net/shared/info/2055492159
-Source/docs: https://git.sr.ht/~foosoft/anki-connect (or GitHub mirrors)
+Anki setup details (profile name, AnkiConnect connection, docs links) live in
+`.claude/rules/anki-connect.md` (auto-loads whenever Claude works with files under
+`04 Flashcards/`).
 
 ## Language conventions
 
@@ -45,6 +38,10 @@ under `01 Lessons/`, `04 Flashcards/`, `03 Attachments/`, or `02 MOCs/`).
 - `03 Attachments/<same nested path>/<code> Title/` — PDF practice sheets for that lesson
 - `04 Flashcards/<same nested path>/` — one file per lesson, named `<code> Title.md`,
   matching the lesson file's code and title exactly
+- `05 Conversations/<same nested path>/` — one file per lesson, named `<code> Title.md`,
+  matching the lesson file's code and title exactly. Contains natural, commonly-occurring
+  conversational sentences using that lesson's grammar point, grouped by the sentence
+  pattern each one follows.
 - `CEFR/CEFR-Outline.md` — a leveled (A1-C2) curriculum outline with alphanumeric codes (e.g. `A1.3.2`). The user may reference a code and ask to "add a lesson on X to section Y.Z" — use this file to find what that code covers. Use this outline to name and organize files and folders that contain the course content (lessons, attachments, flashcards, etc...)
 - `CEFR/CEFR-Folder-Structure.md` — the authoritative pattern for how CEFR codes map
   to nested folder/file names across `01 Lessons/`, `03 Attachments/`, and
@@ -92,14 +89,17 @@ number. Look up the code and title wording in `CEFR/CEFR-Outline.md`; use
 ## Creating a new lesson
 
 Use the `new-lesson` skill (`.claude/skills/new-lesson/`) — it walks the full
-numbering → template → video search → body → practice-PDF → MOC-linking →
-review workflow. Don't hand-roll this from scratch; the skill is the source of
-truth for the exact steps.
+numbering → template → video search → body → practice-PDF →
+conversational-sentences → MOC-linking → review →
+flashcard-generation-and-Anki-sync workflow. Don't hand-roll this from
+scratch; the skill is the source of truth for the exact steps.
 
 ## Creating flashcards
 
-Use the `add-flashcards` skill (`.claude/skills/add-flashcards/`), only after
-the lesson is finalized — never as part of creating the lesson itself.
+Flashcards are generated and pushed to Anki automatically as the last step of
+`new-lesson` — not a separate later action. Use the `add-flashcards` skill
+(`.claude/skills/add-flashcards/`) directly only to regenerate cards for a
+lesson whose content changed after the fact.
 
 ## Categories currently in use (for `category` frontmatter + MOCs)
 
@@ -123,15 +123,15 @@ the lesson is finalized — never as part of creating the lesson itself.
 - Don't merge multiple grammar points into a single lesson, even if related.
 - Don't fabricate a YouTube link — leave it blank and flag it if no good
   video exists.
-- Don't generate flashcards before the lesson content is finalized.
+- Don't generate flashcards for a lesson whose body is still a rough draft
+  with placeholder sections — `new-lesson` only reaches the flashcard step
+  after the body is fully written and reviewed.
 
 ## Token efficiency
 
 - Don't read a whole lesson, flashcard, or `Qroo/` source file to check one
   detail. Use Grep to find the line first, then read only the relevant
   section with an offset/limit.
-- Don't re-read a file right after Edit or Write to confirm the change. The
-  tool call fails loudly if the edit didn't apply — trust it.
 - Use the `new-lesson` and `add-flashcards` skills instead of re-deriving the
   workflow step by step. They already encode the numbering, template, and
   MOC-linking steps.
@@ -146,35 +146,14 @@ the lesson is finalized — never as part of creating the lesson itself.
 - Keep todo entries and MOC descriptions terse — short pointers, not
   restated lesson content (the lesson file is the source of truth).
 
-## Task planning & progress
-
-- Before starting a task with more than 2-3 steps, break it into a todo list
-  with TaskCreate.
-- Show the user the full list up front, before doing any of the work.
-- Mark each item done as soon as it finishes — don't batch updates to the
-  end.
-- After each item completes, post a one-line status update naming the item
-  and its result.
-- Skip this for single-step or trivial requests — a one-line answer doesn't
-  need a list.
-
-## Collaboration
-
-- Before acting on an ambiguous request, ask a clarifying question instead
-  of guessing. Use AskUserQuestion when there are 2-4 concrete options.
-- Don't silently pick a default for a decision the user could reasonably
-  disagree with (scope, file to edit, naming, approach). State the choice
-  and ask, even if it feels minor.
-- When a task could go more than one way, state the options and trade-offs,
-  then ask which one to take — don't just pick one and proceed.
-- If new information changes a plan already agreed on, say so and confirm
-  the change before continuing, rather than adjusting silently.
-
 ## Tooling set up for this vault
 
-- **Skills**: `new-lesson` (full lesson creation workflow), `add-flashcards`
-  (flashcard generation for a finalized lesson), `add-todo` / `fix-todo` /
-  `complete-todo` (see "Todo tracking" above).
+- **Skills**: `new-lesson` (full lesson creation workflow — includes writing
+  the `05 Conversations` sentence file and ends in flashcard generation and
+  Anki sync), `add-flashcards` (flashcard regeneration for an
+  already-existing lesson; also invoked automatically as the last step of
+  `new-lesson`), `add-todo` / `fix-todo` / `complete-todo` (see "Todo
+  tracking" above).
 - **Agent**: `spanish-style-reviewer` — read-only check of lesson/flashcard
   content against `.claude/rules/spanish-language.md`. Both skills above
   dispatch it automatically before reporting done.

@@ -5,15 +5,16 @@ The Anki flashcard file path should follow this pattern also.
 Obsidian tags can't contain spaces or periods, so each segment of the tag is
 sanitized: every space and every period becomes a hyphen.
 
-- e.g. #anki/Spanish/A1-Breakthrough-Absolute-Beginner/A1-1-Phonetics-Pronunciation-Orthography/A1-1-1-Vowels-Consonants-and-Accent-Marks/A1-1-1-1-Pure-Vowel-Sounds
+- e.g. #anki/Spanish/A1-Breakthrough-Absolute-Beginner/A1-1-Phonetics-Pronunciation-Orthography/A1-1-1-Vowels-Consonants-and-Accent-Marks/A1-1-1-2-Pure-Vowel-Sounds
 
 01 Lessons/
 ├── A1 Breakthrough Absolute Beginner/
 │ ├── A1.1 Phonetics Pronunciation Orthography/
 │ │ ├── A1.1.1 Vowels Consonants and Accent Marks/
-│ │ │ ├── A1.1.1.1 Pure Vowel Sounds.md
-│ │ │ ├── A1.1.1.2 Key Consonant Differences.md
-│ │ │ └── A1.1.1.3 Accent Marks for Stress and Meaning.md
+│ │ │ ├── A1.1.1.1 The Spanish Alphabet.md
+│ │ │ ├── A1.1.1.2 Pure Vowel Sounds.md
+│ │ │ ├── A1.1.1.3 Key Consonant Differences.md
+│ │ │ └── A1.1.1.4 Accent Marks for Stress and Meaning.md
 │ │ ├── A1.1.2 Syllable Stress Rules Intonation Basics/
 │ │ │ ├── A1.1.2.1 Natural Stress Rules.md
 │ │ │ ├── A1.1.2.2 Diphthongs and Hiatus.md
@@ -58,7 +59,8 @@ sanitized: every space and every period becomes a hyphen.
 │ │ │ └── A1.4.1.2 Subject Pronoun Omission.md
 │ │ ├── A1.4.2 Interrogative Words Formulating Questions/
 │ │ │ ├── A1.4.2.1 Core Question Words.md
-│ │ │ └── A1.4.2.2 Word Order in Questions.md
+│ │ │ ├── A1.4.2.2 Word Order in Questions.md
+│ │ │ └── A1.4.2.3 Que vs Cual Distinction.md
 │ │ └── A1.4.3 Negation Rules/
 │ │ ├── A1.4.3.1 Simple Negation with No.md
 │ │ └── A1.4.3.2 Double Negatives.md
@@ -89,7 +91,8 @@ sanitized: every space and every period becomes a hyphen.
 │ │ ├── A2.1.3 Imperfect Indicative Form Uses/
 │ │ │ ├── A2.1.3.1 Regular aba and ia Endings.md
 │ │ │ ├── A2.1.3.2 Irregular Imperfect Verbs.md
-│ │ │ └── A2.1.3.3 Imperfect Uses Habits Descriptions.md
+│ │ │ ├── A2.1.3.3 Imperfect Uses Habits Descriptions.md
+│ │ │ └── A2.1.3.4 Habitual Aspect with Soler.md
 │ │ └── A2.1.4 Preterite vs Imperfect Mechanics/
 │ │ ├── A2.1.4.1 Completed Actions vs Background States.md
 │ │ └── A2.1.4.2 Interrupted Actions.md
@@ -115,9 +118,13 @@ sanitized: every space and every period becomes a hyphen.
 │ │ │ ├── A2.3.3.1 Personal Obligation Tener Que Deber.md
 │ │ │ ├── A2.3.3.2 Impersonal Obligation Hay Que.md
 │ │ │ └── A2.3.3.3 Physical Ability Poder.md
-│ │ └── A2.3.4 Verbs Like Gustar Emotional Expression/
-│ │ ├── A2.3.4.1 Gustar Mechanics.md
-│ │ └── A2.3.4.2 Other Indirect Verbs Encantar Doler.md
+│ │ ├── A2.3.4 Verbs Like Gustar Emotional Expression/
+│ │ │ ├── A2.3.4.1 Gustar Mechanics.md
+│ │ │ └── A2.3.4.2 Other Indirect Verbs Encantar Doler.md
+│ │ └── A2.3.5 Simple Future Tense/
+│ │ ├── A2.3.5.1 Regular Future Endings.md
+│ │ ├── A2.3.5.2 Irregular Future Stems.md
+│ │ └── A2.3.5.3 Future for Speculation and Probability.md
 │ └── A2.4 Practical Vocabulary Situational Usage/
 │ ├── A2.4.1 Family Home Descriptions/
 │ │ ├── A2.4.1.1 Extended Family Vocabulary.md
@@ -180,9 +187,13 @@ sanitized: every space and every period becomes a hyphen.
 │ │ ├── B1.4.2.1 Por vs Para Core Contrast.md
 │ │ ├── B1.4.2.2 Personal A Rule.md
 │ │ └── B1.4.2.3 Prepositional Pronouns.md
-│ └── B1.4.3 Connectors Transition Words/
-│ ├── B1.4.3.1 Additive Contrastive Connectors.md
-│ └── B1.4.3.2 Causal Consequential Connectors.md
+│ ├── B1.4.3 Connectors Transition Words/
+│ │ ├── B1.4.3.1 Additive Contrastive Connectors.md
+│ │ └── B1.4.3.2 Causal Consequential Connectors.md
+│ └── B1.4.4 Basic Relative Pronouns/
+│ ├── B1.4.4.1 Que as All Purpose Relative Pronoun.md
+│ ├── B1.4.4.2 Quien Quienes for People after Prepositions.md
+│ └── B1.4.4.3 Donde Como Cuando as Relative Adverbs.md
 │
 ├── B2 Vantage Upper Intermediate/
 │ ├── B2.1 Advanced Subjunctive Hypotheticals/
@@ -220,14 +231,24 @@ sanitized: every space and every period becomes a hyphen.
 │ │ └── B2.3.3 Direct Indirect Reported Speech/
 │ │ ├── B2.3.3.1 Tense Shifts Past Reporting.md
 │ │ └── B2.3.3.2 Pronoun and Reference Adjustments.md
-│ └── B2.4 Regional Diversity Colloquialisms/
-│ ├── B2.4.1 General Neutral LatAm Idioms/
-│ │ ├── B2.4.1.1 Trans Regional Idioms.md
-│ │ └── B2.4.1.2 Universal Colloquial Vocabulary.md
-│ └── B2.4.2 Regional Focus Bolivia/
-│ ├── B2.4.2.1 Mechanics Regional Voseo.md
-│ ├── B2.4.2.2 Bolivian Colloquial Slang.md
-│ └── B2.4.2.3 Andean Lowland Phonetics Cadence.md
+│ ├── B2.4 Regional Diversity Colloquialisms/
+│ │ ├── B2.4.1 General Neutral LatAm Idioms/
+│ │ │ ├── B2.4.1.1 Trans Regional Idioms.md
+│ │ │ └── B2.4.1.2 Universal Colloquial Vocabulary.md
+│ │ └── B2.4.2 Regional Focus Bolivia/
+│ │ ├── B2.4.2.1 Mechanics Regional Voseo.md
+│ │ ├── B2.4.2.2 Bolivian Colloquial Slang.md
+│ │ └── B2.4.2.3 Andean Lowland Phonetics Cadence.md
+│ └── B2.5 Neuter Lo and Its Functions/
+│ ├── B2.5.1 Lo as Direct Object Pronoun Review/
+│ │ ├── B2.5.1.1 Lo Replacing Masculine Nouns and Ideas.md
+│ │ └── B2.5.1.2 Lo Referring Back to Stated Concepts.md
+│ ├── B2.5.2 Lo Plus Adjective for Abstract Qualities/
+│ │ ├── B2.5.2.1 Forming Abstract Nouns with Lo Plus Adjective.md
+│ │ └── B2.5.2.2 Lo Que as What That Which.md
+│ └── B2.5.3 Lo in Intensifiers and Idiomatic Expressions/
+│ ├── B2.5.3.1 Lo Plus Adjective Adverb Plus Que Intensification.md
+│ └── B2.5.3.2 Common Idiomatic Uses of Lo.md
 │
 ├── C1 Effective Operational Proficiency/
 │ ├── C1.1 Complex Syntax Relative Clauses/

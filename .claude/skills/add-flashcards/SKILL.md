@@ -1,6 +1,6 @@
 ---
 name: add-flashcards
-description: Generate the Anki-style flashcard file for an already-finalized lesson in this Obsidian vault. Use when the user asks to "make flashcards for lesson X" or "add flashcards for NNN Topic" — never as part of creating a new lesson (see the new-lesson skill's rule against generating flashcards before the lesson is finalized).
+description: Generate the Anki-style flashcard file for a lesson in this Obsidian vault and push the cards to Anki. Invoked automatically as the last step of `new-lesson`. Also use standalone when the user asks to "make flashcards for lesson X", "regenerate flashcards for NNN Topic", or a lesson's content changed after its flashcards were already created.
 ---
 
 # Add Flashcards

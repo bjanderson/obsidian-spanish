@@ -9,17 +9,24 @@ Flashcard files are pushed to Anki directly through AnkiConnect — there is no
 Obsidian plugin in this vault that does this automatically, so `add-flashcards` must
 do it explicitly as its own step.
 
+## Setup reference
+
+- Anki profile: Obsidian Flashcards
+- Anki website: https://apps.ankiweb.net/ — Docs: https://docs.ankiweb.net/
+- AnkiConnect addon page: https://ankiweb.net/shared/info/2055492159
+- AnkiConnect source/docs: https://git.sr.ht/~foosoft/anki-connect (or GitHub mirrors)
+- Connection: http://localhost:8765
+
 ## Prerequisites
 
-- Anki must be running with AnkiConnect installed (`.claude/CLAUDE.md` has the addon
-  page). Check with:
+- Anki must be running with AnkiConnect installed (see addon page above). Check with:
   `curl -s -m 5 http://localhost:8765 -X POST -d '{"action": "version", "version": 6}'`
   If this fails or times out, stop and tell the user to open Anki — don't retry in a
   loop.
 - Always explicitly load the correct profile first — don't guess a profile name, and
   don't assume the currently-open one is correct:
   `curl -s http://localhost:8765 -X POST -d '{"action": "loadProfile", "version": 6, "params": {"name": "Obsidian Flashcards"}}'`
-  This is the profile named in `.claude/CLAUDE.md`. Never call `loadProfile` with any
+  This is the "Obsidian Flashcards" profile above. Never call `loadProfile` with any
   other name without asking the user first — switching profiles changes which
   collection is open in their Anki window.
 

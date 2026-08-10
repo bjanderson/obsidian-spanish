@@ -1,6 +1,6 @@
 ---
 name: new-lesson
-description: Create a new Spanish lesson in this Obsidian vault — numbering, template, YouTube video search, lesson body, practice-sheet PDF, and MOC linking. Use whenever the user asks to "create a lesson on X", "add a lesson about X", or references a CEFR code (e.g. "add A1.3.2 as a lesson").
+description: Create a new Spanish lesson in this Obsidian vault — numbering, template, YouTube video search, lesson body, practice-sheet PDF, conversational-sentence file, MOC linking, and flashcard generation/Anki sync. Use whenever the user asks to "create a lesson on X", "add a lesson about X", or references a CEFR code (e.g. "add A1.3.2 as a lesson").
 ---
 
 # New Lesson
@@ -9,8 +9,9 @@ Create one lesson end to end, following `.claude/CLAUDE.md` exactly. That file i
 source of truth for frontmatter fields, folder layout, and language rules — re-read it
 if this skill and CLAUDE.md ever disagree, CLAUDE.md wins.
 
-Do **not** generate flashcards as part of this skill — flashcards happen only after the
-lesson is finalized, via the separate `add-flashcards` skill.
+This skill's last step generates the lesson's flashcards and pushes them to Anki, via
+the `add-flashcards` skill — flashcards are part of creating a lesson now, not a
+separate later action. Don't stop before that step.
 
 ## Steps
 
@@ -74,16 +75,37 @@ lesson is finalized, via the separate `add-flashcards` skill.
      `![[03 Attachments/<nested path>/<code> Title/<code> Title - Practice.pdf]]` —
      the template's placeholder is a pattern, not a real path; replace it.
 
-8. **Link into the MOC(s).** For each category, open `02 MOCs/<Category>.md`. If it
+8. **Write the conversational-sentences file.** Copy `00 Templates/Conversation Set
+   Template.md` → `05 Conversations/<nested path>/<code> Title.md` (same nested path
+   and code as the lesson). Create any missing folders. Set `lesson: <code>` in the
+   frontmatter. Generate a variety of natural, commonly-occurring conversational
+   sentences that use this lesson's grammar point — the kind of thing a Spanish
+   speaker would actually say, not textbook-only constructions. Group them under
+   3-5 `##` headings, one per distinct sentence pattern the point produces, each
+   with a one-line description and a Spanish | English | Notes table of 4-6
+   sentences (so roughly 15-25 sentences total). Vary subjects, contexts, and
+   register within the neutral-LatAm rules in CLAUDE.md — don't just rephrase the
+   lesson's own Examples table.
+
+9. **Link into the MOC(s).** For each category, open `02 MOCs/<Category>.md`. If it
    doesn't exist yet, create it (heading + a bullet list of lesson links). Add a link to
    the new lesson.
 
-9. **Review before handing back.** Dispatch the `spanish-style-reviewer` agent on the
-   new lesson file (and practice-sheet source Markdown) to catch dialect/style slips —
-   Spain forms, missing personal *a*, missing *al*/*del*, stray subject pronouns. Fix
-   anything it flags before reporting the lesson as done.
+10. **Review the lesson body.** Dispatch the `spanish-style-reviewer` agent on the
+    new lesson file and the conversations file (practice-sheet source Markdown no
+    longer exists on disk by this point — it was deleted in step 7) to catch
+    dialect/style slips — Spain forms, missing personal *a*, missing *al*/*del*,
+    stray subject pronouns. Fix anything it flags.
+
+11. **Generate flashcards and sync to Anki.** Run the `add-flashcards` skill for this
+    same lesson (same code/nested path) — it writes `04 Flashcards/<nested path>/<code>
+    Title.md`, reviews it, and pushes the cards to Anki via AnkiConnect. This step
+    requires Anki to be running with AnkiConnect reachable; if it isn't, stop and tell
+    the user to open Anki rather than skipping the step silently.
 
 ## Report back
 
-State the lesson number/path, whether a video was found, and confirm the PDF was
-generated. Do not mark `status` as anything other than `draft` — that's the user's call.
+State the lesson number/path, whether a video was found, confirm the PDF was
+generated, report the conversations file path and pattern-group count, and report
+the flashcard file path/card count and Anki deck/count from `add-flashcards`. Do not
+mark `status` as anything other than `draft` — that's the user's call.

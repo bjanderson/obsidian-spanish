@@ -12,10 +12,11 @@ Here is your outline expanded one level deeper, breaking down every sub-category
 
 ### A1.1 Phonetics, Pronunciation & Orthography
 
-- **A1.1.1 Vowels, Consonants, and Accent Marks (_Tildes_)**
-- **A1.1.1.1** Pure Vowel Sounds (_A, E, I, O, U_)
-- **A1.1.1.2** Key Consonant Differences (_C, Z, G, J, H, R, RR, Ñ_)
-- **A1.1.1.3** Accent Marks (_Tildes_) for Stress and Meaning Distinctions (_el_ vs. _él_)
+- **A1.1.1 The Alphabet, Vowels, Consonants, and Accent Marks (_Tildes_)**
+- **A1.1.1.1** The Spanish Alphabet (_El Abecedario_) — Letter Names and the Extra Letter Ñ
+- **A1.1.1.2** Pure Vowel Sounds (_A, E, I, O, U_)
+- **A1.1.1.3** Key Consonant Differences (_C, Z, G, J, H, R, RR, Ñ_)
+- **A1.1.1.4** Accent Marks (_Tildes_) for Stress and Meaning Distinctions (_el_ vs. _él_)
 
 - **A1.1.2 Syllable Stress Rules & Intonation Basics**
 - **A1.1.2.1** Natural Stress Rules (Words ending in Vowels, N, or S vs. Consonants)
@@ -76,6 +77,7 @@ Here is your outline expanded one level deeper, breaking down every sub-category
 - **A1.4.2 Interrogative Words & Formulating Questions (_¿Qué?, ¿Dónde?, ¿Quién?_)**
 - **A1.4.2.1** Core Question Words (_Qué, Quién, Dónde, Cuándo, Por qué, Cómo, Cuánto_)
 - **A1.4.2.2** Word Order in Questions (Subject-Verb Inversion)
+- **A1.4.2.3** _Qué_ vs. _Cuál_ Distinction
 
 - **A1.4.3 Negation Rules (_No_, _Nunca_, _Nadie_)**
 - **A1.4.3.1** Simple Negation using _No_ before the Verb
@@ -118,6 +120,7 @@ Here is your outline expanded one level deeper, breaking down every sub-category
 - **A2.1.3.1** Regular `-aba` and `-ía` Endings
 - **A2.1.3.2** The Three Irregular Imperfect Verbs (_ser, ir, ver_)
 - **A2.1.3.3** Uses: Habits, Routines, Descriptions, Age, and Time in the Past
+- **A2.1.3.4** Habitual Aspect with _Soler_ (Present & Imperfect + Infinitive)
 
 - **A2.1.4 Preterite vs. Imperfect: Basic Contrast & Narrative Mechanics**
 - **A2.1.4.1** Completed Actions (Preterite) vs. Ongoing Background States (Imperfect)
@@ -156,6 +159,11 @@ Here is your outline expanded one level deeper, breaking down every sub-category
 - **A2.3.4 Verbs like _Gustar_ & Emotional Expression Basics (_Encantar, Doler_)**
 - **A2.3.4.1** Indirect Pronoun + _Gustar_ Mechanics (_Me gusta_ vs. _Me gustan_)
 - **A2.3.4.2** Other Indirect Verbs (_encantar, doler, importar, faltar_)
+
+- **A2.3.5 Simple Future Tense (_Futuro Simple_)**
+- **A2.3.5.1** Regular Future Endings (_-é, -ás, -á, -emos, -án_)
+- **A2.3.5.2** Irregular Future Stems (_tendr-, pondr-, har-, dir-, sabr-, querr-, vendr-, saldr-, podr-_)
+- **A2.3.5.3** Future for Speculation and Probability (_¿Será...?_)
 
 ### A2.4 Practical Vocabulary & Situational Usage
 
@@ -245,6 +253,11 @@ Here is your outline expanded one level deeper, breaking down every sub-category
 - **B1.4.3.1** Additive and Contrastive Connectors (_Sin embargo, No obstante, Además, Aunque_)
 - **B1.4.3.2** Causal and Consequential Connectors (_Por lo tanto, Ya que, Por eso_)
 
+- **B1.4.4 Basic Relative Pronouns (_Que, Quien, Donde_)**
+- **B1.4.4.1** _Que_ as the All-Purpose Relative Pronoun
+- **B1.4.4.2** _Quien/Quienes_ for People after Prepositions
+- **B1.4.4.3** _Donde, Como, Cuando_ as Relative Adverbs
+
 ---
 
 ## 🔴 Level B2: Vantage / Upper-Intermediate
@@ -307,6 +320,20 @@ Here is your outline expanded one level deeper, breaking down every sub-category
 - **B2.4.2.1** Mechanics of Regional _Voseo_ (Conjugations and Pragmatics)
 - **B2.4.2.2** Bolivian-Specific Colloquial Vocabulary and Expressions (_Choco, Ya pues, Ch’aki_)
 - **B2.4.2.3** Intonation, Cadence, and Phonetic Variations in Andean and Lowland Bolivia
+
+### B2.5 The Neuter _Lo_ and Its Functions
+
+- **B2.5.1 Lo as a Direct Object Pronoun Review**
+- **B2.5.1.1** _Lo_ Replacing Masculine Nouns and Ideas
+- **B2.5.1.2** _Lo_ Referring Back to Previously Stated Adjectives/Concepts
+
+- **B2.5.2 Lo + Adjective for Abstract Qualities (_Lo bueno, lo importante_)**
+- **B2.5.2.1** Forming Abstract Nouns with _Lo_ + Adjective
+- **B2.5.2.2** _Lo Que_ as "What/That Which"
+
+- **B2.5.3 Lo in Intensifiers and Idiomatic Expressions**
+- **B2.5.3.1** _Lo_ + Adjective/Adverb + _Que_ for Intensification
+- **B2.5.3.2** Common Idiomatic Uses of _Lo_
 
 ---
 

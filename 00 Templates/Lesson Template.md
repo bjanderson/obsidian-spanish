@@ -53,6 +53,10 @@ related: []
 
 See: [[04 Flashcards/{{level}}/{{section}}/{{subsection}}/{{code}} {{title}}]]
 
+## Conversations
+
+See: [[05 Conversations/{{level}}/{{section}}/{{subsection}}/{{code}} {{title}}]]
+
 ## Related Lessons
 
 - ...
