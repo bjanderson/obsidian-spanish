@@ -58,6 +58,27 @@ Here is your updated master list of YouTube channels for learning Latin American
 
 ---
 
+### 🔁 Secondary / Fallback Channels
+
+Use these **only when none of the 13 channels above have a video covering the
+lesson's exact topic** — e.g. narrow phonetics points (syllable stress, diphthongs,
+intonation) that the primary grammar-focused channels don't cover. Always check the
+full master list first.
+
+14. **[LearnCraft Spanish](https://www.youtube.com/@learncraftspanish)** — **A1 – B1**
+
+- **Focus:** Short, targeted pronunciation and grammar-rule videos (e.g. syllable stress) filling gaps the primary channels don't cover.
+
+15. **[Professor Jason – Spanish and Portuguese](https://www.youtube.com/@Professorjason)** — **A1 – A2**
+
+- **Focus:** University-style phonetics lessons — vowel combinations, diphthongs, and hiatus.
+
+16. **[The Touring Experience](https://www.youtube.com/@EspagnolEnLigne)** — **A1 – A2**
+
+- **Focus:** Short intonation and pronunciation drills, including statement-vs-question pitch contrast.
+
+---
+
 ### 📌 Master CEFR Mapping & Methodology Alignment
 
 | CEFR Stage               | Primary Formula & Grammar Channels                                 | Primary Immersion & Conversation Channels | Focus Area |

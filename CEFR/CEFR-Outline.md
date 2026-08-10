@@ -118,10 +118,9 @@ the pace table as a planning default, not a commitment; adjust freely.
 
 ## Next Steps
 
-1. A1.1.1 (The Alphabet, Vowels, Consonants, and Accent Marks) is complete. Continue
-   with A1.1.2 (Syllable Stress Rules, Intonation Basics) next, then finish the rest of
-   A1.1 before moving to A1.2, so the phonetics foundation is complete before grammar
-   starts stacking on top of it.
+1. A1.1.1 and A1.1.2 are complete. Continue with A1.1.3 (Punctuation & Orthographic
+   Conventions) next, then move to A1.2, so the phonetics foundation is complete before
+   grammar starts stacking on top of it.
 2. Work levels in order — the Qroo source material and the channel progression are
    both sequential, and later lessons assume earlier ones.
 3. Revisit the pacing table after the first few weeks of actual lesson-building time
@@ -151,9 +150,9 @@ general phonetics knowledge.
 
 | Code     | Topic                                                                 | Formula | Immersion | Qroo Source | Status |
 | -------- | --------------------------------------------------------------------- | ------- | --------- | ----------- | ------ |
-| A1.1.2.1 | Natural Stress Rules (Words ending in Vowels, N, or S vs. Consonants) | LT      | DS        | —           |        |
-| A1.1.2.2 | Diphthongs (_Diptongos_) and Hiatus (_Hiatos_)                        | LT      | DS        | —           |        |
-| A1.1.2.3 | Pitch and Cadence in Statements vs. Questions                         | BF      | DS, ES    | —           |        |
+| A1.1.2.1 | Natural Stress Rules (Words ending in Vowels, N, or S vs. Consonants) | LT      | DS        | —           | ✅     |
+| A1.1.2.2 | Diphthongs (_Diptongos_) and Hiatus (_Hiatos_)                        | LT      | DS        | —           | ✅     |
+| A1.1.2.3 | Pitch and Cadence in Statements vs. Questions                         | BF      | DS, ES    | —           | ✅     |
 
 **A1.1.3 Punctuation & Orthographic Conventions**
 

@@ -4,3 +4,6 @@
 - [[A1.1.1.2 Pure Vowel Sounds]]
 - [[A1.1.1.3 Key Consonant Differences]]
 - [[A1.1.1.4 Accent Marks for Stress and Meaning]]
+- [[A1.1.2.1 Natural Stress Rules]]
+- [[A1.1.2.2 Diphthongs and Hiatus]]
+- [[A1.1.2.3 Pitch and Cadence]]
