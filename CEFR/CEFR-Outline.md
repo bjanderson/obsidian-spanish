@@ -118,8 +118,8 @@ the pace table as a planning default, not a commitment; adjust freely.
 
 ## Next Steps
 
-1. A1.1 through A1.5 and A2.1 are complete. Continue with A2.2
-   (Object Pronouns & Reflexive Verbs) next.
+1. A1.1 through A1.5, A2.1, and A2.2 are complete. Continue with A2.3
+   (Verbal Periphrasis, Modals & Future Intentions) next.
 2. Work levels in order — the Qroo source material and the channel progression are
    both sequential, and later lessons assume earlier ones.
 3. Revisit the pacing table after the first few weeks of actual lesson-building time
@@ -342,7 +342,7 @@ section directly.
 | -------- | -------------------------------------------------------------------- | ------- | --------- | ----------------------------------------------------------------- | ------ |
 | A2.2.3.1 | Reflexive Pronouns (_me, te, se, nos, se_)                           | QP      | WNS       | `Lesson-19-Pronominal-Verbs.md`, `Summary-25.md`/`Exercise-25...` | ✅     |
 | A2.2.3.2 | Common Daily Routine Verbs (_despertarse, ducharse, acostarse_)      | QP      | WNS, SG   | `Lesson-19-Pronominal-Verbs.md`                                   | ✅     |
-| A2.2.3.3 | Non-Reflexive vs. Reflexive Meaning Shifts (_dormir_ vs. _dormirse_) | QP      | WNS       | `Summary-25.md`, `summary-26.md`/`Lesson-26-Exercise.md`          |        |
+| A2.2.3.3 | Non-Reflexive vs. Reflexive Meaning Shifts (_dormir_ vs. _dormirse_) | QP      | WNS       | `Summary-25.md`, `summary-26.md`/`Lesson-26-Exercise.md`          | ✅     |
 
 ### A2.3 Verbal Periphrasis, Modals & Future Intentions
 

@@ -11,3 +11,4 @@
 - [[A1.3.4.2 Yo GO Irregular Verbs]]
 - [[A1.3.4.3 Irregular Tener and Ir]]
 - [[A2.1.3.4 Habitual Aspect with Soler]]
+- [[A2.2.3.3 Non Reflexive vs Reflexive Meaning Shifts]]
