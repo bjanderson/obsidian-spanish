@@ -340,7 +340,7 @@ section directly.
 
 | Code     | Topic                                                                | Formula | Immersion | Qroo Source                                                       | Status |
 | -------- | -------------------------------------------------------------------- | ------- | --------- | ----------------------------------------------------------------- | ------ |
-| A2.2.3.1 | Reflexive Pronouns (_me, te, se, nos, se_)                           | QP      | WNS       | `Lesson-19-Pronominal-Verbs.md`, `Summary-25.md`/`Exercise-25...` |        |
+| A2.2.3.1 | Reflexive Pronouns (_me, te, se, nos, se_)                           | QP      | WNS       | `Lesson-19-Pronominal-Verbs.md`, `Summary-25.md`/`Exercise-25...` | ✅     |
 | A2.2.3.2 | Common Daily Routine Verbs (_despertarse, ducharse, acostarse_)      | QP      | WNS, SG   | `Lesson-19-Pronominal-Verbs.md`                                   |        |
 | A2.2.3.3 | Non-Reflexive vs. Reflexive Meaning Shifts (_dormir_ vs. _dormirse_) | QP      | WNS       | `Summary-25.md`, `summary-26.md`/`Lesson-26-Exercise.md`          |        |
 
