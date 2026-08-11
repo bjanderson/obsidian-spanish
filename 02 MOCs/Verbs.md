@@ -10,3 +10,4 @@
 - [[A1.3.4.1 Stem Changers e ie o ue e i]]
 - [[A1.3.4.2 Yo GO Irregular Verbs]]
 - [[A1.3.4.3 Irregular Tener and Ir]]
+- [[A2.1.3.4 Habitual Aspect with Soler]]

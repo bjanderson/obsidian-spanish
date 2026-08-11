@@ -311,7 +311,7 @@ section directly.
 | A2.1.3.1 | Regular _-aba_ and _-ía_ Endings                                | QP, SD  | WNS       | `imperfect-tense-conjugation.md`, `Summary-40.md` | ✅     |
 | A2.1.3.2 | The Three Irregular Imperfect Verbs (_ser, ir, ver_)            | QP      | WNS       | `imperfect-tense-conjugation.md`, `Summary-40.md` | ✅     |
 | A2.1.3.3 | Uses: Habits, Routines, Descriptions, Age, and Time in the Past | QP      | WNS       | `Summary-40.md`                                   | ✅     |
-| A2.1.3.4 | Habitual Aspect with _Soler_ (Present & Imperfect + Infinitive) | QP      | WNS       | `summary-64.md`                                   |        |
+| A2.1.3.4 | Habitual Aspect with _Soler_ (Present & Imperfect + Infinitive) | QP      | WNS       | `summary-64.md`                                   | ✅     |
 
 **A2.1.4 Preterite vs. Imperfect: Basic Contrast & Narrative Mechanics**
 
