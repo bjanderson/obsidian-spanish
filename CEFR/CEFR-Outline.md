@@ -118,9 +118,8 @@ the pace table as a planning default, not a commitment; adjust freely.
 
 ## Next Steps
 
-1. A1.1.1 and A1.1.2 are complete. Continue with A1.1.3 (Punctuation & Orthographic
-   Conventions) next, then move to A1.2, so the phonetics foundation is complete before
-   grammar starts stacking on top of it.
+1. A1.1.1, A1.1.2, and A1.1.3 are complete. Continue with A1.2 next, so the
+   phonetics foundation is complete before grammar starts stacking on top of it.
 2. Work levels in order — the Qroo source material and the channel progression are
    both sequential, and later lessons assume earlier ones.
 3. Revisit the pacing table after the first few weeks of actual lesson-building time
@@ -158,8 +157,8 @@ general phonetics knowledge.
 
 | Code     | Topic                                                      | Formula | Immersion | Qroo Source | Status |
 | -------- | ---------------------------------------------------------- | ------- | --------- | ----------- | ------ |
-| A1.1.3.1 | Inverted Punctuation Marks (¿? and ¡!)                     | LT      | SP101     | —           |        |
-| A1.1.3.2 | Capitalization Rules (Days, Months, Languages, and Titles) | LT      | SP101     | —           |        |
+| A1.1.3.1 | Inverted Punctuation Marks (¿? and ¡!)                     | LT      | SP101     | —           | ✅     |
+| A1.1.3.2 | Capitalization Rules (Days, Months, Languages, and Titles) | LT      | SP101     | —           | ✅     |
 
 ### A1.2 Nouns, Adjectives & Articles
 

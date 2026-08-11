@@ -7,3 +7,5 @@
 - [[A1.1.2.1 Natural Stress Rules]]
 - [[A1.1.2.2 Diphthongs and Hiatus]]
 - [[A1.1.2.3 Pitch and Cadence]]
+- [[A1.1.3.1 Inverted Punctuation Marks]]
+- [[A1.1.3.2 Capitalization Rules]]
