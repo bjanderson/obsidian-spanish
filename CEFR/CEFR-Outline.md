@@ -333,7 +333,7 @@ section directly.
 
 | Code     | Topic                                                                | Formula | Immersion | Qroo Source                                    | Status |
 | -------- | -------------------------------------------------------------------- | ------- | --------- | ---------------------------------------------- | ------ |
-| A2.2.2.1 | Form and Identification of Indirect Objects                          | QP      | WNS       | `Redundant-LE.md`                              |        |
+| A2.2.2.1 | Form and Identification of Indirect Objects                          | QP      | WNS       | `Redundant-LE.md`                              | ✅     |
 | A2.2.2.2 | Mandatory Redundant Indirect Object Pronoun Usage (_Le digo a Juan_) | QP      | WNS       | `Redundant-LE.md`, `Redundant-LE-Exercise2.md` |        |
 
 **A2.2.3 Reflexive Verbs & Daily Routines (_Me lavo, se viste_)**
