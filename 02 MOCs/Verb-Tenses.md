@@ -5,3 +5,4 @@
 - [[A2.1.2.1 Total Irregulars Ser Ir Dar Ver]]
 - [[A2.1.2.2 Root Changing Irregulars]]
 - [[A2.1.2.3 Orthographic Preterite Changes]]
+- [[A2.1.3.1 Regular aba and ia Endings]]
