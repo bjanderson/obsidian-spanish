@@ -1,11 +1,8 @@
 ---
-lesson: {{code}}
+lesson: { { code } }
 ---
 
 # {{title}} — Conversational Sentences
-
-Natural sentences a Spanish speaker would actually say, using this lesson's point,
-grouped by the pattern each sentence follows.
 
 ## {{Pattern name 1}}
 

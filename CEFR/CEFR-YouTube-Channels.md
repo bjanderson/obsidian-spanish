@@ -81,6 +81,10 @@ full master list first.
 
 - **Focus:** Short, focused grammar-rule videos filling narrow gaps (e.g. punctuation, invariable adjectives) the primary channels don't cover. Content draws on speakers from both Spain and Latin America — check each video against the neutral Latin American Spanish rule before using it in a lesson.
 
+18. **[Learn Spanish With David](https://www.youtube.com/@learnspanishwithdavid)** — **A1 – B2**
+
+- **Focus:** Shortcut-style breakdowns of tricky grammar points (_por_ vs. _para_, past tense, word order) and practical conversation tips. Creator is based in Spain — check each video against the neutral Latin American Spanish rule before using it in a lesson.
+
 ---
 
 ### 📌 Master CEFR Mapping & Methodology Alignment

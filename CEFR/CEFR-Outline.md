@@ -118,9 +118,8 @@ the pace table as a planning default, not a commitment; adjust freely.
 
 ## Next Steps
 
-1. A1.1 and A1.2 are complete. Continue with A1.3 (Essential Verbs & Present
-   Indicative) next — Qroo's densest early stretch, covering _ser_, _estar_, and
-   regular -AR/-ER/-IR verbs.
+1. A1.1, A1.2, and A1.3 are complete. Continue with A1.4 (Pronouns & Sentence
+   Structure) next.
 2. Work levels in order — the Qroo source material and the channel progression are
    both sequential, and later lessons assume earlier ones.
 3. Revisit the pacing table after the first few weeks of actual lesson-building time
@@ -195,38 +194,38 @@ Qroo's densest early stretch — most of Master Course Lessons 1–14 land here.
 
 | Code     | Topic                                                                      | Formula | Immersion | Qroo Source                        | Status |
 | -------- | -------------------------------------------------------------------------- | ------- | --------- | ---------------------------------- | ------ |
-| A1.3.1.1 | Conjugation of _Ser_ in Present Indicative                                 | LT, SD  | BF        | `Summary-13a.md`, `exercise-13.md` |        |
-| A1.3.1.2 | Core Uses: Identity, Nationality, Profession, and Physical Characteristics | LT, SD  | BF        | `Summary-13a.md`                   |        |
+| A1.3.1.1 | Conjugation of _Ser_ in Present Indicative                                 | LT, SD  | BF        | `Summary-13a.md`, `exercise-13.md` | ✅     |
+| A1.3.1.2 | Core Uses: Identity, Nationality, Profession, and Physical Characteristics | LT, SD  | BF        | `Summary-13a.md`                   | ✅     |
 
 **A1.3.2 The Verb _Estar_ (Location, States, Conditions)**
 
 | Code     | Topic                                                               | Formula | Immersion | Qroo Source                                                                | Status |
 | -------- | ------------------------------------------------------------------- | ------- | --------- | -------------------------------------------------------------------------- | ------ |
-| A1.3.2.1 | Conjugation of _Estar_ in Present Indicative                        | LT, SD  | BF        | `summary12.md`, `Exercise12.md`                                            |        |
-| A1.3.2.2 | Core Uses: Geographic Location, Temporary Physical/Emotional States | LT, SD  | BF        | `summary12.md`, `9-summary.md` (_hay_ vs _estar_ vs prepositions of place) |        |
+| A1.3.2.1 | Conjugation of _Estar_ in Present Indicative                        | LT, SD  | BF        | `summary12.md`, `Exercise12.md`                                            | ✅     |
+| A1.3.2.2 | Core Uses: Geographic Location, Temporary Physical/Emotional States | LT, SD  | BF        | `summary12.md`, `9-summary.md` (_hay_ vs _estar_ vs prepositions of place) | ✅     |
 
 **A1.3.3 Regular `-AR`, `-ER`, `-IR` Verbs in Present Indicative**
 
 | Code     | Topic                     | Formula | Immersion | Qroo Source                               | Status |
 | -------- | ------------------------- | ------- | --------- | ----------------------------------------- | ------ |
-| A1.3.3.1 | `-AR` Conjugation Endings | LT, PS  | BF, SP101 | `present-tense-guide.md`, `Summary-31.md` |        |
-| A1.3.3.2 | `-ER` Conjugation Endings | LT, PS  | BF, SP101 | `present-tense-guide.md`                  |        |
-| A1.3.3.3 | `-IR` Conjugation Endings | LT, PS  | BF, SP101 | `present-tense-guide.md`                  |        |
+| A1.3.3.1 | `-AR` Conjugation Endings | LT, PS  | BF, SP101 | `present-tense-guide.md`, `Summary-31.md` | ✅     |
+| A1.3.3.2 | `-ER` Conjugation Endings | LT, PS  | BF, SP101 | `present-tense-guide.md`                  | ✅     |
+| A1.3.3.3 | `-IR` Conjugation Endings | LT, PS  | BF, SP101 | `present-tense-guide.md`                  | ✅     |
 
 **A1.3.4 High-Frequency Irregular & Stem-Changing Verbs in Present Indicative**
 
 | Code     | Topic                                                    | Formula | Immersion | Qroo Source                                                                           | Status |
 | -------- | -------------------------------------------------------- | ------- | --------- | ------------------------------------------------------------------------------------- | ------ |
-| A1.3.4.1 | Stem-Changers (_e➔ie, o➔ue, e➔i_)                        | SD, QP  | BF        | `master3summary.md` (_querer_), `master-4-summary.md`/`master4-exercise.md` (_poder_) |        |
-| A1.3.4.2 | "Yo-GO" Irregular Verbs (_tengo, hago, pongo, salgo_)    | QP      | BF        | `master-5-summary.md`/`master5-exercise.md` (_tener_), `Poner-Summary.md`             |        |
-| A1.3.4.3 | Irregular Auxiliary Verb _Tener_ and Irregular Verb _Ir_ | QP      | BF        | `master-6-summary.md`, `master-lesson-6-part-two.md`                                  |        |
+| A1.3.4.1 | Stem-Changers (_e➔ie, o➔ue, e➔i_)                        | SD, QP  | BF        | `master3summary.md` (_querer_), `master-4-summary.md`/`master4-exercise.md` (_poder_) | ✅     |
+| A1.3.4.2 | "Yo-GO" Irregular Verbs (_tengo, hago, pongo, salgo_)    | QP      | BF        | `master-5-summary.md`/`master5-exercise.md` (_tener_), `Poner-Summary.md`             | ✅     |
+| A1.3.4.3 | Irregular Auxiliary Verb _Tener_ and Irregular Verb _Ir_ | QP      | BF        | `master-6-summary.md`, `master-lesson-6-part-two.md`                                  | ✅     |
 
 **A1.3.5 Possessive & Demonstrative Adjectives (_Mi, Tu, Este, Ese_)**
 
 | Code     | Topic                                                     | Formula | Immersion | Qroo Source                      | Status |
 | -------- | --------------------------------------------------------- | ------- | --------- | -------------------------------- | ------ |
-| A1.3.5.1 | Short-Form Possessives (_mi, tu, su, nuestro_)            | LT      | BF        | `Summary-19.md`/`Exercise-19.md` |        |
-| A1.3.5.2 | Demonstrative Adjectives by Distance (_este, ese, aquel_) | LT      | BF        | `master-10.md`/`10-exercise.md`  |        |
+| A1.3.5.1 | Short-Form Possessives (_mi, tu, su, nuestro_)            | LT      | BF        | `Summary-19.md`/`Exercise-19.md` | ✅     |
+| A1.3.5.2 | Demonstrative Adjectives by Distance (_este, ese, aquel_) | LT      | BF        | `master-10.md`/`10-exercise.md`  | ✅     |
 
 ### A1.4 Pronouns & Sentence Structure
 

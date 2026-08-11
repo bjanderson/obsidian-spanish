@@ -9,3 +9,5 @@
 - [[A1.2.3.1 Gender and Number Agreement]]
 - [[A1.2.3.2 Noun-First Adjective Placement]]
 - [[A1.2.3.3 Invariable Adjectives]]
+- [[A1.3.5.1 Short Form Possessives]]
+- [[A1.3.5.2 Demonstrative Adjectives by Distance]]
