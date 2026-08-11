@@ -104,9 +104,37 @@ separate later action. Don't stop before that step.
     requires Anki to be running with AnkiConnect reachable; if it isn't, stop and tell
     the user to open Anki rather than skipping the step silently.
 
+12. **Mark the lesson complete, if nothing failed.** If every step above ran to
+    completion with no unresolved error — video found (or its absence already
+    surfaced to the user per step 5, not a silent skip), PDF generated, review
+    findings (if any) fixed, and the Anki push succeeded — then:
+    - Set the lesson file's frontmatter `status: complete`.
+    - Update `CEFR/CEFR-Outline.md`: put a ✅ in the Status column for this
+      lesson's row, and if this was the last unbuilt lesson in its 3-segment
+      subsection, check whether the "Next Steps" section at the top of the file
+      needs updating to point at the next subsection/section.
+    If any step failed, stalled, required stopping to ask the user, or a review
+    finding was left unfixed, leave `status: draft` and don't touch the outline —
+    report what's incomplete instead.
+
+13. **Commit the lesson, only if step 12 marked it complete.** Stage exactly this
+    lesson's files by explicit path — never `git add -A` or `git add .`, since
+    the working tree may hold unrelated in-progress changes:
+    - `01 Lessons/<nested path>/<code> Title.md`
+    - `03 Attachments/<nested path>/<code> Title/<code> Title - Practice.pdf`
+    - `05 Conversations/<nested path>/<code> Title.md`
+    - `04 Flashcards/<nested path>/<code> Title.md`
+    - `02 MOCs/<Category>.md` for each category touched in step 9
+    - `CEFR/CEFR-Outline.md`
+    Commit with the lesson's CEFR code as the entire commit message — just the
+    code itself (e.g. `A1.5.3.3`), no prefix, body, or Co-Authored-By trailer.
+    If step 12 left the lesson as `draft` (something failed or stalled), skip
+    this step entirely — don't commit partial/incomplete lesson work.
+
 ## Report back
 
 State the lesson number/path, whether a video was found, confirm the PDF was
-generated, report the conversations file path and pattern-group count, and report
-the flashcard file path/card count and Anki deck/count from `add-flashcards`. Do not
-mark `status` as anything other than `draft` — that's the user's call.
+generated, report the conversations file path and pattern-group count, report
+the flashcard file path/card count and Anki deck/count from `add-flashcards`,
+state whether the lesson was marked complete (per step 12) or left as draft and
+why, and confirm the commit (per step 13) or note that it was skipped and why.
