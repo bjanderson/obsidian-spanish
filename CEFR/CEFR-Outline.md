@@ -300,7 +300,7 @@ section directly.
 
 | Code     | Topic                                                                 | Formula | Immersion | Qroo Source                                               | Status |
 | -------- | --------------------------------------------------------------------- | ------- | --------- | --------------------------------------------------------- | ------ |
-| A2.1.2.1 | Total Irregulars (_ser/ir, dar, ver_)                                 | QP      | WNS       | `IR-Preterit.md`                                          |        |
+| A2.1.2.1 | Total Irregulars (_ser/ir, dar, ver_)                                 | QP      | WNS       | `IR-Preterit.md`                                          | ✅     |
 | A2.1.2.2 | Root-Changing Irregulars (_hacer, tener, estar, poder, poner, venir_) | QP      | WNS       | `Summary-39.md` (partial coverage — verify against video) |        |
 | A2.1.2.3 | Orthographic Preterite Changes (_-car, -gar, -zar_ in _yo_ form)      | QP      | WNS       | `Summary-39.md` (partial — confirm against video)         |        |
 
