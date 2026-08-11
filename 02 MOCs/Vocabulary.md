@@ -7,3 +7,4 @@
 - [[A1.5.2.2 Calendar Vocabulary]]
 - [[A1.5.3.3 Directional Vocabulary]]
 - [[A2.1.1.3 Time Markers for Preterite]]
+- [[A2.2.3.2 Daily Routine Verbs]]
