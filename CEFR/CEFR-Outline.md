@@ -293,7 +293,7 @@ section directly.
 | Code     | Topic                                                         | Formula | Immersion | Qroo Source                                                               | Status |
 | -------- | ------------------------------------------------------------- | ------- | --------- | ------------------------------------------------------------------------- | ------ |
 | A2.1.1.1 | `-AR` Preterite Conjugation Patterns                          | QP, SD  | WNS       | `preterit-tense-Conjugations.md`, `Summary-39.md`/`Lesson-39-Exercise.md` | ✅     |
-| A2.1.1.2 | `-ER` and `-IR` Preterite Conjugation Patterns                | QP, SD  | WNS       | `preterit-tense-Conjugations.md`, `Summary-39.md`                         |        |
+| A2.1.1.2 | `-ER` and `-IR` Preterite Conjugation Patterns                | QP, SD  | WNS       | `preterit-tense-Conjugations.md`, `Summary-39.md`                         | ✅     |
 | A2.1.1.3 | Time Markers for Preterite (_ayer, anoche, la semana pasada_) | QP      | WNS       | `Summary-39.md`                                                           |        |
 
 **A2.1.2 Preterite Indicative – Common Irregular Verbs**
