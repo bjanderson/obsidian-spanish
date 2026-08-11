@@ -118,8 +118,8 @@ the pace table as a planning default, not a commitment; adjust freely.
 
 ## Next Steps
 
-1. A1.1, A1.2, and A1.3 are complete. Continue with A1.4 (Pronouns & Sentence
-   Structure) next.
+1. A1.1, A1.2, A1.3, and A1.4 are complete. Continue with A1.5 (Functional
+   Vocabulary & Survival Expressions) next.
 2. Work levels in order — the Qroo source material and the channel progression are
    both sequential, and later lessons assume earlier ones.
 3. Revisit the pacing table after the first few weeks of actual lesson-building time
@@ -233,23 +233,23 @@ Qroo's densest early stretch — most of Master Course Lessons 1–14 land here.
 
 | Code     | Topic                                                                  | Formula | Immersion | Qroo Source                              | Status |
 | -------- | ---------------------------------------------------------------------- | ------- | --------- | ---------------------------------------- | ------ |
-| A1.4.1.1 | Subject Pronouns (_yo, tú, él, ella, usted, nosotros, ustedes, ellos_) | LT, LTr | BF        | `master3summary.md` (tú vs. usted intro) |        |
-| A1.4.1.2 | Subject Pronoun Omission (Pro-drop nature of Spanish)                  | LTr     | BF        | —                                        |        |
+| A1.4.1.1 | Subject Pronouns (_yo, tú, él, ella, usted, nosotros, ustedes, ellos_) | LT, LTr | BF        | `master3summary.md` (tú vs. usted intro) | ✅     |
+| A1.4.1.2 | Subject Pronoun Omission (Pro-drop nature of Spanish)                  | LTr     | BF        | —                                        | ✅     |
 
 **A1.4.2 Interrogative Words & Formulating Questions (_¿Qué?, ¿Dónde?, ¿Quién?_)**
 
 | Code     | Topic                                                                    | Formula | Immersion | Qroo Source                                            | Status |
 | -------- | ------------------------------------------------------------------------ | ------- | --------- | ------------------------------------------------------ | ------ |
-| A1.4.2.1 | Core Question Words (_Qué, Quién, Dónde, Cuándo, Por qué, Cómo, Cuánto_) | LT, QP  | SP101     | —                                                      |        |
-| A1.4.2.2 | Word Order in Questions (Subject-Verb Inversion)                         | LT      | SP101     | `summary-60a.md`                                       |        |
-| A1.4.2.3 | _Qué_ vs. _Cuál_ Distinction                                             | QP      | SP101     | `34-Summary.md`/`Lesson-34-exercise-revised-472026.md` |        |
+| A1.4.2.1 | Core Question Words (_Qué, Quién, Dónde, Cuándo, Por qué, Cómo, Cuánto_) | LT, QP  | SP101     | —                                                      | ✅     |
+| A1.4.2.2 | Word Order in Questions (Subject-Verb Inversion)                         | LT      | SP101     | `summary-60a.md`                                       | ✅     |
+| A1.4.2.3 | _Qué_ vs. _Cuál_ Distinction                                             | QP      | SP101     | `34-Summary.md`/`Lesson-34-exercise-revised-472026.md` | ✅     |
 
 **A1.4.3 Negation Rules (_No_, _Nunca_, _Nadie_)**
 
 | Code     | Topic                                                     | Formula | Immersion | Qroo Source | Status |
 | -------- | --------------------------------------------------------- | ------- | --------- | ----------- | ------ |
-| A1.4.3.1 | Simple Negation using _No_ before the Verb                | LT      | BF        | —           |        |
-| A1.4.3.2 | Double Negatives (_No... nada, No... nadie, No... nunca_) | LT      | BF        | —           |        |
+| A1.4.3.1 | Simple Negation using _No_ before the Verb                | LT      | BF        | —           | ✅     |
+| A1.4.3.2 | Double Negatives (_No... nada, No... nadie, No... nunca_) | LT      | BF        | —           | ✅     |
 
 ### A1.5 Functional Vocabulary & Survival Expressions
 
