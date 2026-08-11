@@ -7,3 +7,4 @@
 - [[A2.1.2.3 Orthographic Preterite Changes]]
 - [[A2.1.3.1 Regular aba and ia Endings]]
 - [[A2.1.3.2 Irregular Imperfect Verbs]]
+- [[A2.1.3.3 Imperfect Uses Habits Descriptions]]
