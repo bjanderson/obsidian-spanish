@@ -118,8 +118,8 @@ the pace table as a planning default, not a commitment; adjust freely.
 
 ## Next Steps
 
-1. A1.1, A1.2, A1.3, and A1.4 are complete. Continue with A1.5 (Functional
-   Vocabulary & Survival Expressions) next.
+1. A1.1 through A1.5 are complete — Level A1 is fully built. Continue with A2.1
+   (Past Tenses (Foundations)) next.
 2. Work levels in order — the Qroo source material and the channel progression are
    both sequential, and later lessons assume earlier ones.
 3. Revisit the pacing table after the first few weeks of actual lesson-building time
@@ -257,25 +257,25 @@ Qroo's densest early stretch — most of Master Course Lessons 1–14 land here.
 
 | Code     | Topic                                                            | Formula | Immersion | Qroo Source                          | Status |
 | -------- | ---------------------------------------------------------------- | ------- | --------- | ------------------------------------ | ------ |
-| A1.5.1.1 | Time-of-Day Greetings and Common Farewells                       | SP101   | SG, BF    | `Summary-36.md` (_qué tal_, partial) |        |
-| A1.5.1.2 | Self-Introductions and Asking Names                              | SP101   | SG, BF    | —                                    |        |
-| A1.5.1.3 | Pragmatics of Informality (_Tú_) vs. Formality/Respect (_Usted_) | QP      | SG        | `master3summary.md` (partial)        |        |
+| A1.5.1.1 | Time-of-Day Greetings and Common Farewells                       | SP101   | SG, BF    | `Summary-36.md` (_qué tal_, partial) | ✅     |
+| A1.5.1.2 | Self-Introductions and Asking Names                              | SP101   | SG, BF    | —                                    | ✅     |
+| A1.5.1.3 | Pragmatics of Informality (_Tú_) vs. Formality/Respect (_Usted_) | QP      | SG        | `master3summary.md` (partial)        | ✅     |
 
 **A1.5.2 Numbers, Dates, Days of the Week & Telling Time**
 
 | Code     | Topic                                                    | Formula | Immersion | Qroo Source                                                                                                            | Status |
 | -------- | -------------------------------------------------------- | ------- | --------- | ---------------------------------------------------------------------------------------------------------------------- | ------ |
-| A1.5.2.1 | Cardinal Numbers (0–100+)                                | SP101   | SG        | `summary-22.md`/`Exercise-22...`                                                                                       |        |
-| A1.5.2.2 | Calendar Vocabulary (Days, Months, Dates)                | SP101   | SG        | `summary-22.md`                                                                                                        |        |
-| A1.5.2.3 | Time Expressions (_¿Qué hora es?, Es la..., Son las..._) | SP101   | SG        | `summary-22.md`; `Summary-23.md` (_hace/desde/desde hace_ — more advanced, hold for A1.5.2.3 extension or reuse at B1) |        |
+| A1.5.2.1 | Cardinal Numbers (0–100+)                                | SP101   | SG        | `summary-22.md`/`Exercise-22...`                                                                                       | ✅     |
+| A1.5.2.2 | Calendar Vocabulary (Days, Months, Dates)                | SP101   | SG        | `summary-22.md`                                                                                                        | ✅     |
+| A1.5.2.3 | Time Expressions (_¿Qué hora es?, Es la..., Son las..._) | SP101   | SG        | `summary-22.md`; `Summary-23.md` (_hace/desde/desde hace_ — more advanced, hold for A1.5.2.3 extension or reuse at B1) | ✅     |
 
 **A1.5.3 Immediate Needs, Directions & Basic Shopping/Dining**
 
 | Code     | Topic                                                                   | Formula | Immersion | Qroo Source                                                                                 | Status |
 | -------- | ----------------------------------------------------------------------- | ------- | --------- | ------------------------------------------------------------------------------------------- | ------ |
-| A1.5.3.1 | Expressing Basic Needs (_Necesito..., Quiero..., ¿Dónde está...?_)      | QP      | SG        | `9-summary.md` (_hay_), `master3summary.md`/`master-4-summary.md` (_quiero/puedo_ adjacent) |        |
-| A1.5.3.2 | Ordering Food and Asking for the Check (_La cuenta, por favor_)         | SP101   | SG        | —                                                                                           |        |
-| A1.5.3.3 | Simple Directional Vocabulary (_A la derecha, A la izquierda, Derecho_) | SP101   | SG        | —                                                                                           |        |
+| A1.5.3.1 | Expressing Basic Needs (_Necesito..., Quiero..., ¿Dónde está...?_)      | QP      | SG        | `9-summary.md` (_hay_), `master3summary.md`/`master-4-summary.md` (_quiero/puedo_ adjacent) | ✅     |
+| A1.5.3.2 | Ordering Food and Asking for the Check (_La cuenta, por favor_)         | SP101   | SG        | —                                                                                           | ✅     |
+| A1.5.3.3 | Simple Directional Vocabulary (_A la derecha, A la izquierda, Derecho_) | SP101   | SG        | —                                                                                           | ✅     |
 
 ---
 
