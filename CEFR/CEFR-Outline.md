@@ -326,7 +326,7 @@ section directly.
 
 | Code     | Topic                                      | Formula | Immersion | Qroo Source                      | Status |
 | -------- | ------------------------------------------ | ------- | --------- | -------------------------------- | ------ |
-| A2.2.1.1 | Form and Identification of Direct Objects  | QP      | WNS       | `summary-15.md`/`15-exercise.md` |        |
+| A2.2.1.1 | Form and Identification of Direct Objects  | QP      | WNS       | `summary-15.md`/`15-exercise.md` | ✅     |
 | A2.2.1.2 | Placement directly before Conjugated Verbs | QP      | WNS       | `summary-15.md`                  |        |
 
 **A2.2.2 Indirect Object Pronouns (_Me, te, le, nos, les_)**
