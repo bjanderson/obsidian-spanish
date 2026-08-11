@@ -317,7 +317,7 @@ section directly.
 
 | Code     | Topic                                                                   | Formula | Immersion | Qroo Source                                                                                  | Status |
 | -------- | ----------------------------------------------------------------------- | ------- | --------- | -------------------------------------------------------------------------------------------- | ------ |
-| A2.1.4.1 | Completed Actions (Preterite) vs. Ongoing Background States (Imperfect) | QP, SD  | LE, WNS   | `Deep-3-Summary-(1).md`, `DD-exercise-3-rev492026.md`, `Exercise-Preterite-and-Imperfect.md` |        |
+| A2.1.4.1 | Completed Actions (Preterite) vs. Ongoing Background States (Imperfect) | QP, SD  | LE, WNS   | `Deep-3-Summary-(1).md`, `DD-exercise-3-rev492026.md`, `Exercise-Preterite-and-Imperfect.md` | ✅     |
 | A2.1.4.2 | Interrupted Actions (Imperfect verb + _cuando_ + Preterite verb)        | QP, SD  | LE, WNS   | `Deep-3-Summary-(1).md`, `DD-exercise-3-rev492026.md`                                        |        |
 
 ### A2.2 Object Pronouns & Reflexive Verbs

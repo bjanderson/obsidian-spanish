@@ -8,3 +8,4 @@
 - [[A2.1.3.1 Regular aba and ia Endings]]
 - [[A2.1.3.2 Irregular Imperfect Verbs]]
 - [[A2.1.3.3 Imperfect Uses Habits Descriptions]]
+- [[A2.1.4.1 Completed Actions vs Background States]]
