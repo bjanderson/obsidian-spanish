@@ -118,8 +118,9 @@ the pace table as a planning default, not a commitment; adjust freely.
 
 ## Next Steps
 
-1. A1.1.1, A1.1.2, and A1.1.3 are complete. Continue with A1.2 next, so the
-   phonetics foundation is complete before grammar starts stacking on top of it.
+1. A1.1 and A1.2 are complete. Continue with A1.3 (Essential Verbs & Present
+   Indicative) next — Qroo's densest early stretch, covering _ser_, _estar_, and
+   regular -AR/-ER/-IR verbs.
 2. Work levels in order — the Qroo source material and the channel progression are
    both sequential, and later lessons assume earlier ones.
 3. Revisit the pacing table after the first few weeks of actual lesson-building time
@@ -166,25 +167,25 @@ general phonetics knowledge.
 
 | Code     | Topic                                             | Formula | Immersion | Qroo Source | Status |
 | -------- | ------------------------------------------------- | ------- | --------- | ----------- | ------ |
-| A1.2.1.1 | Standard Gender Endings (_-o_ vs. _-a_)           | LT, PS  | BF        | —           |        |
-| A1.2.1.2 | Common Gender Exceptions (_el problema, la mano_) | LT      | BF        | —           |        |
-| A1.2.1.3 | Pluralization Rules (Adding _-s_ vs. _-es_)       | LT      | BF        | —           |        |
+| A1.2.1.1 | Standard Gender Endings (_-o_ vs. _-a_)           | LT, PS  | BF        | —           | ✅     |
+| A1.2.1.2 | Common Gender Exceptions (_el problema, la mano_) | LT      | BF        | —           | ✅     |
+| A1.2.1.3 | Pluralization Rules (Adding _-s_ vs. _-es_)       | LT      | BF        | —           | ✅     |
 
 **A1.2.2 Definite & Indefinite Articles (_El, La, Un, Una_)**
 
 | Code     | Topic                                                  | Formula | Immersion | Qroo Source                                                                     | Status |
 | -------- | ------------------------------------------------------ | ------- | --------- | ------------------------------------------------------------------------------- | ------ |
-| A1.2.2.1 | Definite Articles (_el, la, los, las_)                 | LT, PS  | BF        | `Summary-21.md` (advanced usage notes — use for context, not the beginner core) |        |
-| A1.2.2.2 | Indefinite Articles (_un, una, unos, unas_)            | LT, PS  | BF        | —                                                                               |        |
-| A1.2.2.3 | Basic Article Omission (e.g., professions after _ser_) | LT      | BF        | —                                                                               |        |
+| A1.2.2.1 | Definite Articles (_el, la, los, las_)                 | LT, PS  | BF        | `Summary-21.md` (advanced usage notes — use for context, not the beginner core) | ✅     |
+| A1.2.2.2 | Indefinite Articles (_un, una, unos, unas_)            | LT, PS  | BF        | —                                                                               | ✅     |
+| A1.2.2.3 | Basic Article Omission (e.g., professions after _ser_) | LT      | BF        | —                                                                               | ✅     |
 
 **A1.2.3 Adjective Agreement & Position**
 
 | Code     | Topic                                                      | Formula | Immersion | Qroo Source                                    | Status |
 | -------- | ---------------------------------------------------------- | ------- | --------- | ---------------------------------------------- | ------ |
-| A1.2.3.1 | Gender and Number Agreement                                | LT, PS  | BF        | `Summary-28.md` (colors as agreement practice) |        |
-| A1.2.3.2 | Standard Noun-First Adjective Placement                    | LT      | BF        | —                                              |        |
-| A1.2.3.3 | Common Invariable Adjectives (e.g., _verde, azul, grande_) | LT      | BF        | `Summary-28.md` (_naranja, café_ exceptions)   |        |
+| A1.2.3.1 | Gender and Number Agreement                                | LT, PS  | BF        | `Summary-28.md` (colors as agreement practice) | ✅     |
+| A1.2.3.2 | Standard Noun-First Adjective Placement                    | LT      | BF        | —                                              | ✅     |
+| A1.2.3.3 | Common Invariable Adjectives (e.g., _verde, azul, grande_) | LT      | BF        | `Summary-28.md` (_naranja, café_ exceptions)   | ✅     |
 
 ### A1.3 Essential Verbs & Present Indicative
 

@@ -77,6 +77,10 @@ full master list first.
 
 - **Focus:** Short intonation and pronunciation drills, including statement-vs-question pitch contrast.
 
+17. **[StoryLearning Spanish](https://www.youtube.com/c/StoryLearningSpanish)** — **A1 – B1**
+
+- **Focus:** Short, focused grammar-rule videos filling narrow gaps (e.g. punctuation, invariable adjectives) the primary channels don't cover. Content draws on speakers from both Spain and Latin America — check each video against the neutral Latin American Spanish rule before using it in a lesson.
+
 ---
 
 ### 📌 Master CEFR Mapping & Methodology Alignment

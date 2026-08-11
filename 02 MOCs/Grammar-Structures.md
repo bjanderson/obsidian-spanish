@@ -1,0 +1,11 @@
+# Grammar Structures
+
+- [[A1.2.1.1 Standard Gender Endings]]
+- [[A1.2.1.2 Common Gender Exceptions]]
+- [[A1.2.1.3 Pluralization Rules]]
+- [[A1.2.2.1 Definite Articles]]
+- [[A1.2.2.2 Indefinite Articles]]
+- [[A1.2.2.3 Basic Article Omission]]
+- [[A1.2.3.1 Gender and Number Agreement]]
+- [[A1.2.3.2 Noun-First Adjective Placement]]
+- [[A1.2.3.3 Invariable Adjectives]]
