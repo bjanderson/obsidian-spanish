@@ -5,3 +5,4 @@
 - [[A2.2.1.1 Direct Objects Identification]]
 - [[A2.2.1.2 Direct Object Placement]]
 - [[A2.2.2.1 Indirect Objects Identification]]
+- [[A2.2.2.2 Redundant Indirect Object Usage]]
