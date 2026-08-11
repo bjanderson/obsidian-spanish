@@ -118,8 +118,8 @@ the pace table as a planning default, not a commitment; adjust freely.
 
 ## Next Steps
 
-1. A1.1 through A1.5 are complete — Level A1 is fully built. Continue with A2.1
-   (Past Tenses (Foundations)) next.
+1. A1.1 through A1.5 and A2.1 are complete. Continue with A2.2
+   (Object Pronouns & Reflexive Verbs) next.
 2. Work levels in order — the Qroo source material and the channel progression are
    both sequential, and later lessons assume earlier ones.
 3. Revisit the pacing table after the first few weeks of actual lesson-building time
@@ -318,7 +318,7 @@ section directly.
 | Code     | Topic                                                                   | Formula | Immersion | Qroo Source                                                                                  | Status |
 | -------- | ----------------------------------------------------------------------- | ------- | --------- | -------------------------------------------------------------------------------------------- | ------ |
 | A2.1.4.1 | Completed Actions (Preterite) vs. Ongoing Background States (Imperfect) | QP, SD  | LE, WNS   | `Deep-3-Summary-(1).md`, `DD-exercise-3-rev492026.md`, `Exercise-Preterite-and-Imperfect.md` | ✅     |
-| A2.1.4.2 | Interrupted Actions (Imperfect verb + _cuando_ + Preterite verb)        | QP, SD  | LE, WNS   | `Deep-3-Summary-(1).md`, `DD-exercise-3-rev492026.md`                                        |        |
+| A2.1.4.2 | Interrupted Actions (Imperfect verb + _cuando_ + Preterite verb)        | QP, SD  | LE, WNS   | `Deep-3-Summary-(1).md`, `DD-exercise-3-rev492026.md`                                        | ✅     |
 
 ### A2.2 Object Pronouns & Reflexive Verbs
 
