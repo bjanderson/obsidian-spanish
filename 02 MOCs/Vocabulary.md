@@ -6,3 +6,4 @@
 - [[A1.5.2.1 Cardinal Numbers 0 to 100]]
 - [[A1.5.2.2 Calendar Vocabulary]]
 - [[A1.5.3.3 Directional Vocabulary]]
+- [[A2.1.1.3 Time Markers for Preterite]]
