@@ -456,7 +456,7 @@ for subjunctive concept, triggers, and imperfect subjunctive.
 
 | Code     | Topic                                                                     | Formula | Immersion | Qroo Source                           | Status |
 | -------- | ------------------------------------------------------------------------- | ------- | --------- | ------------------------------------- | ------ |
-| B1.2.2.1 | Present Subjunctive Stems derived from _Yo_ Form Present Indicative       | SL, QP  | LE        | `Present-Subjunctive-Conjugations.md` |        |
+| B1.2.2.1 | Present Subjunctive Stems derived from _Yo_ Form Present Indicative       | SL, QP  | LE        | `Present-Subjunctive-Conjugations.md` | ✅     |
 | B1.2.2.2 | Opposite Vowel Ending Patterns (_-AR_ ➔ _-e_, _-ER/-IR_ ➔ _-a_)           | SL, QP  | LE        | `Present-Subjunctive-Conjugations.md` |        |
 | B1.2.2.3 | Irregular Subjunctive Stems (DISHES: _Dar, Ir, Ser, Haber, Estar, Saber_) | SL, QP  | LE        | `Present-Subjunctive-Conjugations.md` |        |
 

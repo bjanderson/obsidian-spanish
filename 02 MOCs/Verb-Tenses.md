@@ -21,3 +21,4 @@
 - [[B1.1.2.2 Regular Irregular Past Participles]]
 - [[B1.1.2.3 Life Experiences Open Timeframes]]
 - [[B1.1.3.1 Auxiliary Haber Imperfect]]
+- [[B1.2.2.1 Present Subjunctive Stems]]
