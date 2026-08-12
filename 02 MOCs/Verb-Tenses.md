@@ -26,3 +26,4 @@
 - [[B1.2.2.3 Irregular Subjunctive Stems DISHES]]
 - [[B1.3.1.1 Regular Conditional Endings]]
 - [[B1.3.1.2 Irregular Conditional Stems]]
+- [[B1.3.2.1 Informal Affirmative Tu Commands]]
