@@ -562,7 +562,7 @@ material — draft those from channel + general grammar reference.
 | Code     | Topic                                                                              | Formula | Immersion | Qroo Source | Status |
 | -------- | ---------------------------------------------------------------------------------- | ------- | --------- | ----------- | ------ |
 | B2.1.2.1 | Auxiliary _Haber_ in Present Subjunctive (_haya, hayas..._) + Past Participle      | SL      | LE        | —           | ✅     |
-| B2.1.2.2 | Subjunctive Evaluation of Completed Past Actions (_Espero que hayas llegado bien_) | SL      | LE        | —           |        |
+| B2.1.2.2 | Subjunctive Evaluation of Completed Past Actions (_Espero que hayas llegado bien_) | SL      | LE        | —           | ✅     |
 
 **B2.1.3 Pluperfect Subjunctive (_Pluscuamperfecto de Subjuntivo_)**
 
