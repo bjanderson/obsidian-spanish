@@ -364,7 +364,7 @@ section directly.
 
 | Code     | Topic                                                  | Formula | Immersion | Qroo Source                                                                           | Status |
 | -------- | ------------------------------------------------------ | ------- | --------- | ------------------------------------------------------------------------------------- | ------ |
-| A2.3.3.1 | Personal Obligation (_Tener que_ + Inf, _Deber_ + Inf) | QP      | WNS       | `master-5-summary.md`; `Summary-52.md` (_deber_ tense nuance — advanced, reuse later) |        |
+| A2.3.3.1 | Personal Obligation (_Tener que_ + Inf, _Deber_ + Inf) | QP      | WNS       | `master-5-summary.md`; `Summary-52.md` (_deber_ tense nuance — advanced, reuse later) | ✅     |
 | A2.3.3.2 | Impersonal Obligation (_Hay que_ + Inf)                | QP      | WNS       | `Summary-29.md` (_hay que_ section)                                                   |        |
 | A2.3.3.3 | Physical and Circumstantial Ability (_Poder_ + Inf)    | QP      | WNS       | `master-4-summary.md`/`master4-exercise.md`                                           |        |
 
