@@ -553,7 +553,7 @@ material — draft those from channel + general grammar reference.
 
 | Code     | Topic                                                                         | Formula | Immersion | Qroo Source                                                                                                                               | Status |
 | -------- | ----------------------------------------------------------------------------- | ------- | --------- | ----------------------------------------------------------------------------------------------------------------------------------------- | ------ |
-| B2.1.1.1 | Conjugation derived from 3rd Person Plural Preterite (_-ra/-ras/-ra_ endings) | SL      | LE        | `intermediate-course/Imperfect-Subjunctive-Conjugations.md`, `intermediate-course/Deep-7-summary.md`                                      |        |
+| B2.1.1.1 | Conjugation derived from 3rd Person Plural Preterite (_-ra/-ras/-ra_ endings) | SL      | LE        | `intermediate-course/Imperfect-Subjunctive-Conjugations.md`, `intermediate-course/Deep-7-summary.md`                                      | ✅     |
 | B2.1.1.2 | Past Subjunctive Triggers (Past Main Clause + _Que_ + Imperfect Subjunctive)  | SL      | LE        | `intermediate-course/Deep-7-summary.md`, `Summary-49.md` (_ojalá_), `Summary-51.md` (_cuando/en cuanto/una vez que_ time-clause triggers) |        |
 | B2.1.1.3 | Polite Requests using _Quisiera_ or _Pudiera_                                 | SL      | LE        | `Summary-would.md` (partial)                                                                                                              |        |
 
