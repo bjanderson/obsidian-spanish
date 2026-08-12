@@ -118,8 +118,8 @@ the pace table as a planning default, not a commitment; adjust freely.
 
 ## Next Steps
 
-1. A1.1 through A1.5, A2.1, A2.2, and A2.3 are complete. Continue with A2.4
-   (Practical Vocabulary & Situational Usage) next.
+1. A1 and A2 (all sections) are complete. Continue with B1.1 (Advanced Past
+   Tenses & Aspect Mastery) next.
 2. Work levels in order — the Qroo source material and the channel progression are
    both sequential, and later lessons assume earlier ones.
 3. Revisit the pacing table after the first few weeks of actual lesson-building time
@@ -408,7 +408,7 @@ Thin on Qroo source — mostly channel/immersion-driven vocabulary lessons.
 | -------- | ----------------------------------------------------------------- | ------- | --------- | ----------- | ------ |
 | A2.4.3.1 | Modes of Transit and Purchasing Tickets                           | SP101   | SG        | —           | ✅     |
 | A2.4.3.2 | Hotel Reservations and Travel Logistics                           | SP101   | SG        | —           | ✅     |
-| A2.4.3.3 | Emergency Vocabulary (_¡Ayuda!, Perdí mi..., Necesito un médico_) | SP101   | SG        | —           |        |
+| A2.4.3.3 | Emergency Vocabulary (_¡Ayuda!, Perdí mi..., Necesito un médico_) | SP101   | SG        | —           | ✅     |
 
 ---
 
