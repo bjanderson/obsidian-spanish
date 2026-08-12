@@ -380,7 +380,7 @@ section directly.
 | Code     | Topic                                                                                       | Formula | Immersion | Qroo Source                                                | Status |
 | -------- | ------------------------------------------------------------------------------------------- | ------- | --------- | ---------------------------------------------------------- | ------ |
 | A2.3.5.1 | Regular Future Endings (_-é, -ás, -á, -emos, -án_)                                          | QP, SD  | WNS       | `future-tense.md`, `Summary-37.md`/`Lesson-37-Exercise.md` | ✅     |
-| A2.3.5.2 | Irregular Future Stems (_tendr-, pondr-, har-, dir-, sabr-, querr-, vendr-, saldr-, podr-_) | QP, SD  | WNS       | `future-tense.md`, `Summary-37.md`                         |        |
+| A2.3.5.2 | Irregular Future Stems (_tendr-, pondr-, har-, dir-, sabr-, querr-, vendr-, saldr-, podr-_) | QP, SD  | WNS       | `future-tense.md`, `Summary-37.md`                         | ✅     |
 | A2.3.5.3 | Future for Speculation and Probability (_¿Será...?_)                                        | QP      | WNS       | `Summary-53.md`                                            |        |
 
 ### A2.4 Practical Vocabulary & Situational Usage
