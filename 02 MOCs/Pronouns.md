@@ -7,3 +7,4 @@
 - [[A2.2.2.1 Indirect Objects Identification]]
 - [[A2.2.2.2 Redundant Indirect Object Usage]]
 - [[A2.2.3.1 Reflexive Pronouns]]
+- [[A2.3.4.1 Gustar Mechanics]]

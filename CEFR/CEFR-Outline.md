@@ -372,7 +372,7 @@ section directly.
 
 | Code     | Topic                                                              | Formula | Immersion | Qroo Source     | Status |
 | -------- | ------------------------------------------------------------------ | ------- | --------- | --------------- | ------ |
-| A2.3.4.1 | Indirect Pronoun + _Gustar_ Mechanics (_Me gusta_ vs. _Me gustan_) | QP, SD  | WNS       | `summary16a.md` |        |
+| A2.3.4.1 | Indirect Pronoun + _Gustar_ Mechanics (_Me gusta_ vs. _Me gustan_) | QP, SD  | WNS       | `summary16a.md` | ✅     |
 | A2.3.4.2 | Other Indirect Verbs (_encantar, doler, importar, faltar_)         | QP      | WNS       | `summary-17.md` |        |
 
 **A2.3.5 Simple Future Tense (_Futuro Simple_)**
