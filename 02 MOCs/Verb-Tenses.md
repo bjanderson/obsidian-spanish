@@ -27,3 +27,4 @@
 - [[B1.3.1.1 Regular Conditional Endings]]
 - [[B1.3.1.2 Irregular Conditional Stems]]
 - [[B1.3.2.1 Informal Affirmative Tu Commands]]
+- [[B1.3.2.2 Irregular Tu Commands]]
