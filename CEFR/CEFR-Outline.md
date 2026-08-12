@@ -118,10 +118,9 @@ the pace table as a planning default, not a commitment; adjust freely.
 
 ## Next Steps
 
-1. A1, A2, and all of B1 (B1.1 Advanced Past Tenses & Aspect Mastery, B1.2
-   Introduction to the Subjunctive Mood, B1.3 Conditional & Imperative Moods,
-   B1.4 Pronoun Placement & Syntax Expansion) are complete. Continue with
-   B2.1 (Advanced Subjunctive & Hypothetical Structures) next.
+1. A1, A2, all of B1, and B2.1 (Advanced Subjunctive & Hypothetical
+   Structures) are complete. Continue with B2.2 (Passive Voice, Impersonal
+   Structures & 'Se' Functions) next.
 2. Work levels in order — the Qroo source material and the channel progression are
    both sequential, and later lessons assume earlier ones.
 3. Revisit the pacing table after the first few weeks of actual lesson-building time
@@ -577,7 +576,7 @@ material — draft those from channel + general grammar reference.
 | -------- | ------------------------------------------------------------------------------- | ------- | --------- | ----------- | ------ |
 | B2.1.4.1 | Real/Possible Conditionals (_Si_ + Present Indicative ➔ Future/Present)         | SL      | LE        | —           | ✅     |
 | B2.1.4.2 | Unreal Present Conditionals (_Si_ + Imperfect Subjunctive ➔ Simple Conditional) | SL      | LE        | —           | ✅     |
-| B2.1.4.3 | Unreal Past Conditionals (_Si_ + Pluperfect Subjunctive ➔ Conditional Perfect)  | SL      | LE        | —           |        |
+| B2.1.4.3 | Unreal Past Conditionals (_Si_ + Pluperfect Subjunctive ➔ Conditional Perfect)  | SL      | LE        | —           | ✅     |
 
 ### B2.2 Passive Voice, Impersonal Structures & 'Se' Functions
 
