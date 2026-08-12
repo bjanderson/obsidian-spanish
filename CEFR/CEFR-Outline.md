@@ -407,7 +407,7 @@ Thin on Qroo source — mostly channel/immersion-driven vocabulary lessons.
 | Code     | Topic                                                             | Formula | Immersion | Qroo Source | Status |
 | -------- | ----------------------------------------------------------------- | ------- | --------- | ----------- | ------ |
 | A2.4.3.1 | Modes of Transit and Purchasing Tickets                           | SP101   | SG        | —           | ✅     |
-| A2.4.3.2 | Hotel Reservations and Travel Logistics                           | SP101   | SG        | —           |        |
+| A2.4.3.2 | Hotel Reservations and Travel Logistics                           | SP101   | SG        | —           | ✅     |
 | A2.4.3.3 | Emergency Vocabulary (_¡Ayuda!, Perdí mi..., Necesito un médico_) | SP101   | SG        | —           |        |
 
 ---
