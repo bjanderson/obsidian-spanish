@@ -524,7 +524,7 @@ for subjunctive concept, triggers, and imperfect subjunctive.
 
 | Code     | Topic                                                                            | Formula | Immersion | Qroo Source                                             | Status |
 | -------- | -------------------------------------------------------------------------------- | ------- | --------- | ------------------------------------------------------- | ------ |
-| B1.4.3.1 | Additive and Contrastive Connectors (_Sin embargo, No obstante, Además, Aunque_) | SL      | LE        | —                                                       |        |
+| B1.4.3.1 | Additive and Contrastive Connectors (_Sin embargo, No obstante, Además, Aunque_) | SL      | LE        | —                                                       | ✅     |
 | B1.4.3.2 | Causal and Consequential Connectors (_Por lo tanto, Ya que, Por eso_)            | SL      | LE        | —                                                       |        |
 | B1.4.3.3 | _Pero_ vs. _Sino_ vs. _Sino que_ (Contrastive Conjunctions after Negation)       | SL, QP  | LE        | `intermediate-course/Práctica_-Pero,-Sino,-Sino-que.md` |        |
 
