@@ -391,7 +391,7 @@ Thin on Qroo source — mostly channel/immersion-driven vocabulary lessons.
 
 | Code     | Topic                                                            | Formula | Immersion | Qroo Source                                                                       | Status |
 | -------- | ---------------------------------------------------------------- | ------- | --------- | --------------------------------------------------------------------------------- | ------ |
-| A2.4.1.1 | Expanded Family Tree and Extended Relations Vocabulary           | SP101   | SG, WNS   | —                                                                                 |        |
+| A2.4.1.1 | Expanded Family Tree and Extended Relations Vocabulary           | SP101   | SG, WNS   | —                                                                                 | ✅     |
 | A2.4.1.2 | Housing Types, Rooms, and Domestic Items                         | SP101   | SG        | `vocabrooms.md`                                                                   |        |
 | A2.4.1.3 | Comparative Adjectives (_más... que, menos... que, tan... como_) | QP      | WNS       | `Summary-55.md` (_tan/tanto/mucho/demasiado_ — advanced overlap, use selectively) |        |
 
