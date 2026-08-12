@@ -118,9 +118,10 @@ the pace table as a planning default, not a commitment; adjust freely.
 
 ## Next Steps
 
-1. A1, A2, B1.1 (Advanced Past Tenses & Aspect Mastery), B1.2 (Introduction to
-   the Subjunctive Mood), and B1.3 (Conditional & Imperative Moods) are
-   complete. Continue with B1.4 (Pronoun Placement & Syntax Expansion) next.
+1. A1, A2, and all of B1 (B1.1 Advanced Past Tenses & Aspect Mastery, B1.2
+   Introduction to the Subjunctive Mood, B1.3 Conditional & Imperative Moods,
+   B1.4 Pronoun Placement & Syntax Expansion) are complete. Continue with
+   B2.1 (Advanced Subjunctive & Hypothetical Structures) next.
 2. Work levels in order — the Qroo source material and the channel progression are
    both sequential, and later lessons assume earlier ones.
 3. Revisit the pacing table after the first few weeks of actual lesson-building time
@@ -534,7 +535,7 @@ for subjunctive concept, triggers, and imperfect subjunctive.
 | -------- | --------------------------------------------- | ------- | --------- | --------------------------------------------------------------------- | ------ |
 | B1.4.4.1 | _Que_ as the All-Purpose Relative Pronoun     | SL, QP  | LE        | `intermediate-course/relative-pronouns.md`, `Summary-42.md`           | ✅     |
 | B1.4.4.2 | _Quien/Quienes_ for People after Prepositions | SL, QP  | LE        | `intermediate-course/relative-pronouns.md`, `Summary-42.md` (partial) | ✅     |
-| B1.4.4.3 | _Donde, Como, Cuando_ as Relative Adverbs     | SL, QP  | LE        | `intermediate-course/relative-pronouns.md`, `Summary-42.md` (partial) |        |
+| B1.4.4.3 | _Donde, Como, Cuando_ as Relative Adverbs     | SL, QP  | LE        | `intermediate-course/relative-pronouns.md`, `Summary-42.md` (partial) | ✅     |
 
 ---
 
