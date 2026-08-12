@@ -118,9 +118,9 @@ the pace table as a planning default, not a commitment; adjust freely.
 
 ## Next Steps
 
-1. A1, A2, B1.1 (Advanced Past Tenses & Aspect Mastery), and B1.2 (Introduction
-   to the Subjunctive Mood) are complete. Continue with B1.3 (Conditional &
-   Imperative Moods) next.
+1. A1, A2, B1.1 (Advanced Past Tenses & Aspect Mastery), B1.2 (Introduction to
+   the Subjunctive Mood), and B1.3 (Conditional & Imperative Moods) are
+   complete. Continue with B1.4 (Pronoun Placement & Syntax Expansion) next.
 2. Work levels in order — the Qroo source material and the channel progression are
    both sequential, and later lessons assume earlier ones.
 3. Revisit the pacing table after the first few weeks of actual lesson-building time
@@ -500,7 +500,7 @@ for subjunctive concept, triggers, and imperfect subjunctive.
 | -------- | ----------------------------------------------------------------------------- | ------- | --------- | ------------------------ | ------ |
 | B1.3.3.1 | Negative _Tú_ Commands (Present Subjunctive _Tú_ form)                        | QP      | LE        | `guide-to-imperative.md` | ✅     |
 | B1.3.3.2 | Negative Formal Commands (Negative Present Subjunctive _Usted/Ustedes_ forms) | QP      | LE        | `guide-to-imperative.md` | ✅     |
-| B1.3.3.3 | Pronoun Attachment Rules (Attached to Affirmative, Preceding Negative)        | QP      | LE        | `guide-to-imperative.md` |        |
+| B1.3.3.3 | Pronoun Attachment Rules (Attached to Affirmative, Preceding Negative)        | QP      | LE        | `guide-to-imperative.md` | ✅     |
 
 ### B1.4 Pronoun Placement & Syntax Expansion
 
