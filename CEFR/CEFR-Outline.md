@@ -589,7 +589,7 @@ from channel + reference grammar. Accidental _se_ (B2.2.3) has a direct
 | Code     | Topic                                                                           | Formula | Immersion | Qroo Source | Status |
 | -------- | ------------------------------------------------------------------------------- | ------- | --------- | ----------- | ------ |
 | B2.2.1.1 | Form and Agreement of Canonical Passive Voice (_Ser_ + Past Participle + _por_) | SL      | ES        | —           | ✅     |
-| B2.2.1.2 | Register Appropriateness (Formal/Written Contexts vs. Spoken Alternatives)      | SL      | ES        | —           |        |
+| B2.2.1.2 | Register Appropriateness (Formal/Written Contexts vs. Spoken Alternatives)      | SL      | ES        | —           | ✅     |
 
 **B2.2.2 Impersonal and Passive _Se_ (_Se habla español, Se venden casas_)**
 
