@@ -118,8 +118,9 @@ the pace table as a planning default, not a commitment; adjust freely.
 
 ## Next Steps
 
-1. A1, A2, and B1.1 (Advanced Past Tenses & Aspect Mastery) are complete.
-   Continue with B1.2 (Introduction to the Subjunctive Mood) next.
+1. A1, A2, B1.1 (Advanced Past Tenses & Aspect Mastery), and B1.2 (Introduction
+   to the Subjunctive Mood) are complete. Continue with B1.3 (Conditional &
+   Imperative Moods) next.
 2. Work levels in order — the Qroo source material and the channel progression are
    both sequential, and later lessons assume earlier ones.
 3. Revisit the pacing table after the first few weeks of actual lesson-building time
@@ -473,7 +474,7 @@ for subjunctive concept, triggers, and imperfect subjunctive.
 | -------- | -------------------------------------------------------------------------------- | ------- | --------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ |
 | B1.2.4.1 | Expressions of Emotion (_Me alegra que, Tengo miedo de que_)                     | QP, SL  | LE        | `Summary-49.md` (_ojalá_, adjacent), `intermediate-course/Deep-6-summary.md` (subjunctive triggers), `intermediate-course/subjunctive-worksheet.md` (indicative vs. subjunctive drill) | ✅     |
 | B1.2.4.2 | Expressions of Doubt/Denial (_Dudo que, No creo que_) vs. Certainty (_Creo que_) | QP, SL  | LE        | `Summary-50.md` (indefinite-antecedent subjunctive, adjacent trigger)                                                                                                                  | ✅     |
-| B1.2.4.3 | Impersonal Phrases (_Es importante que, Es necesario que_)                       | QP, SL  | LE        | `Summary-48.md` (_para que_ + subjunctive — closely related trigger)                                                                                                                   |        |
+| B1.2.4.3 | Impersonal Phrases (_Es importante que, Es necesario que_)                       | QP, SL  | LE        | `Summary-48.md` (_para que_ + subjunctive — closely related trigger)                                                                                                                   | ✅     |
 
 ### B1.3 Conditional & Imperative Moods
 
