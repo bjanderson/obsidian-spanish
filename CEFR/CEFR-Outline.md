@@ -517,7 +517,7 @@ for subjunctive concept, triggers, and imperfect subjunctive.
 | Code     | Topic                                                                                                          | Formula | Immersion | Qroo Source                                                                                        | Status |
 | -------- | -------------------------------------------------------------------------------------------------------------- | ------- | --------- | -------------------------------------------------------------------------------------------------- | ------ |
 | B1.4.2.1 | Core Contrast: _Por_ (Cause, Duration, Exchange, Means) vs. _Para_ (Purpose, Destination, Deadline, Recipient) | SD, QP  | LE        | `Summary-30.md`, `intermediate-course/Deep-2-summary.md`, `intermediate-course/Dive-2-exercise.md` | ✅     |
-| B1.4.2.2 | Personal _A_ Rule for Direct Human Objects                                                                     | SD, QP  | LE        | `Summary-20.md`                                                                                    |        |
+| B1.4.2.2 | Personal _A_ Rule for Direct Human Objects                                                                     | SD, QP  | LE        | `Summary-20.md`                                                                                    | ✅     |
 | B1.4.2.3 | Prepositional Pronouns (_mí, ti, él, nosotros, conmigo, contigo_)                                              | SD      | LE        | —                                                                                                  |        |
 
 **B1.4.3 Sentence Connectors & Transition Words (_Sin embargo, Por lo tanto, Además_)**
