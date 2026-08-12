@@ -350,7 +350,7 @@ section directly.
 
 | Code     | Topic                                                               | Formula | Immersion | Qroo Source    | Status |
 | -------- | ------------------------------------------------------------------- | ------- | --------- | -------------- | ------ |
-| A2.3.1.1 | Conjugating _Ir_ + _a_ + Base Verb                                  | QP      | SG        | `Summary-8.md` |        |
+| A2.3.1.1 | Conjugating _Ir_ + _a_ + Base Verb                                  | QP      | SG        | `Summary-8.md` | ✅     |
 | A2.3.1.2 | Time Expressions for Future Planning (_mañana, este fin de semana_) | QP      | SG        | `Summary-8.md` |        |
 
 **A2.3.2 Present Continuous (_Estar + Gerund_)**
