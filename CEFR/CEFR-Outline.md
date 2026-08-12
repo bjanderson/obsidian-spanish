@@ -440,7 +440,7 @@ for subjunctive concept, triggers, and imperfect subjunctive.
 
 | Code     | Topic                                                                           | Formula | Immersion | Qroo Source | Status |
 | -------- | ------------------------------------------------------------------------------- | ------- | --------- | ----------- | ------ |
-| B1.1.3.1 | Auxiliary _Haber_ in Imperfect (_había, habías..._) + Past Participle           | SL      | LE        | —           |        |
+| B1.1.3.1 | Auxiliary _Haber_ in Imperfect (_había, habías..._) + Past Participle           | SL      | LE        | —           | ✅     |
 | B1.1.3.2 | Expressing Actions Prior to Another Past Event (_Ya había comido cuando llegó_) | SL      | LE        | —           |        |
 
 ### B1.2 Introduction to the Subjunctive Mood
