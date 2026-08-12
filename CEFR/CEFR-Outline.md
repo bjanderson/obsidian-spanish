@@ -399,7 +399,7 @@ Thin on Qroo source — mostly channel/immersion-driven vocabulary lessons.
 
 | Code     | Topic                                                                              | Formula | Immersion | Qroo Source                                              | Status |
 | -------- | ---------------------------------------------------------------------------------- | ------- | --------- | -------------------------------------------------------- | ------ |
-| A2.4.2.1 | Occupations and Workplace Contexts                                                 | SP101   | SG        | —                                                        |        |
+| A2.4.2.1 | Occupations and Workplace Contexts                                                 | SP101   | SG        | —                                                        | ✅     |
 | A2.4.2.2 | Expressing Weather using _Hacer, Estar,_ and _Haber_ (_Hace frío, Está lloviendo_) | SP101   | SG        | `master-24.md` (heat/cold/spicy _tener_ idioms, partial) |        |
 
 **A2.4.3 Public Transportation, Travel, & Asking for Help**
