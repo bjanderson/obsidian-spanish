@@ -118,8 +118,8 @@ the pace table as a planning default, not a commitment; adjust freely.
 
 ## Next Steps
 
-1. A1 and A2 (all sections) are complete. Continue with B1.1 (Advanced Past
-   Tenses & Aspect Mastery) next.
+1. A1, A2, and B1.1 (Advanced Past Tenses & Aspect Mastery) are complete.
+   Continue with B1.2 (Introduction to the Subjunctive Mood) next.
 2. Work levels in order — the Qroo source material and the channel progression are
    both sequential, and later lessons assume earlier ones.
 3. Revisit the pacing table after the first few weeks of actual lesson-building time
@@ -441,7 +441,7 @@ for subjunctive concept, triggers, and imperfect subjunctive.
 | Code     | Topic                                                                           | Formula | Immersion | Qroo Source | Status |
 | -------- | ------------------------------------------------------------------------------- | ------- | --------- | ----------- | ------ |
 | B1.1.3.1 | Auxiliary _Haber_ in Imperfect (_había, habías..._) + Past Participle           | SL      | LE        | —           | ✅     |
-| B1.1.3.2 | Expressing Actions Prior to Another Past Event (_Ya había comido cuando llegó_) | SL      | LE        | —           |        |
+| B1.1.3.2 | Expressing Actions Prior to Another Past Event (_Ya había comido cuando llegó_) | SL      | LE        | —           | ✅     |
 
 ### B1.2 Introduction to the Subjunctive Mood
 
