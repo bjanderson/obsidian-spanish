@@ -482,7 +482,7 @@ for subjunctive concept, triggers, and imperfect subjunctive.
 
 | Code     | Topic                                                                            | Formula | Immersion | Qroo Source                                                                                                    | Status |
 | -------- | -------------------------------------------------------------------------------- | ------- | --------- | -------------------------------------------------------------------------------------------------------------- | ------ |
-| B1.3.1.1 | Regular Conditional Endings added to Infinitive (_-ía, -ías, -ía..._)            | QP, SD  | LE        | `Conditional-Conjugations.md`, `Summary-would.md`, `intermediate-course/Deep-4-summary.md`                     |        |
+| B1.3.1.1 | Regular Conditional Endings added to Infinitive (_-ía, -ías, -ía..._)            | QP, SD  | LE        | `Conditional-Conjugations.md`, `Summary-would.md`, `intermediate-course/Deep-4-summary.md`                     | ✅     |
 | B1.3.1.2 | Irregular Conditional Stems (Same stems as Future Tense: _tendr-, pondr-, har-_) | QP, SD  | LE        | `Conditional-Conjugations.md`                                                                                  |        |
 | B1.3.1.3 | Uses: Politeness (_Me gustaría_), Advice (_Yo que tú, haría..._), Hypotheticals  | QP      | LE        | `Summary-would.md`, `intermediate-course/Dive-conditional-exercise.md` (_¿Podría...?/¿Podrías...?_ politeness) |        |
 

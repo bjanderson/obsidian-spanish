@@ -24,3 +24,4 @@
 - [[B1.2.2.1 Present Subjunctive Stems]]
 - [[B1.2.2.2 Opposite Vowel Ending Patterns]]
 - [[B1.2.2.3 Irregular Subjunctive Stems DISHES]]
+- [[B1.3.1.1 Regular Conditional Endings]]
