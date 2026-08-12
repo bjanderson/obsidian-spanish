@@ -9,3 +9,4 @@
 - [[A2.1.1.3 Time Markers for Preterite]]
 - [[A2.2.3.2 Daily Routine Verbs]]
 - [[A2.4.1.1 Extended Family Vocabulary]]
+- [[A2.4.1.2 Housing Rooms Items]]
