@@ -498,7 +498,7 @@ for subjunctive concept, triggers, and imperfect subjunctive.
 
 | Code     | Topic                                                                         | Formula | Immersion | Qroo Source              | Status |
 | -------- | ----------------------------------------------------------------------------- | ------- | --------- | ------------------------ | ------ |
-| B1.3.3.1 | Negative _Tú_ Commands (Present Subjunctive _Tú_ form)                        | QP      | LE        | `guide-to-imperative.md` |        |
+| B1.3.3.1 | Negative _Tú_ Commands (Present Subjunctive _Tú_ form)                        | QP      | LE        | `guide-to-imperative.md` | ✅     |
 | B1.3.3.2 | Negative Formal Commands (Negative Present Subjunctive _Usted/Ustedes_ forms) | QP      | LE        | `guide-to-imperative.md` |        |
 | B1.3.3.3 | Pronoun Attachment Rules (Attached to Affirmative, Preceding Negative)        | QP      | LE        | `guide-to-imperative.md` |        |
 
