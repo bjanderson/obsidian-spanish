@@ -13,3 +13,4 @@
 - [[A2.3.1.2 Future Planning Time Expressions]]
 - [[A2.3.2.1 Forming Gerunds]]
 - [[A2.3.2.2 Irregular Gerunds]]
+- [[A2.3.5.1 Regular Future Endings]]
