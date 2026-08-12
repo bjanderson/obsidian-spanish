@@ -464,7 +464,7 @@ for subjunctive concept, triggers, and imperfect subjunctive.
 
 | Code     | Topic                                                                   | Formula | Immersion | Qroo Source                                                                                                                  | Status |
 | -------- | ----------------------------------------------------------------------- | ------- | --------- | ---------------------------------------------------------------------------------------------------------------------------- | ------ |
-| B1.2.3.1 | Verbs of Desire and Will (_Querer que, Esperar que, Desear que_)        | QP, SL  | LE        | `summary-47.md`/`Lesson-46-Exercises.md`/`Lesson-47...`, `intermediate-course/Subjunctive-Drill---¿Qué-quieres-que-haga_.md` |        |
+| B1.2.3.1 | Verbs of Desire and Will (_Querer que, Esperar que, Desear que_)        | QP, SL  | LE        | `summary-47.md`/`Lesson-46-Exercises.md`/`Lesson-47...`, `intermediate-course/Subjunctive-Drill---¿Qué-quieres-que-haga_.md` | ✅     |
 | B1.2.3.2 | Requests and Recommendations (_Pedir que, Recomendar que, Sugerir que_) | QP, SL  | LE        | `summary-47.md` (partial), `intermediate-course/Deep-6-summary.md` (subjunctive triggers)                                    |        |
 
 **B1.2.4 Subjunctive Triggers: Emotion, Doubt, Uncertainty & Impersonal Expressions**
