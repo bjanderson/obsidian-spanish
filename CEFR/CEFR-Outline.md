@@ -449,7 +449,7 @@ for subjunctive concept, triggers, and imperfect subjunctive.
 
 | Code     | Topic                                                                                 | Formula | Immersion | Qroo Source                                                                                                | Status |
 | -------- | ------------------------------------------------------------------------------------- | ------- | --------- | ---------------------------------------------------------------------------------------------------------- | ------ |
-| B1.2.1.1 | Fact, Certainty, Reality (Indicative) vs. Subjectivity, Mood, Unreality (Subjunctive) | SL, QP  | LE        | `intermediate-course/Deep-5-summary.md` (subjunctive mood overview), `parts-of-speech.md`, `summary-46.md` |        |
+| B1.2.1.1 | Fact, Certainty, Reality (Indicative) vs. Subjectivity, Mood, Unreality (Subjunctive) | SL, QP  | LE        | `intermediate-course/Deep-5-summary.md` (subjunctive mood overview), `parts-of-speech.md`, `summary-46.md` | ✅     |
 | B1.2.1.2 | Sentence Structure Mechanics (Main Clause + _Que_ + Subordinate Clause)               | SL, QP  | LE        | `summary-46.md`                                                                                            |        |
 
 **B1.2.2 Present Subjunctive Formation (Regular & Irregular Roots)**
