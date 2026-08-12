@@ -33,3 +33,4 @@
 - [[B1.3.3.2 Negative Formal Commands]]
 - [[B2.1.1.1 Imperfect Subjunctive Conjugation]]
 - [[B2.1.2.1 Auxiliary Haber Present Subjunctive]]
+- [[B2.1.3.1 Auxiliary Haber Imperfect Subjunctive]]

@@ -568,7 +568,7 @@ material — draft those from channel + general grammar reference.
 
 | Code     | Topic                                                                                 | Formula | Immersion | Qroo Source | Status |
 | -------- | ------------------------------------------------------------------------------------- | ------- | --------- | ----------- | ------ |
-| B2.1.3.1 | Auxiliary _Haber_ in Imperfect Subjunctive (_hubiera, hubieras..._) + Past Participle | SL      | LE        | —           |        |
+| B2.1.3.1 | Auxiliary _Haber_ in Imperfect Subjunctive (_hubiera, hubieras..._) + Past Participle | SL      | LE        | —           | ✅     |
 | B2.1.3.2 | Expressing Unfulfilled Past Desires and Regrets                                       | SL      | LE        | —           |        |
 
 **B2.1.4 Conditional Clauses & "If" Statements (_Si tuviera..., haría..._)**
