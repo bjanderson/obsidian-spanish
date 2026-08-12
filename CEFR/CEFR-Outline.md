@@ -532,7 +532,7 @@ for subjunctive concept, triggers, and imperfect subjunctive.
 
 | Code     | Topic                                         | Formula | Immersion | Qroo Source                                                           | Status |
 | -------- | --------------------------------------------- | ------- | --------- | --------------------------------------------------------------------- | ------ |
-| B1.4.4.1 | _Que_ as the All-Purpose Relative Pronoun     | SL, QP  | LE        | `intermediate-course/relative-pronouns.md`, `Summary-42.md`           |        |
+| B1.4.4.1 | _Que_ as the All-Purpose Relative Pronoun     | SL, QP  | LE        | `intermediate-course/relative-pronouns.md`, `Summary-42.md`           | ✅     |
 | B1.4.4.2 | _Quien/Quienes_ for People after Prepositions | SL, QP  | LE        | `intermediate-course/relative-pronouns.md`, `Summary-42.md` (partial) |        |
 | B1.4.4.3 | _Donde, Como, Cuando_ as Relative Adverbs     | SL, QP  | LE        | `intermediate-course/relative-pronouns.md`, `Summary-42.md` (partial) |        |
 
