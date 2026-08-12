@@ -46,3 +46,4 @@
 - [[B2.2.1.1 Canonical Passive Form]]
 - [[B2.2.1.2 Passive Register Appropriateness]]
 - [[B2.2.2.1 Passive Se Inanimate Objects]]
+- [[B2.2.2.2 Impersonal Se General Statements]]
