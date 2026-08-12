@@ -434,7 +434,7 @@ for subjunctive concept, triggers, and imperfect subjunctive.
 | -------- | --------------------------------------------------------------------------------- | ------- | --------- | ----------------------------------------------------------------------- | ------ |
 | B1.1.2.1 | Auxiliary _Haber_ Conjugation in Present (_he, has, ha, hemos, han_)              | QP, SL  | LE        | `Summary-29.md`, `haber-exercise.md`                                    | ✅     |
 | B1.1.2.2 | Regular and Irregular Past Participles (_hablado, comido, dicho, escrito, hecho_) | QP, SL  | LE        | `Summary-29.md` (partial — participle list not exhaustive, cross-check) | ✅     |
-| B1.1.2.3 | Uses: Life Experiences and Open Timeframes (_Nunca he visitado..._)               | SL      | LE        | `Summary-29.md` (partial)                                               |        |
+| B1.1.2.3 | Uses: Life Experiences and Open Timeframes (_Nunca he visitado..._)               | SL      | LE        | `Summary-29.md` (partial)                                               | ✅     |
 
 **B1.1.3 Past Perfect / Pluperfect Indicative (_Pretérito Pluscuamperfecto_)**
 
