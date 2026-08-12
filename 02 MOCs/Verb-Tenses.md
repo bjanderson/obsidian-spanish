@@ -10,3 +10,4 @@
 - [[A2.1.3.3 Imperfect Uses Habits Descriptions]]
 - [[A2.1.4.1 Completed Actions vs Background States]]
 - [[A2.3.1.1 Ir a Conjugation]]
+- [[A2.3.1.2 Future Planning Time Expressions]]
