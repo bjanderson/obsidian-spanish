@@ -510,7 +510,7 @@ for subjunctive concept, triggers, and imperfect subjunctive.
 | -------- | ------------------------------------------------------------------- | ------- | --------- | ----------------------------------------------------------------------------------------------------------------- | ------ |
 | B1.4.1.1 | Order of Pronouns (Indirect Before Direct: "ID")                    | QP, SD  | LE        | `master-18-summary-rev-72125.md`, `intermediate-course/worksheet-IOP.md`, `intermediate-course/Deep-1-summary.md` | ✅     |
 | B1.4.1.2 | Converting _Le/Les_ to _Se_ before _Lo/La/Los/Las_                  | QP, SD  | LE        | `master-18-summary-rev-72125.md`                                                                                  | ✅     |
-| B1.4.1.3 | Placement with Conjugated Verbs, Infinitives, Gerunds, and Commands | QP, SD  | LE        | `master-18-summary-rev-72125.md`                                                                                  |        |
+| B1.4.1.3 | Placement with Conjugated Verbs, Infinitives, Gerunds, and Commands | QP, SD  | LE        | `master-18-summary-rev-72125.md`                                                                                  | ✅     |
 
 **B1.4.2 Prepositions (_Por_ vs. _Para_, _A_, _De_, _En_, _Con_)**
 

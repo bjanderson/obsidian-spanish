@@ -11,3 +11,4 @@
 - [[A2.3.4.2 Other Indirect Verbs Encantar Doler]]
 - [[B1.4.1.1 Order of Pronouns]]
 - [[B1.4.1.2 Converting Le Les to Se]]
+- [[B1.4.1.3 Double Pronoun Placement Rules]]
