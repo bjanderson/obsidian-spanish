@@ -15,3 +15,4 @@
 - [[A2.3.2.2 Irregular Gerunds]]
 - [[A2.3.5.1 Regular Future Endings]]
 - [[A2.3.5.2 Irregular Future Stems]]
+- [[A2.3.5.3 Future for Speculation and Probability]]

@@ -118,8 +118,8 @@ the pace table as a planning default, not a commitment; adjust freely.
 
 ## Next Steps
 
-1. A1.1 through A1.5, A2.1, and A2.2 are complete. Continue with A2.3
-   (Verbal Periphrasis, Modals & Future Intentions) next.
+1. A1.1 through A1.5, A2.1, A2.2, and A2.3 are complete. Continue with A2.4
+   (Practical Vocabulary & Situational Usage) next.
 2. Work levels in order — the Qroo source material and the channel progression are
    both sequential, and later lessons assume earlier ones.
 3. Revisit the pacing table after the first few weeks of actual lesson-building time
@@ -381,7 +381,7 @@ section directly.
 | -------- | ------------------------------------------------------------------------------------------- | ------- | --------- | ---------------------------------------------------------- | ------ |
 | A2.3.5.1 | Regular Future Endings (_-é, -ás, -á, -emos, -án_)                                          | QP, SD  | WNS       | `future-tense.md`, `Summary-37.md`/`Lesson-37-Exercise.md` | ✅     |
 | A2.3.5.2 | Irregular Future Stems (_tendr-, pondr-, har-, dir-, sabr-, querr-, vendr-, saldr-, podr-_) | QP, SD  | WNS       | `future-tense.md`, `Summary-37.md`                         | ✅     |
-| A2.3.5.3 | Future for Speculation and Probability (_¿Será...?_)                                        | QP      | WNS       | `Summary-53.md`                                            |        |
+| A2.3.5.3 | Future for Speculation and Probability (_¿Será...?_)                                        | QP      | WNS       | `Summary-53.md`                                            | ✅     |
 
 ### A2.4 Practical Vocabulary & Situational Usage
 
