@@ -425,7 +425,7 @@ for subjunctive concept, triggers, and imperfect subjunctive.
 
 | Code     | Topic                                                                           | Formula | Immersion | Qroo Source                                                                                                                | Status |
 | -------- | ------------------------------------------------------------------------------- | ------- | --------- | -------------------------------------------------------------------------------------------------------------------------- | ------ |
-| B1.1.1.1 | Verbs that Change Meaning in Preterite vs. Imperfect (_conocer, saber, querer_) | QP, SL  | LE        | `saber-summary2.md`, `saber-como.md`, `saber-conocer-exercise.md`, `DD-exercise-3-rev492026.md` (preterite meaning shifts) |        |
+| B1.1.1.1 | Verbs that Change Meaning in Preterite vs. Imperfect (_conocer, saber, querer_) | QP, SL  | LE        | `saber-summary2.md`, `saber-como.md`, `saber-conocer-exercise.md`, `DD-exercise-3-rev492026.md` (preterite meaning shifts) | ✅     |
 | B1.1.1.2 | Multilayered Narrative Framing in Past Tenses                                   | SL      | LE        | `Deep-3-Summary-(1).md`                                                                                                    |        |
 
 **B1.1.2 Present Perfect Indicative (_Pretérito Perfecto Compuesto_)**
