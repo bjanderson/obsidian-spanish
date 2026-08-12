@@ -17,3 +17,4 @@
 - [[A1.4.3.1 Simple Negation with No]]
 - [[A1.4.3.2 Double Negatives]]
 - [[A2.1.4.2 Interrupted Actions]]
+- [[A2.4.1.3 Comparative Adjectives]]
