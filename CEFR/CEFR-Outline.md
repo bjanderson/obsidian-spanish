@@ -575,7 +575,7 @@ material — draft those from channel + general grammar reference.
 
 | Code     | Topic                                                                           | Formula | Immersion | Qroo Source | Status |
 | -------- | ------------------------------------------------------------------------------- | ------- | --------- | ----------- | ------ |
-| B2.1.4.1 | Real/Possible Conditionals (_Si_ + Present Indicative ➔ Future/Present)         | SL      | LE        | —           |        |
+| B2.1.4.1 | Real/Possible Conditionals (_Si_ + Present Indicative ➔ Future/Present)         | SL      | LE        | —           | ✅     |
 | B2.1.4.2 | Unreal Present Conditionals (_Si_ + Imperfect Subjunctive ➔ Simple Conditional) | SL      | LE        | —           |        |
 | B2.1.4.3 | Unreal Past Conditionals (_Si_ + Pluperfect Subjunctive ➔ Conditional Perfect)  | SL      | LE        | —           |        |
 
