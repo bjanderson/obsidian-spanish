@@ -492,7 +492,7 @@ for subjunctive concept, triggers, and imperfect subjunctive.
 | -------- | ----------------------------------------------------------------------- | ------- | --------- | ------------------------------------------------------------------ | ------ |
 | B1.3.2.1 | Informal Affirmative _Tú_ Commands (3rd Person Present Indicative form) | QP      | LE        | `Summary-38.md`, `guide-to-imperative.md`, `Lesson-38-Exercise.md` | ✅     |
 | B1.3.2.2 | Irregular _Tú_ Commands (_ven, di, sal, haz, ten, ve, pon, sé_)         | QP      | LE        | `guide-to-imperative.md`                                           | ✅     |
-| B1.3.2.3 | Formal _Usted / Ustedes_ Commands (Present Subjunctive forms)           | QP      | LE        | `guide-to-imperative.md`                                           |        |
+| B1.3.2.3 | Formal _Usted / Ustedes_ Commands (Present Subjunctive forms)           | QP      | LE        | `guide-to-imperative.md`                                           | ✅     |
 
 **B1.3.3 Negative Commands & Subjunctive Alignment**
 
