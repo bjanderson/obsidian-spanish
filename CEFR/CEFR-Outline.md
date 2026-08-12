@@ -595,7 +595,7 @@ from channel + reference grammar. Accidental _se_ (B2.2.3) has a direct
 
 | Code     | Topic                                                           | Formula | Immersion | Qroo Source | Status |
 | -------- | --------------------------------------------------------------- | ------- | --------- | ----------- | ------ |
-| B2.2.2.1 | Passive _Se_ with Singular and Plural Inanimate Objects         | SL      | ES        | —           |        |
+| B2.2.2.1 | Passive _Se_ with Singular and Plural Inanimate Objects         | SL      | ES        | —           | ✅     |
 | B2.2.2.2 | Impersonal _Se_ for General Statements ("One does / People do") | SL      | ES        | —           |        |
 
 **B2.2.3 Accidental / Unintentional _Se_ (_Se me olvidó, Se me cayeron_)**

@@ -45,3 +45,4 @@
 - [[B2.1.4.3 Unreal Past Conditionals]]
 - [[B2.2.1.1 Canonical Passive Form]]
 - [[B2.2.1.2 Passive Register Appropriateness]]
+- [[B2.2.2.1 Passive Se Inanimate Objects]]
