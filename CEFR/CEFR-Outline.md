@@ -357,7 +357,7 @@ section directly.
 
 | Code     | Topic                                              | Formula | Immersion | Qroo Source                                                                        | Status |
 | -------- | -------------------------------------------------- | ------- | --------- | ---------------------------------------------------------------------------------- | ------ |
-| A2.3.2.1 | Forming the Gerund (_-ando, -iendo_)               | QP      | WNS       | `Summary-32.md`, `master-present-progressive-exercise.md`, `ejercicio-gerundio.md` |        |
+| A2.3.2.1 | Forming the Gerund (_-ando, -iendo_)               | QP      | WNS       | `Summary-32.md`, `master-present-progressive-exercise.md`, `ejercicio-gerundio.md` | ✅     |
 | A2.3.2.2 | Irregular Gerunds (_durmiendo, leyendo, diciendo_) | QP      | WNS       | `Summary-33.md`                                                                    |        |
 
 **A2.3.3 Obligation & Ability Modals (_Tener que, Deber, Poder, Hay que_)**

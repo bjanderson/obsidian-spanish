@@ -11,3 +11,4 @@
 - [[A2.1.4.1 Completed Actions vs Background States]]
 - [[A2.3.1.1 Ir a Conjugation]]
 - [[A2.3.1.2 Future Planning Time Expressions]]
+- [[A2.3.2.1 Forming Gerunds]]
