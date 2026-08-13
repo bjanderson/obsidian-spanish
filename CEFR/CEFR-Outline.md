@@ -118,11 +118,12 @@ the pace table as a planning default, not a commitment; adjust freely.
 
 ## Next Steps
 
-1. A1, A2, all of B1, and all of B2 (B2.1 Advanced Subjunctive &
+1. A1, A2, all of B1, all of B2 (B2.1 Advanced Subjunctive &
    Hypothetical Structures, B2.2 Passive Voice & Impersonal Structures,
    B2.3 Discourse Registers & Pragmatics, B2.4 Regional Diversity &
-   Colloquialisms, B2.5 The Neuter _Lo_ and Its Functions) are complete.
-   Continue with C1.1 (Complex Syntax & Relative Clauses) next.
+   Colloquialisms, B2.5 The Neuter _Lo_ and Its Functions), and all of
+   C1.1 (Complex Syntax & Relative Clauses) are complete. Continue with
+   C1.2 (Formal, Professional, & Academic Register) next.
 2. Work levels in order — the Qroo source material and the channel progression are
    both sequential, and later lessons assume earlier ones.
 3. Revisit the pacing table after the first few weeks of actual lesson-building time
@@ -705,7 +706,7 @@ it as a prerequisite refresher (not a direct source) when drafting C1.1.1.
 | Code     | Topic                                                            | Formula | Immersion | Qroo Source | Status |
 | -------- | ---------------------------------------------------------------- | ------- | --------- | ----------- | ------ |
 | C1.1.3.1 | Absolute Participle Clauses (_Terminada la reunión, nos fuimos_) | SL      | ES        | —           | ✅ |
-| C1.1.3.2 | Adverbial Gerund Clauses (_Habiendo considerado todo..._)        | SL      | ES        | —           |        |
+| C1.1.3.2 | Adverbial Gerund Clauses (_Habiendo considerado todo..._)        | SL      | ES        | —           | ✅ |
 
 ### C1.2 Formal, Professional & Academic Register
 
