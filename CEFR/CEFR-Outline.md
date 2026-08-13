@@ -657,7 +657,7 @@ specifically-called-out channel for this per `CEFR-YouTube-Channels.md`.
 | Code     | Topic                                                        | Formula | Immersion | Qroo Source                                          | Status |
 | -------- | ------------------------------------------------------------ | ------- | --------- | ---------------------------------------------------- | ------ |
 | B2.5.1.1 | _Lo_ Replacing Masculine Nouns and Ideas                     | SL      | LE        | `Summary-57.md`, `intermediate-course/LO-summary.md` | ✅     |
-| B2.5.1.2 | _Lo_ Referring Back to Previously Stated Adjectives/Concepts | SL      | LE        | `Summary-57.md`, `intermediate-course/LO-summary.md` |        |
+| B2.5.1.2 | _Lo_ Referring Back to Previously Stated Adjectives/Concepts | SL      | LE        | `Summary-57.md`, `intermediate-course/LO-summary.md` | ✅     |
 
 **B2.5.2 Lo + Adjective for Abstract Qualities (_Lo bueno, lo importante_)**
 
