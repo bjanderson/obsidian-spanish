@@ -664,7 +664,7 @@ specifically-called-out channel for this per `CEFR-YouTube-Channels.md`.
 | Code     | Topic                                        | Formula | Immersion | Qroo Source                                          | Status |
 | -------- | -------------------------------------------- | ------- | --------- | ---------------------------------------------------- | ------ |
 | B2.5.2.1 | Forming Abstract Nouns with _Lo_ + Adjective | SL      | LE        | `Summary-58.md`, `intermediate-course/LO-summary.md` | ✅     |
-| B2.5.2.2 | _Lo Que_ as "What/That Which"                | SL      | LE        | `Summary-58.md`                                      |        |
+| B2.5.2.2 | _Lo Que_ as "What/That Which"                | SL      | LE        | `Summary-58.md`                                      | ✅     |
 
 **B2.5.3 Lo in Intensifiers and Idiomatic Expressions**
 

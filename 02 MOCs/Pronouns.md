@@ -15,3 +15,4 @@
 - [[B1.4.2.3 Prepositional Pronouns]]
 - [[B2.5.1.1 Lo Replacing Masculine Nouns and Ideas]]
 - [[B2.5.1.2 Lo Referring Back to Stated Concepts]]
+- [[B2.5.2.2 Lo Que as What That Which]]
