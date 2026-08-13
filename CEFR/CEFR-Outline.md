@@ -620,7 +620,7 @@ from channel + reference grammar. Accidental _se_ (B2.2.3) has a direct
 | Code     | Topic                                                                                | Formula | Immersion | Qroo Source                                                                | Status |
 | -------- | ------------------------------------------------------------------------------------ | ------- | --------- | -------------------------------------------------------------------------- | ------ |
 | B2.3.2.1 | Softening Demands with Conditional and Subjunctive Forms                             | SL      | ES        | `Summary-56.md` (infinitive-after-preposition softening strategy, partial) | ✅     |
-| B2.3.2.2 | Expressing Partial Agreement (_Entiendo tu punto, pero..., Desde mi perspectiva..._) | SL      | ES        | —                                                                          |        |
+| B2.3.2.2 | Expressing Partial Agreement (_Entiendo tu punto, pero..., Desde mi perspectiva..._) | SL      | ES        | —                                                                          | ✅     |
 
 **B2.3.3 Direct vs. Indirect Reported Speech (_Estilo Indirecto_)**
 
