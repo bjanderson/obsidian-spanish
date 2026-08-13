@@ -626,7 +626,7 @@ from channel + reference grammar. Accidental _se_ (B2.2.3) has a direct
 
 | Code     | Topic                                                                        | Formula | Immersion | Qroo Source                                      | Status |
 | -------- | ---------------------------------------------------------------------------- | ------- | --------- | ------------------------------------------------ | ------ |
-| B2.3.3.1 | Tense Shifts in Past Reporting (Present ➔ Imperfect; Preterite ➔ Pluperfect) | SL      | ES        | `intermediate-course/summary-reported-speech.md` |        |
+| B2.3.3.1 | Tense Shifts in Past Reporting (Present ➔ Imperfect; Preterite ➔ Pluperfect) | SL      | ES        | `intermediate-course/summary-reported-speech.md` | ✅     |
 | B2.3.3.2 | Adjusting Pronouns, Time, and Spatial References in Indirect Speech          | SL      | ES        | `intermediate-course/summary-reported-speech.md` |        |
 
 ### B2.4 Regional Diversity & Colloquialisms
