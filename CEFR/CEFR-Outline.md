@@ -723,7 +723,7 @@ Qroo's course is entirely conversational — no material here at all.
 
 | Code     | Topic                                                                       | Formula | Immersion | Qroo Source | Status |
 | -------- | --------------------------------------------------------------------------- | ------- | --------- | ----------- | ------ |
-| C1.2.2.1 | Structuring Arguments and Using Academic Connectors (_En suma, A tenor de_) | —       | ES        | —           |        |
+| C1.2.2.1 | Structuring Arguments and Using Academic Connectors (_En suma, A tenor de_) | —       | ES        | —           | ✅     |
 | C1.2.2.2 | Maintaining Impersonal Distance and Objectivity in Texts                    | —       | ES        | —           |        |
 
 **C1.2.3 Understanding Technical, Political, & Specialized Media**
