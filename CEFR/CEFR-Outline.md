@@ -704,7 +704,7 @@ it as a prerequisite refresher (not a direct source) when drafting C1.1.1.
 
 | Code     | Topic                                                            | Formula | Immersion | Qroo Source | Status |
 | -------- | ---------------------------------------------------------------- | ------- | --------- | ----------- | ------ |
-| C1.1.3.1 | Absolute Participle Clauses (_Terminada la reunión, nos fuimos_) | SL      | ES        | —           |        |
+| C1.1.3.1 | Absolute Participle Clauses (_Terminada la reunión, nos fuimos_) | SL      | ES        | —           | ✅ |
 | C1.1.3.2 | Adverbial Gerund Clauses (_Habiendo considerado todo..._)        | SL      | ES        | —           |        |
 
 ### C1.2 Formal, Professional & Academic Register
