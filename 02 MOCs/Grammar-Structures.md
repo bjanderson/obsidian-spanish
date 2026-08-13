@@ -50,3 +50,4 @@
 - [[B2.2.3.1 Accidental Se Structure]]
 - [[B2.2.3.2 Shifting Fault away from Speaker]]
 - [[B2.3.3.1 Tense Shifts Past Reporting]]
+- [[B2.3.3.2 Pronoun and Reference Adjustments]]
