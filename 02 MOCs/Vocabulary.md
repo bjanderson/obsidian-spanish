@@ -21,3 +21,4 @@
 - [[B2.5.3.2 Common Idiomatic Uses of Lo]]
 - [[C1.2.3.1 Domain Specific Vocabulary]]
 - [[C1.2.3.2 Decoding Complex Media and Opinion]]
+- [[C1.3.1.1 Wordplay and Humor Mechanics]]
