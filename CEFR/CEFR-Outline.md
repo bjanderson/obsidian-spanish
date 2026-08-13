@@ -118,9 +118,10 @@ the pace table as a planning default, not a commitment; adjust freely.
 
 ## Next Steps
 
-1. A1, A2, all of B1, and B2.1 (Advanced Subjunctive & Hypothetical
-   Structures) are complete. Continue with B2.2 (Passive Voice, Impersonal
-   Structures & 'Se' Functions) next.
+1. A1, A2, all of B1, B2.1 (Advanced Subjunctive & Hypothetical
+   Structures), and B2.2 (Passive Voice, Impersonal Structures & 'Se'
+   Functions) are complete. Continue with B2.3 (Discourse, Registers &
+   Pragmatics) next.
 2. Work levels in order — the Qroo source material and the channel progression are
    both sequential, and later lessons assume earlier ones.
 3. Revisit the pacing table after the first few weeks of actual lesson-building time
@@ -603,7 +604,7 @@ from channel + reference grammar. Accidental _se_ (B2.2.3) has a direct
 | Code     | Topic                                                         | Formula | Immersion | Qroo Source                                                                                           | Status |
 | -------- | ------------------------------------------------------------- | ------- | --------- | ----------------------------------------------------------------------------------------------------- | ------ |
 | B2.2.3.1 | Structure: _Se_ + Indirect Pronoun + Verb + Subject           | SL      | ES        | `intermediate-course/Traducciones-con-Olvidársele,-Caérsele,-Rompérsele,-Perdérsele,-y-Acabársele.md` | ✅     |
-| B2.2.3.2 | Shifting Fault away from the Speaker (_Se me rompió el vaso_) | SL      | ES        | `intermediate-course/Traducciones-con-Olvidársele,-Caérsele,-Rompérsele,-Perdérsele,-y-Acabársele.md` |        |
+| B2.2.3.2 | Shifting Fault away from the Speaker (_Se me rompió el vaso_) | SL      | ES        | `intermediate-course/Traducciones-con-Olvidársele,-Caérsele,-Rompérsele,-Perdérsele,-y-Acabársele.md` | ✅     |
 
 ### B2.3 Discourse, Registers & Pragmatics
 

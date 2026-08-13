@@ -48,3 +48,4 @@
 - [[B2.2.2.1 Passive Se Inanimate Objects]]
 - [[B2.2.2.2 Impersonal Se General Statements]]
 - [[B2.2.3.1 Accidental Se Structure]]
+- [[B2.2.3.2 Shifting Fault away from Speaker]]
