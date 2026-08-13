@@ -717,7 +717,7 @@ Qroo's course is entirely conversational — no material here at all.
 | Code     | Topic                                                                    | Formula | Immersion | Qroo Source | Status |
 | -------- | ------------------------------------------------------------------------ | ------- | --------- | ----------- | ------ |
 | C1.2.1.1 | High-Formal Openings and Closings (_Estimado/a, Sin otro particular..._) | —       | ES        | —           | ✅ |
-| C1.2.1.2 | Diplomatic Language in Business Correspondence and Negotiations          | —       | ES        | —           |        |
+| C1.2.1.2 | Diplomatic Language in Business Correspondence and Negotiations          | —       | ES        | —           | ✅ |
 
 **C1.2.2 Academic Writing, Essays, & Persuasive Rhetoric**
 
