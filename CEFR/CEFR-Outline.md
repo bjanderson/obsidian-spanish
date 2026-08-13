@@ -602,7 +602,7 @@ from channel + reference grammar. Accidental _se_ (B2.2.3) has a direct
 
 | Code     | Topic                                                         | Formula | Immersion | Qroo Source                                                                                           | Status |
 | -------- | ------------------------------------------------------------- | ------- | --------- | ----------------------------------------------------------------------------------------------------- | ------ |
-| B2.2.3.1 | Structure: _Se_ + Indirect Pronoun + Verb + Subject           | SL      | ES        | `intermediate-course/Traducciones-con-Olvidársele,-Caérsele,-Rompérsele,-Perdérsele,-y-Acabársele.md` |        |
+| B2.2.3.1 | Structure: _Se_ + Indirect Pronoun + Verb + Subject           | SL      | ES        | `intermediate-course/Traducciones-con-Olvidársele,-Caérsele,-Rompérsele,-Perdérsele,-y-Acabársele.md` | ✅     |
 | B2.2.3.2 | Shifting Fault away from the Speaker (_Se me rompió el vaso_) | SL      | ES        | `intermediate-course/Traducciones-con-Olvidársele,-Caérsele,-Rompérsele,-Perdérsele,-y-Acabársele.md` |        |
 
 ### B2.3 Discourse, Registers & Pragmatics
