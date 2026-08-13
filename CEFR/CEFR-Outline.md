@@ -697,7 +697,7 @@ it as a prerequisite refresher (not a direct source) when drafting C1.1.1.
 
 | Code     | Topic                                                            | Formula | Immersion | Qroo Source                                     | Status |
 | -------- | ---------------------------------------------------------------- | ------- | --------- | ----------------------------------------------- | ------ |
-| C1.1.2.1 | Fixed Verb-Preposition Pairs altering Meaning                    | SL      | ES        | `Summary-59.md` (verbs + required prepositions) |        |
+| C1.1.2.1 | Fixed Verb-Preposition Pairs altering Meaning                    | SL      | ES        | `Summary-59.md` (verbs + required prepositions) | ✅ |
 | C1.1.2.2 | Prepositional Verbs triggering Subjunctive or Infinitive Clauses | SL      | ES        | `Summary-56.md` (partial)                       |        |
 
 **C1.1.3 Advanced Non-Finite Verbs (Infinitive, Gerund, & Participle Constructions)**
