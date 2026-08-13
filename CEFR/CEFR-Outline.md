@@ -613,7 +613,7 @@ from channel + reference grammar. Accidental _se_ (B2.2.3) has a direct
 | Code     | Topic                                                                | Formula | Immersion | Qroo Source                                                                  | Status |
 | -------- | -------------------------------------------------------------------- | ------- | --------- | ---------------------------------------------------------------------------- | ------ |
 | B2.3.1.1 | Hesitation Fillers (_O sea, Es decir, Este..., Bueno_)               | SL      | ES, LE    | `Summary-62.md` (_que yo sepa / que yo recuerde_ — sentence-starter fillers) | ✅     |
-| B2.3.1.2 | Conversation Steering and Tag Questions (_¿Verdad?, ¿Cierto?, ¿Ya?_) | SL      | ES, LE    | —                                                                            |        |
+| B2.3.1.2 | Conversation Steering and Tag Questions (_¿Verdad?, ¿Cierto?, ¿Ya?_) | SL      | ES, LE    | —                                                                            | ✅     |
 
 **B2.3.2 Softening Requests, Debating, & Expressing Nuanced Disagreement**
 
