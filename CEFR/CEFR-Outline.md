@@ -119,9 +119,10 @@ the pace table as a planning default, not a commitment; adjust freely.
 ## Next Steps
 
 1. A1, A2, all of B1, B2.1 (Advanced Subjunctive & Hypothetical
-   Structures), and B2.2 (Passive Voice, Impersonal Structures & 'Se'
-   Functions) are complete. Continue with B2.3 (Discourse, Registers &
-   Pragmatics) next.
+   Structures), B2.2 (Passive Voice, Impersonal Structures & 'Se'
+   Functions), B2.3 (Discourse, Registers & Pragmatics), and B2.4
+   (Regional Diversity & Colloquialisms) are complete. Continue with
+   B2.5 (The Neuter _Lo_ and Its Functions) next.
 2. Work levels in order — the Qroo source material and the channel progression are
    both sequential, and later lessons assume earlier ones.
 3. Revisit the pacing table after the first few weeks of actual lesson-building time
@@ -647,7 +648,7 @@ specifically-called-out channel for this per `CEFR-YouTube-Channels.md`.
 | -------- | ---------------------------------------------------------------------------------- | ------- | --------- | ----------- | ------ |
 | B2.4.2.1 | Mechanics of Regional _Voseo_ (Conjugations and Pragmatics)                        | —       | LE        | —           | ✅     |
 | B2.4.2.2 | Bolivian-Specific Colloquial Vocabulary and Expressions (_Choco, Ya pues, Ch'aki_) | —       | LE        | —           | ✅     |
-| B2.4.2.3 | Intonation, Cadence, and Phonetic Variations in Andean and Lowland Bolivia         | —       | LE        | —           |        |
+| B2.4.2.3 | Intonation, Cadence, and Phonetic Variations in Andean and Lowland Bolivia         | —       | LE        | —           | ✅     |
 
 ### B2.5 The Neuter _Lo_ and Its Functions
 

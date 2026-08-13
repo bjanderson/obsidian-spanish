@@ -9,3 +9,4 @@
 - [[A1.1.2.3 Pitch and Cadence]]
 - [[A1.1.3.1 Inverted Punctuation Marks]]
 - [[A1.1.3.2 Capitalization Rules]]
+- [[B2.4.2.3 Andean Lowland Phonetics Cadence]]
