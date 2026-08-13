@@ -118,11 +118,11 @@ the pace table as a planning default, not a commitment; adjust freely.
 
 ## Next Steps
 
-1. A1, A2, all of B1, B2.1 (Advanced Subjunctive & Hypothetical
-   Structures), B2.2 (Passive Voice, Impersonal Structures & 'Se'
-   Functions), B2.3 (Discourse, Registers & Pragmatics), and B2.4
-   (Regional Diversity & Colloquialisms) are complete. Continue with
-   B2.5 (The Neuter _Lo_ and Its Functions) next.
+1. A1, A2, all of B1, and all of B2 (B2.1 Advanced Subjunctive &
+   Hypothetical Structures, B2.2 Passive Voice & Impersonal Structures,
+   B2.3 Discourse Registers & Pragmatics, B2.4 Regional Diversity &
+   Colloquialisms, B2.5 The Neuter _Lo_ and Its Functions) are complete.
+   Continue with C1.1 (Complex Syntax & Relative Clauses) next.
 2. Work levels in order — the Qroo source material and the channel progression are
    both sequential, and later lessons assume earlier ones.
 3. Revisit the pacing table after the first few weeks of actual lesson-building time
@@ -671,7 +671,7 @@ specifically-called-out channel for this per `CEFR-YouTube-Channels.md`.
 | Code     | Topic                                               | Formula | Immersion | Qroo Source     | Status |
 | -------- | --------------------------------------------------- | ------- | --------- | --------------- | ------ |
 | B2.5.3.1 | _Lo_ + Adjective/Adverb + _Que_ for Intensification | SL      | LE        | `Summary-58.md` | ✅     |
-| B2.5.3.2 | Common Idiomatic Uses of _Lo_                       | SL      | LE        | `Summary-58.md` |        |
+| B2.5.3.2 | Common Idiomatic Uses of _Lo_                       | SL      | LE        | `Summary-58.md` | ✅     |
 
 ---
 

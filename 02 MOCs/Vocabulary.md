@@ -18,3 +18,4 @@
 - [[B2.4.1.1 Trans Regional Idioms]]
 - [[B2.4.1.2 Universal Colloquial Vocabulary]]
 - [[B2.4.2.2 Bolivian Colloquial Slang]]
+- [[B2.5.3.2 Common Idiomatic Uses of Lo]]
