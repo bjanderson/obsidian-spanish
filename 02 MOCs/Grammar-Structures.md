@@ -59,3 +59,4 @@
 - [[C1.1.2.2 Prepositional Verbs Triggering Subjunctive]]
 - [[C1.1.3.1 Absolute Participle Clauses]]
 - [[C1.1.3.2 Adverbial Gerund Clauses]]
+- [[C1.2.2.2 Maintaining Impersonal Distance]]
