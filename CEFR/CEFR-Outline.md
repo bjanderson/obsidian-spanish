@@ -670,7 +670,7 @@ specifically-called-out channel for this per `CEFR-YouTube-Channels.md`.
 
 | Code     | Topic                                               | Formula | Immersion | Qroo Source     | Status |
 | -------- | --------------------------------------------------- | ------- | --------- | --------------- | ------ |
-| B2.5.3.1 | _Lo_ + Adjective/Adverb + _Que_ for Intensification | SL      | LE        | `Summary-58.md` |        |
+| B2.5.3.1 | _Lo_ + Adjective/Adverb + _Que_ for Intensification | SL      | LE        | `Summary-58.md` | ✅     |
 | B2.5.3.2 | Common Idiomatic Uses of _Lo_                       | SL      | LE        | `Summary-58.md` |        |
 
 ---
