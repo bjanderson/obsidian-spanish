@@ -9,3 +9,4 @@
 - [[B2.1.1.3 Polite Requests Quisiera Pudiera]]
 - [[B2.3.1.1 Hesitation Fillers]]
 - [[B2.3.1.2 Conversation Steering Tag Questions]]
+- [[B2.3.2.1 Softening Demands]]
