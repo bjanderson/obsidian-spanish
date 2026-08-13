@@ -691,7 +691,7 @@ it as a prerequisite refresher (not a direct source) when drafting C1.1.1.
 | Code     | Topic                                                                                        | Formula | Immersion | Qroo Source                                                             | Status |
 | -------- | -------------------------------------------------------------------------------------------- | ------- | --------- | ----------------------------------------------------------------------- | ------ |
 | C1.1.1.1 | Restrictive vs. Non-Restrictive Relative Clauses (_El cual, La cual, Los cuales_)            | SL      | ES        | `Summary-42.md` (basic relative pronouns — prerequisite refresher only) | ✅ |
-| C1.1.1.2 | Possessive Relative Pronoun _Cuyo/Cuya_ and Indefinite Relatives (_Quienquiera, Cualquiera_) | SL      | ES        | —                                                                       |        |
+| C1.1.1.2 | Possessive Relative Pronoun _Cuyo/Cuya_ and Indefinite Relatives (_Quienquiera, Cualquiera_) | SL      | ES        | —                                                                       | ✅ |
 
 **C1.1.2 Verb + Preposition Combinations (_Soñar con, Incurrir en, Depender de_)**
 
