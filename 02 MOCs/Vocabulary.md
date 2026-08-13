@@ -17,3 +17,4 @@
 - [[A2.4.3.3 Emergency Vocabulary]]
 - [[B2.4.1.1 Trans Regional Idioms]]
 - [[B2.4.1.2 Universal Colloquial Vocabulary]]
+- [[B2.4.2.2 Bolivian Colloquial Slang]]
