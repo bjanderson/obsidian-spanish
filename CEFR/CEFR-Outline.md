@@ -645,7 +645,7 @@ specifically-called-out channel for this per `CEFR-YouTube-Channels.md`.
 
 | Code     | Topic                                                                              | Formula | Immersion | Qroo Source | Status |
 | -------- | ---------------------------------------------------------------------------------- | ------- | --------- | ----------- | ------ |
-| B2.4.2.1 | Mechanics of Regional _Voseo_ (Conjugations and Pragmatics)                        | —       | LE        | —           |        |
+| B2.4.2.1 | Mechanics of Regional _Voseo_ (Conjugations and Pragmatics)                        | —       | LE        | —           | ✅     |
 | B2.4.2.2 | Bolivian-Specific Colloquial Vocabulary and Expressions (_Choco, Ya pues, Ch'aki_) | —       | LE        | —           |        |
 | B2.4.2.3 | Intonation, Cadence, and Phonetic Variations in Andean and Lowland Bolivia         | —       | LE        | —           |        |
 
