@@ -22,3 +22,4 @@
 - [[C1.2.3.1 Domain Specific Vocabulary]]
 - [[C1.2.3.2 Decoding Complex Media and Opinion]]
 - [[C1.3.1.1 Wordplay and Humor Mechanics]]
+- [[C1.3.1.2 Detecting Tone Subtext]]

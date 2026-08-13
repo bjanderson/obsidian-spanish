@@ -741,7 +741,7 @@ Qroo's course is entirely conversational — no material here at all.
 | Code     | Topic                                                                     | Formula | Immersion | Qroo Source | Status |
 | -------- | ------------------------------------------------------------------------- | ------- | --------- | ----------- | ------ |
 | C1.3.1.1 | Linguistic Mechanics of Puns and Wordplay (_Albur_ / Wordplay structures) | —       | ES        | —           | ✅      |
-| C1.3.1.2 | Detecting Tone and Subtext in Social Interactions                         | —       | ES        | —           |        |
+| C1.3.1.2 | Detecting Tone and Subtext in Social Interactions                         | —       | ES        | —           | ✅      |
 
 **C1.3.2 Metaphors, Proverbs, & Cultural Allusions (_Refranes_)**
 
