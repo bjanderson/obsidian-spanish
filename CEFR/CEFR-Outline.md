@@ -730,7 +730,7 @@ Qroo's course is entirely conversational — no material here at all.
 
 | Code     | Topic                                                        | Formula | Immersion | Qroo Source | Status |
 | -------- | ------------------------------------------------------------ | ------- | --------- | ----------- | ------ |
-| C1.2.3.1 | Domain-Specific Vocabulary (Finance, Law, Politics, Science) | —       | ES        | —           |        |
+| C1.2.3.1 | Domain-Specific Vocabulary (Finance, Law, Politics, Science) | —       | ES        | —           | ✅     |
 | C1.2.3.2 | Decoding Complex Media Outlets and Editorial Commentary      | —       | ES        | —           |        |
 
 ### C1.3 Advanced Cultural & Sociolinguistic Nuance
