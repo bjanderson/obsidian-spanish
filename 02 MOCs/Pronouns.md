@@ -13,3 +13,5 @@
 - [[B1.4.1.2 Converting Le Les to Se]]
 - [[B1.4.1.3 Double Pronoun Placement Rules]]
 - [[B1.4.2.3 Prepositional Pronouns]]
+- [[B2.5.1.1 Lo Replacing Masculine Nouns and Ideas]]
+- [[B2.5.1.2 Lo Referring Back to Stated Concepts]]
