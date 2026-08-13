@@ -12,3 +12,4 @@
 - [[B2.3.2.1 Softening Demands]]
 - [[B2.3.2.2 Expressing Partial Disagreement]]
 - [[B2.5.3.1 Lo Plus Adjective Adverb Plus Que Intensification]]
+- [[C1.2.1.1 Formal Openings Closings]]
