@@ -638,7 +638,7 @@ specifically-called-out channel for this per `CEFR-YouTube-Channels.md`.
 
 | Code     | Topic                                                                      | Formula | Immersion | Qroo Source | Status |
 | -------- | -------------------------------------------------------------------------- | ------- | --------- | ----------- | ------ |
-| B2.4.1.1 | Trans-Regional Idiomatic Expressions (_Dar en el clavo, Tener mala leche_) | SL      | LE        | —           |        |
+| B2.4.1.1 | Trans-Regional Idiomatic Expressions (_Dar en el clavo, Tener mala leche_) | SL      | LE        | —           | ✅     |
 | B2.4.1.2 | Universal Colloquial Vocabulary across Latin America                       | SL      | LE, ES    | —           |        |
 
 **B2.4.2 Regional Dialects & Vocabulary Focus (e.g., Bolivian _Voseo_, regional slang)**
