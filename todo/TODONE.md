@@ -129,3 +129,29 @@ masculine singular nouns).
   content files, and pushed 20 flashcards to Anki (deck
   `Spanish::A1-Breakthrough-Absolute-Beginner::A1-5-Functional-Vocabulary-Survival-Expressions::A1-5-2-Numbers-Dates-Time::A1-5-2-4-Ordinal-Numbers`,
   verified 20/20 via `findCards`). Marked `status: complete`, outline status ✅.
+
+## TD-010 — No clothing, general shopping, or money/prices vocabulary
+
+- **Type:** suggestion
+- **Created:** 2026-08-14
+- **Completed:** 2026-08-14
+
+A1.5.3 is titled "Immediate Needs, Directions & Basic Shopping/Dining" but its actual
+subsections only cover basic needs phrasing, ordering food, and directions — clothing
+vocabulary, general shopping (sizes, trying things on, colors of clothing), and
+money/prices/bargaining phrasing never appear anywhere in the outline despite being
+named in the section title. Suggest a new A1.5.4 or A2.4 subsection covering clothing
+items, shopping phrases, and prices/money.
+
+- **Resolution:** Added a new **A1.5.4 Clothing, General Shopping & Money/Prices**
+  subsection to `CEFR/CEFR-Outline.md` and `CEFR/CEFR-Folder-Structure.md`, with
+  three lessons built end to end via the `new-lesson` workflow: **A1.5.4.1 Clothing
+  Items, Colors, and Sizes**, **A1.5.4.2 General Shopping Phrases**, and **A1.5.4.3
+  Money, Prices, and Bargaining**. Each has a video (SpanishPod101, verified live on
+  the channel via browser search), lesson body, practice PDF, `05 Conversations`
+  file, MOC link (`Vocabulary.md` for A1.5.4.1, `Sentence-Formulas.md` for A1.5.4.2
+  and A1.5.4.3), passed `spanish-style-reviewer` on all lesson/conversation/flashcard
+  files (one redundant-subject-pronoun fix and one stale note-text fix applied), and
+  56 flashcards pushed to Anki total (20 + 18 + 18, verified via `findCards`). All
+  three marked `status: complete`, outline status ✅, committed as three separate
+  commits (`A1.5.4.1`, `A1.5.4.2`, `A1.5.4.3`).

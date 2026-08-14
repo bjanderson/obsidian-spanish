@@ -61,18 +61,6 @@ doctor/pharmacy visit — a core practical-Spanish domain that's currently entir
 absent. Suggest a new A2.4.4 subsection: body parts, common symptoms/illness
 vocabulary, and doctor/pharmacy interaction phrases.
 
-## TD-010 — No clothing, general shopping, or money/prices vocabulary
-
-- **Type:** suggestion
-- **Created:** 2026-08-14
-
-A1.5.3 is titled "Immediate Needs, Directions & Basic Shopping/Dining" but its actual
-subsections only cover basic needs phrasing, ordering food, and directions — clothing
-vocabulary, general shopping (sizes, trying things on, colors of clothing), and
-money/prices/bargaining phrasing never appear anywhere in the outline despite being
-named in the section title. Suggest a new A1.5.4 or A2.4 subsection covering clothing
-items, shopping phrases, and prices/money.
-
 ## TD-011 — Superlatives (_-ísimo_, _el más... de_) never explicitly taught
 
 - **Type:** suggestion
