@@ -426,6 +426,13 @@ Thin on Qroo source — mostly channel/immersion-driven vocabulary lessons.
 | A2.4.3.2 | Hotel Reservations and Travel Logistics                           | SP101   | SG        | —           | ✅     |
 | A2.4.3.3 | Emergency Vocabulary (_¡Ayuda!, Perdí mi..., Necesito un médico_) | SP101   | SG        | —           | ✅     |
 
+**A2.4.4 Food & Cooking Vocabulary**
+
+| Code     | Topic                                                            | Formula | Immersion | Qroo Source | Status |
+| -------- | ----------------------------------------------------------------- | ------- | --------- | ----------- | ------ |
+| A2.4.4.1 | Fruits, Vegetables, Meats, and Grocery-Shopping Vocabulary         | SP101   | SG        | —           | ✅     |
+| A2.4.4.2 | Common Cooking Verbs (_hervir, freír, picar, hornear_)             | SP101   | SG        | —           |        |
+
 ---
 
 ## 🟠 Level B1: Threshold / Intermediate

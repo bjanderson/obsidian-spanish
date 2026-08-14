@@ -17,6 +17,7 @@
 - [[A2.4.3.1 Public Transit Tickets]]
 - [[A2.4.3.2 Hotel Reservations Logistics]]
 - [[A2.4.3.3 Emergency Vocabulary]]
+- [[A2.4.4.1 Food Items Groceries]]
 - [[B2.4.1.1 Trans Regional Idioms]]
 - [[B2.4.1.2 Universal Colloquial Vocabulary]]
 - [[B2.4.2.2 Bolivian Colloquial Slang]]
