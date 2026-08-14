@@ -82,3 +82,50 @@ correct Anki profile selected) so future lessons don't need this manual workarou
   renamed the Anki note tag from `obsidian_simple_anki_sync_created` to
   `obsidian_flashcards_synced` on all 20 existing notes via AnkiConnect's
   `replaceTagsInAllNotes`.
+
+## TD-004 — Long-form possessive pronouns never taught (_mío, tuyo, suyo, nuestro_)
+
+- **Type:** suggestion
+- **Created:** 2026-08-14
+- **Completed:** 2026-08-14
+
+A1.3.5.1 only teaches short-form possessive adjectives (_mi, tu, su, nuestro_ before a
+noun). The long-form possessive pronouns/adjectives (_el mío, la tuya, los suyos_ —
+used after the noun or standalone, e.g. "Es mío" / "el libro mío") never appear
+anywhere in the outline. Suggest a new lesson, likely A2 (e.g. a new A1.3.5.3 or an
+A2.4 addition), covering form and the after-noun/standalone uses.
+
+- **Resolution:** Built as a new lesson **A1.3.5.3 Long Form Possessive Pronouns**
+  (user chose this placement — directly extending A1.3.5 rather than a new A2
+  section — over an AskUserQuestion prompt). Added the row to
+  `CEFR/CEFR-Outline.md` and `CEFR/CEFR-Folder-Structure.md`, then ran the full
+  `new-lesson` workflow: lesson body (form, standalone/after-noun uses, _suyo_
+  ambiguity), practice PDF, `05 Conversations` file (4 pattern groups), linked into
+  `02 MOCs/Grammar-Structures.md`, backlinked from `A1.3.5.1 Short Form
+  Possessives`, passed `spanish-style-reviewer` on all three content files, and
+  pushed 13 flashcards to Anki (deck
+  `Spanish::A1-Breakthrough-Absolute-Beginner::A1-3-Essential-Verbs-Present-Indicative::A1-3-5-Possessive-Demonstrative-Adjectives::A1-3-5-3-Long-Form-Possessive-Pronouns`,
+  verified 13/13 via `findCards`). Marked `status: complete`, outline status ✅, and
+  committed as `A1.3.5.3`.
+
+## TD-006 — Ordinal numbers (_primero, segundo... décimo_) not covered
+
+- **Type:** suggestion
+- **Created:** 2026-08-14
+- **Completed:** 2026-08-14
+
+A1.5.2.1 covers cardinal numbers (0–100+) but ordinal numbers never appear anywhere
+in the outline. Suggest adding a lesson alongside A1.5.2 (e.g. A1.5.2.4), covering
+ordinals 1st–10th+ and their agreement/truncation rules (_primer, tercer_ before
+masculine singular nouns).
+
+- **Resolution:** Built as a new lesson **A1.5.2.4 Ordinal Numbers**, added directly
+  to `CEFR/CEFR-Outline.md` at the suggested slot. Ran the full `new-lesson`
+  workflow: video found on SpanishPod101 (approved channel), lesson body
+  (1st-10th forms, gender agreement, _primer/tercer_ truncation before masculine
+  singular nouns, note on cardinals replacing ordinals past 10th in speech),
+  practice PDF, `05 Conversations` file (5 pattern groups, 25 sentences), linked
+  into `02 MOCs/Vocabulary.md`, passed `spanish-style-reviewer` on all three
+  content files, and pushed 20 flashcards to Anki (deck
+  `Spanish::A1-Breakthrough-Absolute-Beginner::A1-5-Functional-Vocabulary-Survival-Expressions::A1-5-2-Numbers-Dates-Time::A1-5-2-4-Ordinal-Numbers`,
+  verified 20/20 via `findCards`). Marked `status: complete`, outline status ✅.

@@ -275,6 +275,7 @@ Qroo's densest early stretch — most of Master Course Lessons 1–14 land here.
 | A1.5.2.1 | Cardinal Numbers (0–100+)                                | SP101   | SG        | `summary-22.md`/`Exercise-22...`                                                                                       | ✅     |
 | A1.5.2.2 | Calendar Vocabulary (Days, Months, Dates)                | SP101   | SG        | `summary-22.md`                                                                                                        | ✅     |
 | A1.5.2.3 | Time Expressions (_¿Qué hora es?, Es la..., Son las..._) | SP101   | SG        | `summary-22.md`; `Summary-23.md` (_hace/desde/desde hace_ — more advanced, hold for A1.5.2.3 extension or reuse at B1) | ✅     |
+| A1.5.2.4 | Ordinal Numbers (_primero–décimo_+)                       | SP101   | SG        | —                                                                                                                       | ✅     |
 
 **A1.5.3 Immediate Needs, Directions & Basic Shopping/Dining**
 
