@@ -56,6 +56,10 @@ Here is your updated master list of YouTube channels for learning Latin American
 
 - **Focus:** Large structured library (2K+ videos) of vocabulary lists, common phrases, and listening-comprehension practice for everyday conversation.
 
+14. **[Spanish With Liliana](https://www.youtube.com/@SpanishWithLiliana)** — **A1 – C1**
+
+- **Focus:** Short, easy-to-follow lessons on verb conjugation and everyday grammar points (e.g. _por_ vs. _para_), plus bilingual short stories for reading practice across levels.
+
 ---
 
 ### 🔁 Secondary / Fallback Channels
@@ -65,23 +69,23 @@ lesson's exact topic** — e.g. narrow phonetics points (syllable stress, diphth
 intonation) that the primary grammar-focused channels don't cover. Always check the
 full master list first.
 
-14. **[LearnCraft Spanish](https://www.youtube.com/@learncraftspanish)** — **A1 – B1**
+15. **[LearnCraft Spanish](https://www.youtube.com/@learncraftspanish)** — **A1 – B1**
 
 - **Focus:** Short, targeted pronunciation and grammar-rule videos (e.g. syllable stress) filling gaps the primary channels don't cover.
 
-15. **[Professor Jason – Spanish and Portuguese](https://www.youtube.com/@Professorjason)** — **A1 – A2**
+16. **[Professor Jason – Spanish and Portuguese](https://www.youtube.com/@Professorjason)** — **A1 – A2**
 
 - **Focus:** University-style phonetics lessons — vowel combinations, diphthongs, and hiatus.
 
-16. **[The Touring Experience](https://www.youtube.com/@EspagnolEnLigne)** — **A1 – A2**
+17. **[The Touring Experience](https://www.youtube.com/@EspagnolEnLigne)** — **A1 – A2**
 
 - **Focus:** Short intonation and pronunciation drills, including statement-vs-question pitch contrast.
 
-17. **[StoryLearning Spanish](https://www.youtube.com/c/StoryLearningSpanish)** — **A1 – B1**
+18. **[StoryLearning Spanish](https://www.youtube.com/c/StoryLearningSpanish)** — **A1 – B1**
 
 - **Focus:** Short, focused grammar-rule videos filling narrow gaps (e.g. punctuation, invariable adjectives) the primary channels don't cover. Content draws on speakers from both Spain and Latin America — check each video against the neutral Latin American Spanish rule before using it in a lesson.
 
-18. **[Learn Spanish With David](https://www.youtube.com/@learnspanishwithdavid)** — **A1 – B2**
+19. **[Learn Spanish With David](https://www.youtube.com/@learnspanishwithdavid)** — **A1 – B2**
 
 - **Focus:** Shortcut-style breakdowns of tricky grammar points (_por_ vs. _para_, past tense, word order) and practical conversation tips. Creator is based in Spain — check each video against the neutral Latin American Spanish rule before using it in a lesson.
 
@@ -106,7 +110,9 @@ full master list first.
 
 <br>[The Spanish Dude](https://www.google.com/search?q=https://www.youtube.com/%40elspanishdude)<br>
 
-<br>[The Language Tutor](https://www.youtube.com/@TheLanguageTutor) | [Why Not Spanish?](https://www.youtube.com/@WhyNotSpanish)<br>
+<br>[The Language Tutor](https://www.youtube.com/@TheLanguageTutor)<br>
+
+<br>[Spanish With Liliana](https://www.youtube.com/@SpanishWithLiliana) | [Why Not Spanish?](https://www.youtube.com/@WhyNotSpanish)<br>
 
 <br>[Spanish and Go](https://www.youtube.com/@SpanishandGo)<br>
 
@@ -115,7 +121,9 @@ full master list first.
 
 <br>[Spanish With Qroo Paul](https://www.youtube.com/@QrooSpanish)<br>
 
-<br>[The Spanish Dude](https://www.google.com/search?q=https://www.youtube.com/%40elspanishdude) | [Latin ELE](https://www.youtube.com/@LatinELE)<br>
+<br>[The Spanish Dude](https://www.google.com/search?q=https://www.youtube.com/%40elspanishdude)<br>
+
+<br>[Spanish With Liliana](https://www.youtube.com/@SpanishWithLiliana) | [Latin ELE](https://www.youtube.com/@LatinELE)<br>
 
 <br>[Why Not Spanish?](https://www.youtube.com/@WhyNotSpanish) | Present Subjunctive triggers, commands/imperative, double object pronouns (_se lo_ rule), prepositions (_por_ vs. _para_), and transition words. |
 | **B2 Upper Intermediate** | [Spanishland School](https://www.youtube.com/@SpanishlandSchool)<br>

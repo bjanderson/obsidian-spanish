@@ -1,5 +1,6 @@
 {
   "outputStyle": "STE100",
+  "env": { "USE_BUILTIN_RIPGREP": "0" },
   "hooks": {
     "PreToolUse": [
       {
