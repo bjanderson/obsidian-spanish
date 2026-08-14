@@ -285,6 +285,14 @@ Qroo's densest early stretch — most of Master Course Lessons 1–14 land here.
 | A1.5.3.2 | Ordering Food and Asking for the Check (_La cuenta, por favor_)         | SP101   | SG        | —                                                                                           | ✅     |
 | A1.5.3.3 | Simple Directional Vocabulary (_A la derecha, A la izquierda, Derecho_) | SP101   | SG        | —                                                                                           | ✅     |
 
+**A1.5.4 Clothing, General Shopping & Money/Prices**
+
+| Code     | Topic                                                                  | Formula | Immersion | Qroo Source | Status |
+| -------- | ----------------------------------------------------------------------- | ------- | --------- | ----------- | ------ |
+| A1.5.4.1 | Clothing Items, Colors, and Sizes                                       | SP101   | SG        | —           | ✅     |
+| A1.5.4.2 | General Shopping Phrases (_¿Puedo probármelo?, Solo estoy mirando_)     | SP101   | SG        | —           | ✅     |
+| A1.5.4.3 | Money, Prices, and Bargaining (_¿Cuánto cuesta?, Es muy caro, Le hago un descuento_) | QP | SG | — | ✅     |
+
 ---
 
 ## 🟡 Level A2: Waystage / Elementary

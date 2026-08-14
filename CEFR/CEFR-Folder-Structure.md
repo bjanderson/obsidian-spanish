@@ -74,10 +74,14 @@ sanitized: every space and every period becomes a hyphen.
 │ │ ├── A1.5.2.1 Cardinal Numbers 0 to 100.md
 │ │ ├── A1.5.2.2 Calendar Vocabulary.md
 │ │ └── A1.5.2.3 Time Expressions.md
-│ └── A1.5.3 Immediate Needs Directions Shopping Dining/
-│ ├── A1.5.3.1 Expressing Basic Needs.md
-│ ├── A1.5.3.2 Ordering Food and Paying.md
-│ └── A1.5.3.3 Directional Vocabulary.md
+│ ├── A1.5.3 Immediate Needs Directions Shopping Dining/
+│ │ ├── A1.5.3.1 Expressing Basic Needs.md
+│ │ ├── A1.5.3.2 Ordering Food and Paying.md
+│ │ └── A1.5.3.3 Directional Vocabulary.md
+│ └── A1.5.4 Clothing General Shopping Money Prices/
+│ ├── A1.5.4.1 Clothing Items Colors and Sizes.md
+│ ├── A1.5.4.2 General Shopping Phrases.md
+│ └── A1.5.4.3 Money Prices and Bargaining.md
 │
 ├── A2 Waystage Elementary/
 │ ├── A2.1 Past Tenses Foundations/

@@ -7,6 +7,7 @@
 - [[A1.5.2.2 Calendar Vocabulary]]
 - [[A1.5.2.4 Ordinal Numbers]]
 - [[A1.5.3.3 Directional Vocabulary]]
+- [[A1.5.4.1 Clothing Items Colors and Sizes]]
 - [[A2.1.1.3 Time Markers for Preterite]]
 - [[A2.2.3.2 Daily Routine Verbs]]
 - [[A2.4.1.1 Extended Family Vocabulary]]
