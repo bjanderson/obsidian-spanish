@@ -232,6 +232,7 @@ Qroo's densest early stretch — most of Master Course Lessons 1–14 land here.
 | -------- | --------------------------------------------------------- | ------- | --------- | -------------------------------- | ------ |
 | A1.3.5.1 | Short-Form Possessives (_mi, tu, su, nuestro_)            | LT      | BF        | `Summary-19.md`/`Exercise-19.md` | ✅     |
 | A1.3.5.2 | Demonstrative Adjectives by Distance (_este, ese, aquel_) | LT      | BF        | `master-10.md`/`10-exercise.md`  | ✅     |
+| A1.3.5.3 | Long-Form Possessive Pronouns (_el mío, la tuya, los suyos_) | LT      | BF        | —                                 | ✅     |
 
 ### A1.4 Pronouns & Sentence Structure
 
