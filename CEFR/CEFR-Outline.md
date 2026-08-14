@@ -433,6 +433,13 @@ Thin on Qroo source — mostly channel/immersion-driven vocabulary lessons.
 | A2.4.4.1 | Fruits, Vegetables, Meats, and Grocery-Shopping Vocabulary         | SP101   | SG        | —           | ✅     |
 | A2.4.4.2 | Common Cooking Verbs (_hervir, freír, picar, hornear_)             | SP101   | SG        | —           | ✅     |
 
+**A2.4.5 False Friends (_Falsos Amigos_)**
+
+| Code     | Topic                                                                                      | Formula | Immersion | Qroo Source | Status |
+| -------- | -------------------------------------------------------------------------------------------- | ------- | --------- | ----------- | ------ |
+| A2.4.5.1 | High-Frequency False Friends: Near-Total Mismatches (_embarazada, éxito, sopa, carpeta_)      | SP101   | SG        | —           | ✅     |
+| A2.4.5.2 | High-Frequency False Friends: Partial/Tricky Overlaps (_actualmente, realizar, atender_)      | SP101   | SG        | —           | ✅     |
+
 ---
 
 ## 🟠 Level B1: Threshold / Intermediate

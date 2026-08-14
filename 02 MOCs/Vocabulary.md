@@ -19,6 +19,8 @@
 - [[A2.4.3.3 Emergency Vocabulary]]
 - [[A2.4.4.1 Food Items Groceries]]
 - [[A2.4.4.2 Cooking Verbs]]
+- [[A2.4.5.1 Near-Total False Friends]]
+- [[A2.4.5.2 Partial False Friends]]
 - [[B2.4.1.1 Trans Regional Idioms]]
 - [[B2.4.1.2 Universal Colloquial Vocabulary]]
 - [[B2.4.2.2 Bolivian Colloquial Slang]]
