@@ -440,6 +440,13 @@ Thin on Qroo source — mostly channel/immersion-driven vocabulary lessons.
 | A2.4.5.1 | High-Frequency False Friends: Near-Total Mismatches (_embarazada, éxito, sopa, carpeta_)      | SP101   | SG        | —           | ✅     |
 | A2.4.5.2 | High-Frequency False Friends: Partial/Tricky Overlaps (_actualmente, realizar, atender_)      | SP101   | SG        | —           | ✅     |
 
+**A2.4.6 Health, Body, & Doctor's Office**
+
+| Code     | Topic                                                                | Formula | Immersion | Qroo Source | Status |
+| -------- | ----------------------------------------------------------------------- | ------- | --------- | ----------- | ------ |
+| A2.4.6.1 | Body Parts and Common Symptoms/Illness Vocabulary                       | SP101   | SG        | —           | ✅     |
+| A2.4.6.2 | Doctor and Pharmacy Interaction Phrases                                 | SP101   | SG        | —           | ✅     |
+
 ---
 
 ## 🟠 Level B1: Threshold / Intermediate

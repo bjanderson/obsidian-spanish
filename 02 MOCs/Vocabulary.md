@@ -21,6 +21,8 @@
 - [[A2.4.4.2 Cooking Verbs]]
 - [[A2.4.5.1 Near-Total False Friends]]
 - [[A2.4.5.2 Partial False Friends]]
+- [[A2.4.6.1 Body Parts and Symptoms]]
+- [[A2.4.6.2 Doctor and Pharmacy Phrases]]
 - [[B2.4.1.1 Trans Regional Idioms]]
 - [[B2.4.1.2 Universal Colloquial Vocabulary]]
 - [[B2.4.2.2 Bolivian Colloquial Slang]]
