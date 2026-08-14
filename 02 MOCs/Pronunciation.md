@@ -10,3 +10,5 @@
 - [[A1.1.3.1 Inverted Punctuation Marks]]
 - [[A1.1.3.2 Capitalization Rules]]
 - [[B2.4.2.3 Andean Lowland Phonetics Cadence]]
+- [[C1.3.3.1 Fast Speech Elision Assimilation]]
+- [[C1.3.3.2 Regional Accents Caribbean Rioplatense Andean]]

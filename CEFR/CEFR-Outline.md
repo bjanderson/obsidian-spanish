@@ -121,10 +121,11 @@ the pace table as a planning default, not a commitment; adjust freely.
 1. A1, A2, all of B1, all of B2 (B2.1 Advanced Subjunctive &
    Hypothetical Structures, B2.2 Passive Voice & Impersonal Structures,
    B2.3 Discourse Registers & Pragmatics, B2.4 Regional Diversity &
-   Colloquialisms, B2.5 The Neuter _Lo_ and Its Functions), all of
-   C1.1 (Complex Syntax & Relative Clauses), and all of C1.2 (Formal,
-   Professional, & Academic Register) are complete. Continue with
-   C1.3 (Advanced Cultural & Sociolinguistic Nuance) next.
+   Colloquialisms, B2.5 The Neuter _Lo_ and Its Functions), and all of C1
+   (C1.1 Complex Syntax & Relative Clauses, C1.2 Formal, Professional, &
+   Academic Register, C1.3 Advanced Cultural & Sociolinguistic Nuance)
+   are complete. Continue with C2.1 (Stylistic Perfection & Literary
+   Precision) next.
 2. Work levels in order — the Qroo source material and the channel progression are
    both sequential, and later lessons assume earlier ones.
 3. Revisit the pacing table after the first few weeks of actual lesson-building time
@@ -747,15 +748,15 @@ Qroo's course is entirely conversational — no material here at all.
 
 | Code     | Topic                                                 | Formula | Immersion | Qroo Source                                                                                                    | Status |
 | -------- | ----------------------------------------------------- | ------- | --------- | -------------------------------------------------------------------------------------------------------------- | ------ |
-| C1.3.2.1 | Traditional Proverbs (_Más vale pajarito en mano..._) | —       | ES, LE    | —                                                                                                              |        |
-| C1.3.2.2 | Cultural and Historical Allusions in Daily Speech     | —       | ES, LE    | `2025_04_26-POSTED-Cultural-Differences-Sound-taste-smell.md` (cross-cultural sensory description differences) |        |
+| C1.3.2.1 | Traditional Proverbs (_Más vale pajarito en mano..._) | —       | ES, LE    | —                                                                                                              | ✅      |
+| C1.3.2.2 | Cultural and Historical Allusions in Daily Speech     | —       | ES, LE    | `2025_04_26-POSTED-Cultural-Differences-Sound-taste-smell.md` (cross-cultural sensory description differences) | ✅      |
 
 **C1.3.3 Rapid Native Speed Auditory Comprehension Across Diverse Accents**
 
 | Code     | Topic                                                                | Formula | Immersion | Qroo Source | Status |
 | -------- | -------------------------------------------------------------------- | ------- | --------- | ----------- | ------ |
-| C1.3.3.1 | Phonetic Reductions, Elision, and Assimilation in Fast Speech        | —       | ES        | —           |        |
-| C1.3.3.2 | Comprehension of Caribbean, Rioplatense, Mexican, and Andean Accents | —       | ES, LE    | —           |        |
+| C1.3.3.1 | Phonetic Reductions, Elision, and Assimilation in Fast Speech        | —       | ES        | —           | ✅      |
+| C1.3.3.2 | Comprehension of Caribbean, Rioplatense, Mexican, and Andean Accents | —       | ES, LE    | —           | ✅      |
 
 Supplementary vocabulary note: `Summary-63.md` (sensory verbs _saber a, oler a, sonar,
 parecerse..._) doesn't map to a specific outline code but is useful supporting
