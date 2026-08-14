@@ -26,17 +26,6 @@ outline teaches their formation or pragmatic use. A natural fit is a new B2.3
 subsection (pairs well with the existing "Softening Requests" B2.3.2 lesson) or a
 dedicated A2.4 vocabulary/word-formation lesson for the basic size/affection sense.
 
-## TD-008 — No dedicated lesson on false friends (_falsos amigos_)
-
-- **Type:** suggestion
-- **Created:** 2026-08-14
-
-High-value for English-speaking learners (_embarazada_ ≠ embarrassed, _éxito_ ≠ exit,
-_actualmente_ ≠ actually, _realizar_ ≠ realize, _sopa_ ≠ soap, _carpeta_ ≠ carpet) but
-no lesson anywhere addresses false friends as a category. Suggest a new A2 or B1
-vocabulary lesson (e.g. a new A2.4 subsection) collecting the highest-frequency
-false-friend pairs.
-
 ## TD-009 — No health, body-parts, or doctor's-office vocabulary anywhere
 
 - **Type:** suggestion

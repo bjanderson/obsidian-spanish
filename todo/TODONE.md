@@ -203,3 +203,26 @@ approved-channel video was found for the _llevar_ + gerund topic specifically, s
 that field was left blank per the no-fabrication rule. 37 flashcards pushed to Anki
 total (19 + 18, verified via `findCards`). Both lessons marked `status: complete`,
 outline status ✅, committed as two separate commits (`B1.1.4.1`, `B1.1.4.2`).
+
+## TD-008 — No dedicated lesson on false friends (_falsos amigos_)
+
+- **Type:** suggestion
+- **Created:** 2026-08-14
+- **Completed:** 2026-08-14
+
+High-value for English-speaking learners (_embarazada_ ≠ embarrassed, _éxito_ ≠ exit,
+_actualmente_ ≠ actually, _realizar_ ≠ realize, _sopa_ ≠ soap, _carpeta_ ≠ carpet) but
+no lesson anywhere addresses false friends as a category. Suggest a new A2 or B1
+vocabulary lesson (e.g. a new A2.4 subsection) collecting the highest-frequency
+false-friend pairs.
+
+**Resolution:** Added a new A2.4.5 "False Friends (_Falsos Amigos_)" subsection to
+`CEFR/CEFR-Outline.md` with two lessons: A2.4.5.1 (near-total mismatches —
+_embarazada, éxito, sopa, carpeta, librería, pie, ropa, molestar_) and A2.4.5.2
+(partial/tricky overlaps — _actualmente, realizar, atender, asistir, introducir,
+discutir_). Both lessons fully built (body, practice PDF, conversations file, MOC
+link) and marked `status: complete`, outline status ✅. 20 and 17 flashcards
+respectively pushed to Anki (verified via `findCards`). No approved-channel YouTube
+video was found for either lesson despite searching Spanish With Qroo Paul, The
+Spanish Dude, Butterfly Spanish, Spanishland School, and others — left blank per the
+no-fabrication rule. Committed as a single commit (`A2.4.5.1, A2.4.5.2`).
