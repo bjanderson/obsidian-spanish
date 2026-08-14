@@ -15,3 +15,5 @@
 - [[C1.2.1.1 Formal Openings Closings]]
 - [[C1.2.1.2 Diplomatic Business Language]]
 - [[C1.2.2.1 Structuring Arguments Academic Connectors]]
+- [[C1.3.2.1 Traditional Proverbs Refranes]]
+- [[C1.3.2.2 Cultural Historical Allusions]]
