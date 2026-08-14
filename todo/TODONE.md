@@ -226,3 +226,28 @@ respectively pushed to Anki (verified via `findCards`). No approved-channel YouT
 video was found for either lesson despite searching Spanish With Qroo Paul, The
 Spanish Dude, Butterfly Spanish, Spanishland School, and others — left blank per the
 no-fabrication rule. Committed as a single commit (`A2.4.5.1, A2.4.5.2`).
+
+## TD-009 — No health, body-parts, or doctor's-office vocabulary anywhere
+
+- **Type:** suggestion
+- **Created:** 2026-08-14
+- **Completed:** 2026-08-14
+
+A2.4 (Practical Vocabulary & Situational Usage) covers family/home, work/weather, and
+transportation/travel, but has no subsection for body parts, symptoms, illness, or a
+doctor/pharmacy visit — a core practical-Spanish domain that's currently entirely
+absent. Suggest a new A2.4.4 subsection: body parts, common symptoms/illness
+vocabulary, and doctor/pharmacy interaction phrases.
+
+**Resolution:** Added a new A2.4.6 "Health, Body, & Doctor's Office" subsection to
+`CEFR/CEFR-Outline.md` (A2.4.4 and A2.4.5 were already taken by the time this was
+built) with two lessons: A2.4.6.1 (Body Parts and Common Symptoms/Illness Vocabulary
+— _doler_/_gustar_-pattern agreement, definite article for body parts, _tener
+fiebre/tos/náuseas/gripe_, _estar resfriado/mareado/enfermo_) and A2.4.6.2 (Doctor
+and Pharmacy Interaction Phrases — _sacar una cita_, _desde hace_ + duration,
+_recetar/receta_, formal _usted_ commands, pharmacy phrases). Both lessons fully
+built (body, practice PDF, conversations file, MOC link) and marked `status:
+complete`, outline status ✅. 17 and 16 flashcards respectively pushed to Anki
+(verified via `findCards`). No approved-channel YouTube video was found for either
+lesson despite an extensive search — left blank per the no-fabrication rule.
+Committed as a single commit (`A2.4.6.1, A2.4.6.2`).

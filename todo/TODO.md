@@ -26,17 +26,6 @@ outline teaches their formation or pragmatic use. A natural fit is a new B2.3
 subsection (pairs well with the existing "Softening Requests" B2.3.2 lesson) or a
 dedicated A2.4 vocabulary/word-formation lesson for the basic size/affection sense.
 
-## TD-009 — No health, body-parts, or doctor's-office vocabulary anywhere
-
-- **Type:** suggestion
-- **Created:** 2026-08-14
-
-A2.4 (Practical Vocabulary & Situational Usage) covers family/home, work/weather, and
-transportation/travel, but has no subsection for body parts, symptoms, illness, or a
-doctor/pharmacy visit — a core practical-Spanish domain that's currently entirely
-absent. Suggest a new A2.4.4 subsection: body parts, common symptoms/illness
-vocabulary, and doctor/pharmacy interaction phrases.
-
 ## TD-011 — Superlatives (_-ísimo_, _el más... de_) never explicitly taught
 
 - **Type:** suggestion
