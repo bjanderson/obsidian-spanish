@@ -180,3 +180,26 @@ multiple searches, so both lessons' `youtube` fields were left blank per the
 no-fabrication rule. 38 flashcards pushed to Anki total (19 + 19, verified via
 `findCards`). Both lessons marked `status: complete`, outline status ✅, committed
 as two separate commits (`A2.4.4.1`, `A2.4.4.2`).
+
+## TD-007 — _Hace/desde/desde hace_ and _llevar_ + gerund duration expressions: flagged in the outline itself but never built
+
+- **Type:** discovery
+- **Created:** 2026-08-14
+- **Completed:** 2026-08-14
+
+The outline's own Qroo Source note for A1.5.2.3 explicitly says `Summary-23.md`
+(_hace/desde/desde hace_) was held back "for A1.5.2.3 extension or reuse at B1" — but
+no lesson anywhere in the outline (A1 through C2) actually covers these duration
+expressions, or the closely related _llevar_ + gerund construction (_Llevo tres años
+viviendo aquí_). This is a genuine, pre-existing gap the outline author already
+noticed and never resolved. Suggest a new B1 lesson (e.g. under B1.1, alongside the
+other advanced-past-tense material) covering all three constructions together.
+
+**Resolution:** Split into two lessons rather than combining all constructions into
+one, per the vault's "one grammar point per lesson" rule — added B1.1.4 as a new
+subsection under B1.1: B1.1.4.1 (_hace_, _desde_, and _desde hace_) and B1.1.4.2
+(_llevar_ + gerund). B1.1.4.1 found a matching video on Spanishland School; no
+approved-channel video was found for the _llevar_ + gerund topic specifically, so
+that field was left blank per the no-fabrication rule. 37 flashcards pushed to Anki
+total (19 + 18, verified via `findCards`). Both lessons marked `status: complete`,
+outline status ✅, committed as two separate commits (`B1.1.4.1`, `B1.1.4.2`).

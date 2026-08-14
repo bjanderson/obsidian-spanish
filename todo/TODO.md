@@ -26,19 +26,6 @@ outline teaches their formation or pragmatic use. A natural fit is a new B2.3
 subsection (pairs well with the existing "Softening Requests" B2.3.2 lesson) or a
 dedicated A2.4 vocabulary/word-formation lesson for the basic size/affection sense.
 
-## TD-007 — _Hace/desde/desde hace_ and _llevar_ + gerund duration expressions: flagged in the outline itself but never built
-
-- **Type:** discovery
-- **Created:** 2026-08-14
-
-The outline's own Qroo Source note for A1.5.2.3 explicitly says `Summary-23.md`
-(_hace/desde/desde hace_) was held back "for A1.5.2.3 extension or reuse at B1" — but
-no lesson anywhere in the outline (A1 through C2) actually covers these duration
-expressions, or the closely related _llevar_ + gerund construction (_Llevo tres años
-viviendo aquí_). This is a genuine, pre-existing gap the outline author already
-noticed and never resolved. Suggest a new B1 lesson (e.g. under B1.1, alongside the
-other advanced-past-tense material) covering all three constructions together.
-
 ## TD-008 — No dedicated lesson on false friends (_falsos amigos_)
 
 - **Type:** suggestion
