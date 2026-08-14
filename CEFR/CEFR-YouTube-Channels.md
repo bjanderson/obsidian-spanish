@@ -89,6 +89,10 @@ full master list first.
 
 - **Focus:** Shortcut-style breakdowns of tricky grammar points (_por_ vs. _para_, past tense, word order) and practical conversation tips. Creator is based in Spain — check each video against the neutral Latin American Spanish rule before using it in a lesson.
 
+20. **[Learn Spanish with Sebas](https://www.youtube.com/@LearnSpanishwithSebas)** — **A1 – B1**
+
+- **Focus:** Colombian teacher (Bogotá) covering everyday grammar, verbs, and spoken expressions in neutral Latin American Spanish. Includes a dedicated false-friends/_falsos amigos_ vocabulary video — a gap the primary channels don't cover.
+
 ---
 
 ### 📌 Master CEFR Mapping & Methodology Alignment
