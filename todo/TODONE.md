@@ -155,3 +155,28 @@ items, shopping phrases, and prices/money.
   56 flashcards pushed to Anki total (20 + 18 + 18, verified via `findCards`). All
   three marked `status: complete`, outline status ✅, committed as three separate
   commits (`A1.5.4.1`, `A1.5.4.2`, `A1.5.4.3`).
+
+## TD-017 — No food/cooking vocabulary beyond restaurant ordering
+
+- **Type:** suggestion
+- **Created:** 2026-08-14
+- **Completed:** 2026-08-14
+
+A1.5.3.2 covers ordering food and asking for the check, but there's no lesson for
+food vocabulary itself — fruits, vegetables, meats, common cooking verbs (_hervir,
+freír, picar, hornear_), or grocery-shopping vocabulary. Suggest a new A1 or A2
+subsection under A2.4 (Practical Vocabulary) covering food items and basic cooking
+verbs.
+
+**Resolution:** Added new subsection **A2.4.4 Food & Cooking Vocabulary** to the
+outline (user chose the two-lesson split over a single combined lesson), with two
+new lessons: **A2.4.4.1 Fruits, Vegetables, Meats, and Grocery-Shopping Vocabulary**
+and **A2.4.4.2 Common Cooking Verbs**. Each has a lesson body, practice PDF, `05
+Conversations` file, MOC link (`Vocabulary.md`), and passed `spanish-style-reviewer`
+on all lesson/conversation/flashcard files (one subject-verb agreement fix applied
+to A2.4.4.2's conversations file). No approved YouTube channel (per
+`CEFR-YouTube-Channels.md`) had a confirmed matching video for either topic after
+multiple searches, so both lessons' `youtube` fields were left blank per the
+no-fabrication rule. 38 flashcards pushed to Anki total (19 + 19, verified via
+`findCards`). Both lessons marked `status: complete`, outline status ✅, committed
+as two separate commits (`A2.4.4.1`, `A2.4.4.2`).

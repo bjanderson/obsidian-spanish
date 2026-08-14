@@ -127,17 +127,6 @@ but skips technology/internet/social-media vocabulary entirely — a very common
 real-world domain for C1-level media consumption and conversation. Suggest adding it
 as a fifth domain in C1.2.3.1, or a new C1.2.3.3 lesson.
 
-## TD-017 — No food/cooking vocabulary beyond restaurant ordering
-
-- **Type:** suggestion
-- **Created:** 2026-08-14
-
-A1.5.3.2 covers ordering food and asking for the check, but there's no lesson for
-food vocabulary itself — fruits, vegetables, meats, common cooking verbs (_hervir,
-freír, picar, hornear_), or grocery-shopping vocabulary. Suggest a new A1 or A2
-subsection under A2.4 (Practical Vocabulary) covering food items and basic cooking
-verbs.
-
 ## TD-018 — No sports, hobbies, or leisure-activity vocabulary anywhere
 
 - **Type:** suggestion
