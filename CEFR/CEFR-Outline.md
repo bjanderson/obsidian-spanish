@@ -466,6 +466,13 @@ for subjunctive concept, triggers, and imperfect subjunctive.
 | B1.1.3.1 | Auxiliary _Haber_ in Imperfect (_había, habías..._) + Past Participle           | SL      | LE        | —           | ✅     |
 | B1.1.3.2 | Expressing Actions Prior to Another Past Event (_Ya había comido cuando llegó_) | SL      | LE        | —           | ✅     |
 
+**B1.1.4 Duration Expressions**
+
+| Code     | Topic                                                                          | Formula | Immersion | Qroo Source                                                                       | Status |
+| -------- | ------------------------------------------------------------------------------- | ------- | --------- | ----------------------------------------------------------------------------------- | ------ |
+| B1.1.4.1 | _Hace, Desde,_ and _Desde Hace_ for Elapsed Time (_Hace tres años que..., Vivo aquí desde 2020_) | SL      | LE        | `Summary-23.md` (held back from A1.5.2.3 for B1 reuse per that entry's Qroo Source note) | ✅     |
+| B1.1.4.2 | _Llevar_ + Gerund for Ongoing Duration (_Llevo tres años viviendo aquí_)        | SL      | LE        | —                                                                                    | ✅     |
+
 ### B1.2 Introduction to the Subjunctive Mood
 
 **B1.2.1 Concept: Indicative vs. Subjunctive Mood**

@@ -21,6 +21,8 @@
 - [[B1.1.2.2 Regular Irregular Past Participles]]
 - [[B1.1.2.3 Life Experiences Open Timeframes]]
 - [[B1.1.3.1 Auxiliary Haber Imperfect]]
+- [[B1.1.4.1 Hace Desde and Desde Hace for Elapsed Time]]
+- [[B1.1.4.2 Llevar Plus Gerund for Ongoing Duration]]
 - [[B1.2.2.1 Present Subjunctive Stems]]
 - [[B1.2.2.2 Opposite Vowel Ending Patterns]]
 - [[B1.2.2.3 Irregular Subjunctive Stems DISHES]]
