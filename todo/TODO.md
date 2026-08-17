@@ -163,4 +163,20 @@ with nothing that mixes multiple grammar points from the same level together the
 a real proficiency check would. Worth considering one review/mixed-practice lesson
 per completed level (A1, A2, B1, B2, C1) as a capstone, once a level closes out.
 
+## TD-024 — Redundant subject pronoun "tú" in non-contrastive questions across several 06 Vocabulary/ files
+
+- **Type:** bug
+- **Created:** 2026-08-17
+
+`.claude/rules/spanish-language.md` says to omit subject pronouns when the
+conjugation already makes the subject clear, but several pre-existing vocabulary
+files use non-contrastive "¿[verb] tú...?" questions that keep the redundant *tú*.
+Spotted by `spanish-style-reviewer` while auditing a new batch of vocabulary files.
+Affected files (all under `06 Vocabulary/Verbs/`): abrir.md, crear.md,
+presentar.md, enseñar.md, enviar.md, realizar.md, dirigir.md, pintar.md, pagar.md,
+construir.md, ser.md, mandar.md, recoger.md, cuidar.md, decidir.md, dibujar.md,
+existir.md, formar.md. Also spotted in `06 Vocabulary/Nouns/amiga.md` ("Ella tiene
+amigas en varios países") during a later batch. Needs a review-and-fix pass across
+each file's example-sentence tables.
+
 ---

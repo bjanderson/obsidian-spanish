@@ -4,6 +4,7 @@ paths:
   - "04 Flashcards/**"
   - "03 Attachments/**"
   - "02 MOCs/**"
+  - "06 Vocabulary/**"
 ---
 
 # Spanish and English language conventions

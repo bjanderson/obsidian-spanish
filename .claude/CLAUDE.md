@@ -30,7 +30,7 @@ under `01 Lessons/`, `04 Flashcards/`, `03 Attachments/`, or `02 MOCs/`).
 ## Folder structure
 
 - Use `./Welcome.md` as the entry point to this vault. Assume that it will be opened first, and make it easy to navigate the rest of the vault from there.
-- `00 Templates/` — Lesson Template.md, Flashcard Set Template.md
+- `00 Templates/` — Lesson Template.md, Flashcard Set Template.md, Vocabulary Template.md
 - `01 Lessons/` — nested by CEFR code, one file per lesson at the most granular
   (4th-segment) code. See "Numbering rule" below for the exact folder pattern.
   `02 MOCs/` is the only content folder that does *not* follow this nested pattern.
@@ -54,6 +54,11 @@ under `01 Lessons/`, `04 Flashcards/`, `03 Attachments/`, or `02 MOCs/`).
   match the channel's focus and level to the lesson's CEFR code and topic. If you
   come across a channel that fits this list's pattern but isn't on it, suggest it to
   the user instead of using it or adding it yourself.
+- `06 Vocabulary/<Part of Speech, plural>/<word>.md` — standalone word reference
+  files (full conjugation paradigm + example sentences), separate from the CEFR
+  lesson curriculum. `06 Vocabulary/Vocabulary-Outline.md` tracks which words have a
+  file and links to each. Distinct from `02 MOCs/Vocabulary.md`, which tracks
+  themed vocabulary *lessons* inside `01 Lessons/`.
 - `Qroo/beginner-course/` and `Qroo/intermediate-course/` — raw source material (summaries/exercises) imported from a third-party course ("Qroo Paul's Spanish Master Course", skool.com/qroo). Treat as reference input for drafting lessons, not as vault content itself. **Both folders contain Spain-specific forms (vosotros conjugations, etc.) — strip these out per `.claude/rules/spanish-language.md` when pulling material from either into a lesson.**
 - `todo/TODO.md` / `todo/TODONE.md` — internal bug/improvement/suggestion/insight/discovery tracking for this vault's Claude Code tooling. **Not vault content — never link to `todo/` from a lesson, MOC, `Welcome.md`, or any other note.** A hook (`.claude/hooks/guard-todo-link.js`) blocks this, but don't rely on it. See "Todo tracking" below.
 
@@ -100,6 +105,13 @@ Flashcards are generated and pushed to Anki automatically as the last step of
 `new-lesson` — not a separate later action. Use the `add-flashcards` skill
 (`.claude/skills/add-flashcards/`) directly only to regenerate cards for a
 lesson whose content changed after the fact.
+
+## Creating a vocabulary file
+
+Use the `new-vocabulary` skill (`.claude/skills/new-vocabulary/`) to add a standalone
+word reference file to `06 Vocabulary/` — full conjugation tables plus example
+sentences for a single word, cross-linked to related vocabulary files. This is
+separate from `new-lesson`; it doesn't touch `01 Lessons/` or Anki.
 
 ## Categories currently in use (for `category` frontmatter + MOCs)
 
@@ -152,14 +164,16 @@ lesson whose content changed after the fact.
   the `05 Conversations` sentence file and ends in flashcard generation and
   Anki sync), `add-flashcards` (flashcard regeneration for an
   already-existing lesson; also invoked automatically as the last step of
-  `new-lesson`), `add-todo` / `fix-todo` / `complete-todo` (see "Todo
-  tracking" above).
-- **Agent**: `spanish-style-reviewer` — read-only check of lesson/flashcard
-  content against `.claude/rules/spanish-language.md`. Both skills above
-  dispatch it automatically before reporting done.
+  `new-lesson`), `new-vocabulary` (standalone word reference file in
+  `06 Vocabulary/` — conjugation tables + example sentences), `add-todo` /
+  `fix-todo` / `complete-todo` (see "Todo tracking" above).
+- **Agent**: `spanish-style-reviewer` — read-only check of lesson/flashcard/
+  vocabulary content against `.claude/rules/spanish-language.md`. `new-lesson`,
+  `add-flashcards`, and `new-vocabulary` all dispatch it automatically before
+  reporting done.
 - **Rules**: `.claude/rules/spanish-language.md` — path-scoped, auto-loads
-  when Claude touches `01 Lessons/`, `04 Flashcards/`, `03 Attachments/`, or
-  `02 MOCs/`. `.claude/rules/anki-connect.md` — path-scoped to `04 Flashcards/`,
+  when Claude touches `01 Lessons/`, `04 Flashcards/`, `03 Attachments/`,
+  `02 MOCs/`, or `06 Vocabulary/`. `.claude/rules/anki-connect.md` — path-scoped to `04 Flashcards/`,
   the exact AnkiConnect protocol `add-flashcards` uses to push cards to Anki
   directly (profile, deck naming, note model, duplicate-avoidance, ID write-back).
 - **Hooks**: `guard-lesson-renames.js` (blocks destructive `mv`/`rm` on
