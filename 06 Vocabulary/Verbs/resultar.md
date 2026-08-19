@@ -204,4 +204,3 @@ completeness and aren't included here as a table.
 
 ## Related Vocabulary
 
-- ...

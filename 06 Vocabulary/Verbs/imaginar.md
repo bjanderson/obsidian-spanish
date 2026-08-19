@@ -214,4 +214,3 @@ It's a fully regular *-ar* verb.
 
 ## Related Vocabulary
 
-- ...

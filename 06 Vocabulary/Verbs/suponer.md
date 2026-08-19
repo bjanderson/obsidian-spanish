@@ -219,4 +219,3 @@ irregular future/conditional stems (*supondr-*), and an irregular past participl
 
 ## Related Vocabulary
 
-- ...

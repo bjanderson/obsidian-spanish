@@ -218,4 +218,3 @@ dressed quickly").
 
 ## Related Vocabulary
 
-- ...

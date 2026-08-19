@@ -222,3 +222,4 @@ changes, no irregular forms anywhere in the paradigm.
 
 - [[convertir]] — related sense: to change into or become something.
 - [[volver]] — can mean "to become," a related idea of transformation.
+- [[mejorar]] — a narrower idea; *mejorar* is *cambiar* specifically for the better.

@@ -220,3 +220,4 @@ you need them, but don't force an example sentence out of them.
 
 - [[querer]] — contrast: *poder* is being able to do something, *querer* is wanting to.
 - [[comer]] — a regular *-er* verb, useful as a contrast to *poder*'s irregular forms.
+- [[capaz]] — the adjective form of ability that *poder* expresses as a verb.

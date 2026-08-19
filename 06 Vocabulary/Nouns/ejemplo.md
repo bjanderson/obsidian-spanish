@@ -40,4 +40,3 @@ masculine: *el ejemplo*, following the regular "-*o* = masculine" pattern.
 
 ## Related Vocabulary
 
-- ...

@@ -218,4 +218,3 @@ throughout the present subjunctive.
 
 ## Related Vocabulary
 
-- ...

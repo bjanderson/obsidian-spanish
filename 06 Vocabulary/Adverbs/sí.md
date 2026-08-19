@@ -46,4 +46,3 @@ though the spelling is identical.
 
 ## Related Vocabulary
 
-- ...

@@ -25,12 +25,14 @@ Anki setup details (profile name, AnkiConnect connection, docs links) live in
 
 American English and neutral Latin American Spanish rules for lesson/flashcard content
 live in `.claude/rules/spanish-language.md` (auto-loads whenever Claude works with files
-under `01 Lessons/`, `04 Flashcards/`, `03 Attachments/`, or `02 MOCs/`).
+under `01 Lessons/`, `04 Flashcards/`, `03 Attachments/`, `02 MOCs/`, `06 Vocabulary/`,
+or `07 Stories/`).
 
 ## Folder structure
 
 - Use `./Welcome.md` as the entry point to this vault. Assume that it will be opened first, and make it easy to navigate the rest of the vault from there.
-- `00 Templates/` — Lesson Template.md, Flashcard Set Template.md, Vocabulary Template.md
+- `00 Templates/` — Lesson Template.md, Flashcard Set Template.md, Vocabulary Template.md,
+  Story Template.md
 - `01 Lessons/` — nested by CEFR code, one file per lesson at the most granular
   (4th-segment) code. See "Numbering rule" below for the exact folder pattern.
   `02 MOCs/` is the only content folder that does *not* follow this nested pattern.
@@ -59,6 +61,12 @@ under `01 Lessons/`, `04 Flashcards/`, `03 Attachments/`, or `02 MOCs/`).
   lesson curriculum. `06 Vocabulary/Vocabulary-Outline.md` tracks which words have a
   file and links to each. Distinct from `02 MOCs/Vocabulary.md`, which tracks
   themed vocabulary *lessons* inside `01 Lessons/`.
+- `07 Stories/<Level>/<Title>.md` — standalone graded-reader stories (short
+  Spanish narrative, inline vocabulary links, English translation below),
+  separate from the CEFR lesson curriculum and not linked to flashcards or
+  Anki. `07 Stories/Story-Outline.md` tracks story ideas and build status per
+  CEFR level (A1-C2), each with a target audience so a level's stories cover
+  a range of ages, not just children.
 - `Qroo/beginner-course/` and `Qroo/intermediate-course/` — raw source material (summaries/exercises) imported from a third-party course ("Qroo Paul's Spanish Master Course", skool.com/qroo). Treat as reference input for drafting lessons, not as vault content itself. **Both folders contain Spain-specific forms (vosotros conjugations, etc.) — strip these out per `.claude/rules/spanish-language.md` when pulling material from either into a lesson.**
 - `todo/TODO.md` / `todo/TODONE.md` — internal bug/improvement/suggestion/insight/discovery tracking for this vault's Claude Code tooling. **Not vault content — never link to `todo/` from a lesson, MOC, `Welcome.md`, or any other note.** A hook (`.claude/hooks/guard-todo-link.js`) blocks this, but don't rely on it. See "Todo tracking" below.
 
@@ -113,6 +121,15 @@ word reference file to `06 Vocabulary/` — full conjugation tables plus example
 sentences for a single word, cross-linked to related vocabulary files. This is
 separate from `new-lesson`; it doesn't touch `01 Lessons/` or Anki.
 
+## Creating a story
+
+Use the `new-story` skill (`.claude/skills/new-story/`) to add a graded-reader
+story to `07 Stories/` — resolves the level/title against
+`07 Stories/Story-Outline.md`, writes the story with inline vocabulary links
+(only to words that already have a `06 Vocabulary/` file), adds the English
+translation, and updates the outline. This is separate from `new-lesson`; it
+doesn't touch `01 Lessons/`, `04 Flashcards/`, or Anki.
+
 ## Categories currently in use (for `category` frontmatter + MOCs)
 
 - vocabulary
@@ -165,15 +182,18 @@ separate from `new-lesson`; it doesn't touch `01 Lessons/` or Anki.
   Anki sync), `add-flashcards` (flashcard regeneration for an
   already-existing lesson; also invoked automatically as the last step of
   `new-lesson`), `new-vocabulary` (standalone word reference file in
-  `06 Vocabulary/` — conjugation tables + example sentences), `add-todo` /
-  `fix-todo` / `complete-todo` (see "Todo tracking" above).
+  `06 Vocabulary/` — conjugation tables + example sentences), `new-story`
+  (graded-reader story in `07 Stories/` — inline vocabulary links + English
+  translation), `add-todo` / `fix-todo` / `complete-todo` (see "Todo
+  tracking" above).
 - **Agent**: `spanish-style-reviewer` — read-only check of lesson/flashcard/
-  vocabulary content against `.claude/rules/spanish-language.md`. `new-lesson`,
-  `add-flashcards`, and `new-vocabulary` all dispatch it automatically before
-  reporting done.
+  vocabulary/story content against `.claude/rules/spanish-language.md`.
+  `new-lesson`, `add-flashcards`, `new-vocabulary`, and `new-story` all
+  dispatch it automatically before reporting done.
 - **Rules**: `.claude/rules/spanish-language.md` — path-scoped, auto-loads
   when Claude touches `01 Lessons/`, `04 Flashcards/`, `03 Attachments/`,
-  `02 MOCs/`, or `06 Vocabulary/`. `.claude/rules/anki-connect.md` — path-scoped to `04 Flashcards/`,
+  `02 MOCs/`, `06 Vocabulary/`, or `07 Stories/`.
+  `.claude/rules/anki-connect.md` — path-scoped to `04 Flashcards/`,
   the exact AnkiConnect protocol `add-flashcards` uses to push cards to Anki
   directly (profile, deck naming, note model, duplicate-avoidance, ID write-back).
 - **Hooks**: `guard-lesson-renames.js` (blocks destructive `mv`/`rm` on

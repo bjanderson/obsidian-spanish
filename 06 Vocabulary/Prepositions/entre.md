@@ -43,4 +43,3 @@ in two fixed expressions: *entre tú y yo* ("between you and me"), not *entre ti
 
 ## Related Vocabulary
 
-- ...

@@ -42,4 +42,3 @@ urgent request.
 
 ## Related Vocabulary
 
-- ...

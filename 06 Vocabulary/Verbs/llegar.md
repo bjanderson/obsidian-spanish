@@ -218,3 +218,4 @@ change: in the *yo* preterite, *g* becomes *gu* before *é* to keep the hard
 - [[alcanzar]] — *llegar* is arriving somewhere, *alcanzar* is reaching or catching up to something.
 - [[subir]] — paired motion verbs — arriving vs. going up.
 - [[viajar]] — you *llegar* (arrive) at the end of a trip.
+- [[llenar]] — an unrelated but similarly-spelled verb; don't confuse "to arrive" with "to fill."

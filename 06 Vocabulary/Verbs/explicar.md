@@ -214,4 +214,3 @@ before *e*, so the preterite *yo* form is *expliqué*, not *explicé*. The same
 
 ## Related Vocabulary
 
-- ...

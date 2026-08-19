@@ -216,4 +216,3 @@ before the same conjugated verb: *Me despierto a las seis* ("I wake up at six").
 
 ## Related Vocabulary
 
-- ...

@@ -216,4 +216,3 @@ verbs such as *resolver* (*resuelto*).
 
 ## Related Vocabulary
 
-- ...

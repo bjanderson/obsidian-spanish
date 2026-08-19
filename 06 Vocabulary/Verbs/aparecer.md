@@ -217,4 +217,3 @@ Otherwise it's regular.
 
 ## Related Vocabulary
 
-- ...

@@ -216,4 +216,3 @@ except the preterite *yo* form has a *c → qu* spelling change (*saqué*, not
 
 ## Related Vocabulary
 
-- ...

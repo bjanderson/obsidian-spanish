@@ -40,4 +40,3 @@ with verbs of motion, e.g., *ir a casa*, "to go home").
 
 ## Related Vocabulary
 
-- ...

@@ -47,3 +47,4 @@ words like *el hacha* ("the axe") and *el alma* ("the soul").
 ## Related Vocabulary
 
 - [[área]] — both feminine nouns that take *el*/*las* in the singular/plural because they start with a stressed "a-" — the same vowel-clash exception.
+- [[limpio-limpia-limpios-limpias|limpio / limpia / limpios / limpias]] — clean *agua* is one of the most common things this adjective describes.

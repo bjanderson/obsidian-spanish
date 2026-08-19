@@ -214,4 +214,3 @@ pattern before *o*/*a*; everything else follows the regular *-er* pattern.
 
 ## Related Vocabulary
 
-- ...

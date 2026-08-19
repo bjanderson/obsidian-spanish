@@ -219,4 +219,3 @@ affects the *yo* present form and the entire present subjunctive.
 
 ## Related Vocabulary
 
-- ...

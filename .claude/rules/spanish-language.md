@@ -5,6 +5,7 @@ paths:
   - "03 Attachments/**"
   - "02 MOCs/**"
   - "06 Vocabulary/**"
+  - "07 Stories/**"
 ---
 
 # Spanish and English language conventions

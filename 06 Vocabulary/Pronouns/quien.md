@@ -42,3 +42,4 @@ more than one, regardless of whether they're men or women.
 ## Related Vocabulary
 
 - [[que]] — the all-purpose relative pronoun, more common in most positions.
+- [[quién|quién]] — the accented interrogative "who," used in questions rather than relative clauses.

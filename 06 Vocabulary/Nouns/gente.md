@@ -48,7 +48,6 @@ gente*, *toda la gente*) instead of pluralizing it.
 
 ## Related Vocabulary
 
-- [[hombre]]
-- [[mujer]]
+- [[hombre-mujer|hombre / mujer]]
 - [[pueblo]]
 - [[grupo]] — related — a *grupo* (group) is a defined subset of *gente* (people).

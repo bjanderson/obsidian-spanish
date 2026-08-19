@@ -217,4 +217,3 @@ an adjective ("open").
 
 ## Related Vocabulary
 
-- ...

@@ -215,4 +215,4 @@ and the same shift shows up in the preterite third-person forms and the gerund.
 
 ## Related Vocabulary
 
-- ...
+- [[reír]] — a close relative in both form and meaning — *reír* is "to laugh," a louder version of *sonreír*.

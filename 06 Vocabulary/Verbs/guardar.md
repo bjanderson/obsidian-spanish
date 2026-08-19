@@ -214,4 +214,3 @@ fully regular *-ar* verb with no stem changes or spelling adjustments in any ten
 
 ## Related Vocabulary
 
-- ...

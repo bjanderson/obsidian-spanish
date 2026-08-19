@@ -219,3 +219,5 @@ present subjunctive.
 ## Related Vocabulary
 
 - [[comprar]] — you *pagar* (pay) when you *comprar* (buy).
+- [[apagar]] — same spelling pattern (*g → gu* before *e*), completely unrelated meaning; don't confuse "to pay" with "to turn off."
+- [[valer]] — a related idea: what you *pagar* (pay) usually reflects what something *vale* (is worth).

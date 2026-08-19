@@ -39,4 +39,3 @@ easy to confuse with two similar-looking forms:
 
 ## Related Vocabulary
 
-- ...

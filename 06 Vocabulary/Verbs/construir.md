@@ -216,4 +216,3 @@ preterite third-person forms and gerund.
 
 ## Related Vocabulary
 
-- ...

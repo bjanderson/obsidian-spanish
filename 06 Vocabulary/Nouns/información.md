@@ -44,4 +44,3 @@ referencing separate formal reports.
 
 ## Related Vocabulary
 
-- ...

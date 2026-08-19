@@ -35,4 +35,3 @@ mucho*, "he eats a lot"). *Muy* is never used alone before a noun or a verb.
 
 ## Related Vocabulary
 
-- ...

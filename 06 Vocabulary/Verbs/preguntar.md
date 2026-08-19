@@ -215,3 +215,4 @@ the time") vs. *Le pedí un favor* ("I asked him for a favor"). It's a fully reg
 ## Related Vocabulary
 
 - [[pedir]] — "to ask for" a thing, in contrast to *preguntar*'s "to ask" a question.
+- [[responder]] — the natural pair — you *preguntar* (ask) so that someone can *responder* (answer).

@@ -40,4 +40,3 @@ nouns ending in *-dad*, which are reliably feminine (a useful pattern: *ciudad*,
 
 ## Related Vocabulary
 
-- ...

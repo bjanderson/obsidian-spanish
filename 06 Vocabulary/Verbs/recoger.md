@@ -223,3 +223,4 @@ endings all start with *-a*. Everywhere else (before *e* or *i*), the spelling s
 
 - [[buscar]] — related but distinct: *buscar* is looking for something, *recoger* is picking it up once found.
 - [[llevar]] — often paired: *recoger* to pick something up, then *llevar* to carry or take it somewhere.
+- [[escoger]] — same spelling pattern (*g → j* before *a/o*), unrelated meaning; don't confuse "to pick up" with "to choose."

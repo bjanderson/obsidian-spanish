@@ -39,4 +39,3 @@ pattern.
 
 ## Related Vocabulary
 
-- ...

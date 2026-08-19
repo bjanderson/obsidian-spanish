@@ -214,4 +214,3 @@ in the preterite third-person forms and the gerund.
 
 ## Related Vocabulary
 
-- ...

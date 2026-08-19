@@ -218,3 +218,4 @@ my brother"), and *ayudar a + infinitive* means "to help (someone) do something.
 ## Related Vocabulary
 
 - [[cuidar]] — related — caring for someone often involves helping them.
+- [[ayuda]] — *ayuda* is the noun form of *ayudar*.

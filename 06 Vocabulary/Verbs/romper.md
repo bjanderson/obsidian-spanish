@@ -216,4 +216,4 @@ participle is also used as an adjective: *un vaso roto* ("a broken glass").
 
 ## Related Vocabulary
 
-- ...
+- [[arreglar]] — the opposite action — *arreglar* fixes something, *romper* breaks it.

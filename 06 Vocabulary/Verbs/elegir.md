@@ -225,3 +225,4 @@ change its spelling across the paradigm: it's an *e → i* stem-changing verb (l
 - [[decidir]] — closely related: *decidir* is deciding in general, *elegir* is choosing among specific options.
 - [[pedir]] — another *e → i* stem-changing *-ir* verb, useful for comparing the pattern.
 - [[seguir]] — also has a spelling change (*g → gu*) to keep its consonant sound, a useful contrast to *elegir*'s *g → j*.
+- [[escoger]] — an exact synonym; *escoger* is the fully regular *-er* verb version of the same idea (only the *g → j* spelling change, no stem change).

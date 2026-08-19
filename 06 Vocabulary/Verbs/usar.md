@@ -214,4 +214,3 @@ changes, no spelling adjustments.
 
 ## Related Vocabulary
 
-- ...

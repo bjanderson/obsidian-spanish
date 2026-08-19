@@ -40,4 +40,3 @@ in the plural — health is treated as a single, uncountable concept.
 
 ## Related Vocabulary
 
-- ...

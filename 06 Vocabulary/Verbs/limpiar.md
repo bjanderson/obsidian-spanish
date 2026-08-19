@@ -220,4 +220,3 @@ throughout.
 
 ## Related Vocabulary
 
-- ...

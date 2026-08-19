@@ -44,4 +44,3 @@ is located inside, on top of, or at a point in space or time.
 
 ## Related Vocabulary
 
-- ...

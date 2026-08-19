@@ -213,4 +213,3 @@ standard *-ar* pattern with no stem changes or spelling adjustments.
 
 ## Related Vocabulary
 
-- ...

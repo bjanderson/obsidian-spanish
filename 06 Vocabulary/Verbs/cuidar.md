@@ -218,3 +218,4 @@ with no stem changes or spelling shifts in any tense.
 ## Related Vocabulary
 
 - [[ayudar]] — a related verb for supporting or assisting someone, often paired with *cuidar*.
+- [[cuidado]] — *cuidado* is the noun form of *cuidar*.

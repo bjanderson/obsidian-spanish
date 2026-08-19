@@ -46,3 +46,4 @@ separate interrogative/exclamative word "how" (*¿Cómo estás?*, "How are you?"
 - [[cuando]] — a related relative adverb, covered together in the same lesson.
 - [[donde]] — a related relative adverb, covered together in the same lesson.
 - [[sobre]] — see there for approximate time, expressed with *a eso de*/*como a* rather than *sobre*.
+- [[cómo|cómo]] — the accented interrogative/exclamative "how," used in questions and exclamations rather than comparisons.

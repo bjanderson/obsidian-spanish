@@ -40,4 +40,4 @@ everyday sense ("my life," "daily life"). It shows up in common expressions like
 
 ## Related Vocabulary
 
-- ...
+- [[natural]] — often describes the *vida* found in nature.

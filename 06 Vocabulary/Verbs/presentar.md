@@ -217,4 +217,3 @@ brother," literally "I present my brother to you"). It's a fully regular *-ar* v
 
 ## Related Vocabulary
 
-- ...

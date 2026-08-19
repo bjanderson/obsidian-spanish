@@ -39,4 +39,3 @@ escuela*.
 
 ## Related Vocabulary
 
-- ...

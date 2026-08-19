@@ -45,4 +45,5 @@ more "correct" — use the one that matches the person's gender.
 
 ## Related Vocabulary
 
-- ...
+- [[escritor]] — related — an *escritor* who publishes a work becomes its *autor*.
+

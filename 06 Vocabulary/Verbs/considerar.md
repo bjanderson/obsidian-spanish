@@ -216,4 +216,3 @@ It's a fully regular *-ar* verb with no stem changes or irregular forms.
 
 ## Related Vocabulary
 
-- ...

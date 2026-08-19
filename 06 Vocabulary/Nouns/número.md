@@ -40,4 +40,3 @@ sequence (like a house or phone number). It's masculine, following the regular
 
 ## Related Vocabulary
 
-- ...

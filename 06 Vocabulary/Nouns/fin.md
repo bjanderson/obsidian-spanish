@@ -41,4 +41,3 @@ also shows up in common fixed phrases like *al fin* ("finally"), *por fin*
 
 ## Related Vocabulary
 
-- ...

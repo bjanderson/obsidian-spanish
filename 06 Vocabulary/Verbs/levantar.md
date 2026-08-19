@@ -222,3 +222,4 @@ form.
 
 - [[mover]] — related physical action: moving something, not necessarily upward.
 - [[tirar]] — contrast: pulling or throwing rather than lifting.
+- [[sentar]] — the natural opposite — *levantar(se)* is standing/getting up, *sentar(se)* is sitting down.

@@ -46,4 +46,5 @@ historical sense (*otros tiempos*, "other times").
 - [[momento]] — related time vocabulary — *momento* is a specific point, *tiempo* is time in general.
 - [[minuto]] — a *minuto* is a unit of *tiempo* (time).
 - [[semana]] — a *semana* is a unit of *tiempo* (time).
+- [[libre]] — often paired with *tiempo* in the phrase *tiempo libre*, "free time."
 - [[hora]] — an *hora* is a unit of *tiempo* (time).

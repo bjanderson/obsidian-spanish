@@ -215,4 +215,3 @@ stem.
 
 ## Related Vocabulary
 
-- ...

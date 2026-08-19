@@ -216,4 +216,3 @@ verb, like *seguir* — the present-tense stem drops the *e* everywhere except
 
 ## Related Vocabulary
 
-- ...

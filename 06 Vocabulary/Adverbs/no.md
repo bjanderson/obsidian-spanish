@@ -43,4 +43,3 @@ English, Spanish doesn't need a helper verb ("do/does") to negate: *No entiendo*
 
 ## Related Vocabulary
 
-- ...

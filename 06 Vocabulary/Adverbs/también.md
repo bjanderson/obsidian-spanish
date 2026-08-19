@@ -33,4 +33,3 @@ for agreeing with a negative statement — a separate, related vocabulary entry.
 
 ## Related Vocabulary
 
-- ...

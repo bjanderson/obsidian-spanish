@@ -38,4 +38,3 @@ related: []
 
 ## Related Vocabulary
 
-- ...

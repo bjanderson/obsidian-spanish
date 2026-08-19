@@ -41,4 +41,3 @@ feminine: *la especie*.
 
 ## Related Vocabulary
 
-- ...

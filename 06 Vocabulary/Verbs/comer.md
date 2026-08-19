@@ -221,3 +221,4 @@ meal," usually lunch or dinner depending on the region.
 - [[poder]] — an irregular stem-changing verb, useful as a contrast to *comer*'s fully regular forms.
 - [[cocinar]] — you *cocinar* (cook) before you *comer* (eat).
 - [[beber]] — paired verbs — eating and drinking.
+- [[almorzar]] — a specific sense of *comer*: eating the midday meal.

@@ -42,4 +42,3 @@ both fine), but only *durante* covers "during [an event]": *durante la clase*
 
 ## Related Vocabulary
 
-- ...

@@ -217,4 +217,3 @@ noise") isn't. It's a fully regular *-ar* verb, no stem changes or spelling quir
 
 ## Related Vocabulary
 
-- ...

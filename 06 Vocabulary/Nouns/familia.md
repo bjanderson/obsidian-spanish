@@ -40,7 +40,11 @@ feminine: *la familia*. There's nothing irregular about it — it follows the re
 
 ## Related Vocabulary
 
-- [[padre]]
-- [[madre]]
-- [[hijo]]
+- [[padre-madre|padre / madre]] — parent
+- [[hijo-hija|hijo / hija]] — child
 - [[grupo]] — related — a *familia* is a specific kind of *grupo* (group).
+- [[hermano-hermana|hermano / hermana]] — sibling
+- [[abuelo-abuela|abuelo / abuela]] — grandparent
+- [[tío-tía|tío / tía]] — uncle/aunt
+- [[primo-prima|primo / prima]] — cousin
+- [[esposo-esposa|esposo / esposa]] — spouse

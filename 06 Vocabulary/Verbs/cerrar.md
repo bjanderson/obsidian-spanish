@@ -214,4 +214,3 @@ stem vowel changes in every present-tense form except *nosotros*.
 
 ## Related Vocabulary
 
-- ...
