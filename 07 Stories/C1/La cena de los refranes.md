@@ -1,0 +1,39 @@
+---
+type: story
+title: La cena de los refranes
+status: complete
+created: 2026-08-20
+tags:
+  - spanish
+  - story
+  - vocabulary
+  - C1
+---
+
+# La cena de los refranes
+
+La [[familia]] Vargas se reunía [[cada]] [[año]] para celebrar el aniversario de la [[abuelo-abuela|abuela]] Consuelo, [[y]] la [[cena]] [[siempre]] terminaba igual: los [[mayor|mayores]] intercambiando refranes [[y]] los [[más]] [[joven|jóvenes]] [[tratar|tratando]] de descifrar [[su-sus|su]] significado. [[ese-esa|Ese]] [[año]], alrededor de la [[mesa]] [[estar|estaban]] Consuelo, [[su-sus|sus]] [[tres]] [[hijo-hija|hijos]] adultos, [[y]] [[varios-varias|varios]] nietos, incluida Camila, [[quien]] acababa de [[cumplir]] [[quince]] [[año|años]].
+
+[[cuando|Cuando]] [[alguien]] mencionó [[que]] el [[primo-prima|primo]] Andrés [[haber|había]] [[perder|perdido]] [[su-sus|su]] [[trabajo]] [[pero]] [[ya]] [[haber|había]] [[encontrar|encontrado]] [[uno|uno]] [[mejor]], el [[tío-tía|tío]] Ricardo [[levantar|levantó]] [[su-sus|su]] copa [[y]] [[decir|dijo]]: "No [[hay]] mal [[que]] por [[bien]] no venga." Camila, [[confundido-confundida-confundidos-confundidas|confundida]], le [[preguntar|preguntó]] [[qué]] [[querer|quería]] [[decir]]. "Significa [[que]], a veces, [[algo]] [[que]] [[parecer|parece]] malo termina trayendo [[algo]] [[bueno-buena-buenos-buenas|bueno]]," explicó [[su-sus|su]] [[padre-madre|madre]]. "[[es|Es]] [[como]] [[cuando]] a [[tu-tus|tu]] [[tío-tía|tío]] lo despidieron del [[banco]] hace [[diez]] [[año|años]] [[y]] terminó [[abrir|abriendo]] [[su-sus|su]] [[propio-propia-propios-propias|propio]] [[negocio]], [[que]] le [[ser|fue]] [[mucho-muchos|mucho]] [[mejor]]."
+
+La conversación [[pasar|pasó]] [[entonces]] a la [[político-política-políticos-políticas|política]], [[y]] la [[abuelo-abuela|abuela]] Consuelo, recordando [[su-sus|su]] juventud, comparó la [[situación]] [[actual]] con una [[época]] de crisis [[que]] [[ella]] [[mismo-misma-mismos-mismas|misma]] [[haber|había]] [[vivir|vivido]]. "Esto me [[recordar|recuerda]] a los [[año|años]] [[difícil|difíciles]] [[después]] de la independencia, [[cuando]] [[nadie]] [[saber|sabía]] [[bien]] [[qué]] rumbo [[tomar|tomaría]] el [[país]]," [[decir|dijo]], con la mirada perdida en el recuerdo. "[[mi-mis|Mi]] [[abuelo-abuela|abuela]] [[contar|contaba]] [[que]] la [[gente]] [[decir|decía]] '[[valiente|valientes]] [[hasta]] [[que]] [[llegar|llega]] el [[peligro]]', [[porque]] [[mucho-muchos|muchos]] [[prometer|prometían]] [[mucho-muchos|mucho]] [[y]] [[cumplir|cumplían]] [[poco]]." Los nietos [[escuchar|escuchaban]] fascinados, [[dar|dándose]] [[cuenta]] de [[que]] las [[palabra|palabras]] de [[su-sus|su]] bisabuela [[haber|habían]] sobrevivido [[casi]] un [[siglo]].
+
+El [[primo-prima|primo]] [[mayor]], Joaquín, [[que]] estudiaba [[historia]] en la [[universidad]], aprovechó el [[momento]] para [[contar]] una anécdota sobre un héroe local de la región, [[cuyo-cuya-cuyos-cuyas|cuya]] estatua [[estar|estaba]] en la [[plaza]] principal del [[pueblo]]. "Cuentan [[que]], [[antes]] de una batalla decisiva, [[decir|dijo]] [[algo]] parecido a 'camarón [[que]] se duerme se lo [[llevar|lleva]] la corriente', advirtiendo a [[su-sus|sus]] soldados [[que]] no debían confiarse." Consuelo asintió, añadiendo [[que]] [[ese-esa|esa]] [[mismo-misma-mismos-mismas|misma]] frase se la [[haber|había]] [[decir|dicho]] [[su-sus|su]] [[padre-madre|padre]] [[cada]] [[vez]] [[que]] [[ella]] se distraía en la [[escuela]].
+
+Camila, [[que]] [[hasta]] [[entonces]] [[solo]] [[haber|había]] [[escuchar|escuchado]], [[decidir|decidió]] [[compartir]] un refrán [[que]] [[haber|había]] [[aprender|aprendido]] de una [[amigo-amiga|amiga]] extranjera: "Dime con [[quién]] andas [[y]] te [[decir|diré]] [[quién]] [[ser|eres]]." [[todo-todos|Todos]] en la [[mesa]] [[sonreír|sonrieron]], [[y]] el [[tío-tía|tío]] Ricardo bromeó diciendo [[que]], [[entonces]], [[todo-todos|todos]] [[ellos]] debían de [[ser]] [[bastante]] parecidos [[entre]] [[sí]], considerando [[cuánto-cuánta-cuántos-cuántas|cuánto]] [[tiempo]] [[pasar|pasaban]] [[junto-junta-juntos-juntas|juntos]]. La [[abuelo-abuela|abuela]] Consuelo [[reír|rió]] con ganas, [[algo]] [[que]] no [[hacer|hacía]] [[muy]] seguido últimamente.
+
+Al final de la [[noche]], [[mientras]] [[ayudar|ayudaba]] a [[recoger]] los platos, Camila le confesó a [[su-sus|su]] [[padre-madre|madre]] [[que]], por [[primero-primera-primeros-primeras|primera]] [[vez]], [[sentir|sentía]] [[que]] [[entender|entendía]] por [[qué]] [[su-sus|su]] [[familia]] repetía [[tanto]] [[ese-esa|esos]] dichos. "No [[ser|son]] [[solo]] [[palabra|palabras]] [[viejo-vieja-viejos-viejas|viejas]]," le [[decir|dijo]]. "[[ser|Son]] [[como]] un hilo [[que]] nos conecta con la [[abuelo-abuela|abuela]], con el bisabuelo, [[y]] con [[todo-todos|toda]] la [[gente]] [[que]] [[vivir|vivió]] [[antes]] [[que]] [[nosotros]]." [[su-sus|Su]] [[padre-madre|madre]] [[sonreír|sonrió]], [[orgulloso-orgullosa-orgullosos-orgullosas|orgullosa]] de [[ver]] [[que]] la tradición, [[después]] de [[todo-todos|todo]], seguía [[vivo-viva-vivos-vivas|viva]] en la generación [[más]] [[joven]].
+
+## English Translation
+
+The Vargas family got together every year to celebrate grandmother Consuelo's birthday, and dinner always ended the same way: the older ones trading proverbs and the younger ones trying to figure out what they meant. That year, gathered around the table were Consuelo, her three adult children, and several grandchildren, including Camila, who had just turned fifteen.
+
+When someone mentioned that cousin Andrés had lost his job but had already found a better one, uncle Ricardo raised his glass and said, "Every cloud has a silver lining." Camila, confused, asked him what that meant. "It means that sometimes something that seems bad ends up bringing something good," her mother explained. "It's like when your uncle got fired from the bank ten years ago and ended up opening his own business, which turned out much better for him."
+
+The conversation then moved to politics, and grandmother Consuelo, recalling her youth, compared the current situation to a time of crisis she herself had lived through. "This reminds me of the hard years after independence, when no one really knew which direction the country would take," she said, her gaze lost in memory. "My grandmother used to say people would say 'brave until danger arrives,' because many people promised a lot and delivered little." The grandchildren listened, fascinated, realizing their great-great-grandmother's words had survived nearly a century.
+
+The oldest cousin, Joaquín, who was studying history in college, took the moment to tell a story about a local hero from the region, whose statue stood in the town's main square. "They say that, before a decisive battle, he said something like 'the shrimp that falls asleep gets carried off by the current,' warning his soldiers not to let their guard down." Consuelo nodded, adding that her father had told her that same phrase every time she got distracted in school.
+
+Camila, who had only been listening up to that point, decided to share a proverb she'd learned from a foreign friend: "Tell me who you walk with, and I'll tell you who you are." Everyone at the table smiled, and uncle Ricardo joked that, in that case, they must all be pretty similar to each other, given how much time they spent together. Grandmother Consuelo laughed heartily, something she hadn't done very often lately.
+
+At the end of the night, while helping clear the plates, Camila confessed to her mother that, for the first time, she felt she understood why her family repeated those sayings so much. "They're not just old words," she told her. "They're like a thread that connects us to grandma, to great-grandpa, and to all the people who lived before us." Her mother smiled, proud to see that the tradition, after all, was still alive in the youngest generation.

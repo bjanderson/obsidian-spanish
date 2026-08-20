@@ -88,11 +88,67 @@ children.
 | Title | Status | Audience | Theme / Vocab focus | Link |
 | ----- | :----: | -------- | -------------------- | ---- |
 | El pueblo de Ana | ✅ | Adult | Village life, work, friendship, land dispute | [[El pueblo de Ana]] |
+| El secreto del ático | ✅ | Child | Finding an old letter, past subjunctive (ojalá que), reported speech | [[El secreto del ático]] |
+| La competencia de talentos | ✅ | Child | Talent show rivalry, present perfect subjunctive, hypothetical conditional | [[La competencia de talentos]] |
+| El nuevo estudiante | ✅ | Child | New student joins the class, relative clauses with subjunctive, passive voice | [[El nuevo estudiante]] |
+| El dilema del examen | ✅ | Teen | Whether to report cheating, si + imperfect subjunctive + conditional, reported speech | [[El dilema del examen]] |
+| Las elecciones estudiantiles | ✅ | Teen | Student council campaign, passive voice, subjunctive of doubt | [[Las elecciones estudiantiles]] |
+| El viaje de intercambio | ✅ | Teen | Exchange trip abroad, conditional perfect, sequence of tenses | [[El viaje de intercambio]] |
+| La decisión de la carrera | ✅ | Young adult | Choosing a college major, hypothetical conditionals, past subjunctive | [[La decisión de la carrera]] |
+| El contrato de alquiler | ✅ | Young adult | Dispute with a landlord, formal register, passive voice, reported speech | [[El contrato de alquiler]] |
+| La ruptura | ✅ | Young adult | Reflecting on a breakup, conditional perfect, past subjunctive | [[La ruptura]] |
+| La crisis en la empresa | ✅ | Adult | Company layoffs, subjunctive of emotion, passive voice | [[La crisis en la empresa]] |
+| Los papeles del divorcio | ✅ | Adult | Divorce proceedings, reported speech, formal legal language | [[Los papeles del divorcio]] |
+| La herencia familiar | ✅ | Adult | Family inheritance dispute, past subjunctive, conditional perfect | [[La herencia familiar]] |
+| La mudanza al extranjero | ✅ | Family | Relocating to another country, hypothetical conditional, reported speech | [[La mudanza al extranjero]] |
+| El accidente en la carretera | ✅ | Family | Aftermath of a car accident, subjunctive of doubt, passive voice | [[El accidente en la carretera]] |
+| La reunión familiar tensa | ✅ | Family | A strained family reunion, sequence of tenses, past subjunctive | [[La reunión familiar tensa]] |
+| Las memorias de la revolución | ✅ | Senior | Recounting a historical upheaval, past subjunctive, reported speech, passive voice | [[Las memorias de la revolución]] |
+| La decisión de la casa de retiro | ✅ | Senior | Deciding on a retirement home, hypothetical conditional, subjunctive of emotion | [[La decisión de la casa de retiro]] |
+| El testamento | ✅ | Senior | Drafting a will, formal legal language, conditional perfect, passive voice | [[El testamento]] |
 
 ## C1
 
-Ideas not yet added.
+| Title | Status | Audience | Theme / Vocab focus | Link |
+| ----- | :----: | -------- | -------------------- | ---- |
+| El cuaderno misterioso | ✅ | Child | Mystery notebook with no name, advanced relative pronouns (el cual, cuyo) | [[El cuaderno misterioso]] |
+| La feria de ciencias | ✅ | Child | Science fair project, absolute participle and adverbial gerund clauses | [[La feria de ciencias]] |
+| El abuelo cuenta refranes | ✅ | Child | Grandfather's sayings, traditional proverbs and cultural allusions | [[El abuelo cuenta refranes]] |
+| El comentario que dolió | ✅ | Teen | A sarcastic remark causes a rift, irony, tone and subtext | [[El comentario que dolió]] |
+| El sueño de ser músico | ✅ | Teen | Pursuing a music career against family wishes, verb + preposition combinations (soñar con, depender de) | [[El sueño de ser músico]] |
+| El debate escolar | ✅ | Teen | School debate competition, academic connectors, persuasive rhetoric | [[El debate escolar]] |
+| La negociación del puesto | ✅ | Young adult | Negotiating a job offer, diplomatic language, professional email register | [[La negociación del puesto]] |
+| Las primeras inversiones | ✅ | Young adult | Learning to invest and budget, finance vocabulary | [[Las primeras inversiones]] |
+| El apartamento con historia | ✅ | Young adult | Renting a flat with a mysterious past owner, advanced relative pronouns (el cual, cuyo) | [[El apartamento con historia]] |
+| El artículo polémico | ✅ | Adult | Debating a controversial news article, decoding media and editorial commentary | [[El artículo polémico]] |
+| El contrato en disputa | ✅ | Adult | Business contract dispute, formal legal language, professional correspondence | [[El contrato en disputa]] |
+| El informe trimestral | ✅ | Adult | Writing a quarterly report, academic connectors, impersonal and objective register | [[El informe trimestral]] |
+| El viaje por el Caribe | ✅ | Family | Family trip across the Caribbean, comprehension of diverse accents and fast speech | [[El viaje por el Caribe]] |
+| La cena de los refranes | ✅ | Family | Family dinner trading proverbs, cultural and historical allusions | [[La cena de los refranes]] |
+| El desacuerdo familiar | ✅ | Family | Resolving a family disagreement diplomatically, formal negotiation language | [[El desacuerdo familiar]] |
+| Las memorias de la fábrica | ✅ | Senior | Recalling a career at an old factory, absolute participle and gerund constructions | [[Las memorias de la fábrica]] |
+| La carta sin enviar | ✅ | Senior | Drafting a formal letter never sent, high-formal openings and closings | [[La carta sin enviar]] |
+| El abuelo de los juegos de palabras | ✅ | Senior | A grandfather's love of puns and wordplay, humor and double meanings | [[El abuelo de los juegos de palabras]] |
 
 ## C2
 
-Ideas not yet added.
+| Title | Status | Audience | Theme / Vocab focus | Link |
+| ----- | :----: | -------- | -------------------- | ---- |
+| La leyenda del río | ✅ | Child | Grandmother tells a regional legend, literary archaisms, preterite anterior, oral storytelling register | [[La leyenda del río]] |
+| El diario del bisabuelo | ✅ | Child | Child finds a great-grandparent's old diary, archaic tenses, shift from casual to formal literary register | [[El diario del bisabuelo]] |
+| El maestro de los refranes | ✅ | Child | A teacher's lesson on proverbs, regional idiomatic expressions, wordplay | [[El maestro de los refranes]] |
+| El poema que cambió de significado | ✅ | Teen | Writing a poem with deliberate word-order inversion, hyperbaton, rhetorical emphasis | [[El poema que cambió de significado]] |
+| La imitación perfecta | ✅ | Teen | Mimicking regional accents to fit in on an exchange trip, code-switching between formal and colloquial registers | [[La imitación perfecta]] |
+| El monólogo satírico | ✅ | Teen | Writing a satirical talent-show monologue, irony, double meanings, humor | [[El monólogo satírico]] |
+| El discurso de graduación | ✅ | Young adult | Preparing a formal graduation speech, hyper-formal register, emphatic structures (fue por eso que...) | [[El discurso de graduación]] |
+| La traductora novata | ✅ | Young adult | A new interpreter tackles idioms with no direct equivalent, idiomatic translation of cultural concepts | [[La traductora novata]] |
+| El actor de doblaje | ✅ | Young adult | A dubbing actor shifts register across characters, micro-adjustments in tone and formality | [[El actor de doblaje]] |
+| El testamento en verso | ✅ | Adult | A lawyer deciphers a will written in archaic legal Spanish, future subjunctive (hubiere, fuere), legal archaisms | [[El testamento en verso]] |
+| La negociación diplomática | ✅ | Adult | A diplomat adapts language to audience and hierarchy, context-switching by social setting | [[La negociación diplomática]] |
+| El crítico literario | ✅ | Adult | A literary critic dissects a classic novel's style, hyperbaton, poetic word order, rhetorical analysis | [[El crítico literario]] |
+| La reunión de dialectos | ✅ | Family | Relatives from different countries bring their own slang to a reunion, fluid shift between standard Spanish and regional slang | [[La reunión de dialectos]] |
+| El humor de la abuela | ✅ | Family | A grandmother's folk humor and wordplay at a family gathering, regional humor, satire, folklore | [[El humor de la abuela]] |
+| La carta perdida del bisabuelo | ✅ | Family | The family finds an ancestor's letter in a formal, archaic register, literary archaisms, preterite anterior | [[La carta perdida del bisabuelo]] |
+| El intérprete jubilado | ✅ | Senior | A retired interpreter recalls a career of real-time translation, simultaneous interpretation, idiomatic reformulation | [[El intérprete jubilado]] |
+| Las memorias en verso | ✅ | Senior | Writing a memoir in elevated, poetic style, stylistic inversion, hyperbaton | [[Las memorias en verso]] |
+| El maestro de los dichos regionales | ✅ | Senior | Known for total command of regional idioms, teaches them to grandchildren, mastery of regional idiomatic expressions | [[El maestro de los dichos regionales]] |
