@@ -99,36 +99,19 @@ number. Look up the code and title wording in `CEFR/CEFR-Outline.md`; use
 - Never reuse a CEFR code for a different topic, and never renumber/rename an
   existing lesson's code once created.
 
-## Creating a new lesson
+## Creating content
 
-Use the `new-lesson` skill (`.claude/skills/new-lesson/`) — it walks the full
-numbering → template → video search → body → practice-PDF →
-conversational-sentences → MOC-linking → review →
-flashcard-generation-and-Anki-sync workflow. Don't hand-roll this from
-scratch; the skill is the source of truth for the exact steps.
+Don't hand-roll these workflows — each skill is the source of truth for the exact
+steps.
 
-## Creating flashcards
-
-Flashcards are generated and pushed to Anki automatically as the last step of
-`new-lesson` — not a separate later action. Use the `add-flashcards` skill
-(`.claude/skills/add-flashcards/`) directly only to regenerate cards for a
-lesson whose content changed after the fact.
-
-## Creating a vocabulary file
-
-Use the `new-vocabulary` skill (`.claude/skills/new-vocabulary/`) to add a standalone
-word reference file to `06 Vocabulary/` — full conjugation tables plus example
-sentences for a single word, cross-linked to related vocabulary files. This is
-separate from `new-lesson`; it doesn't touch `01 Lessons/` or Anki.
-
-## Creating a story
-
-Use the `new-story` skill (`.claude/skills/new-story/`) to add a graded-reader
-story to `07 Stories/` — resolves the level/title against
-`07 Stories/Story-Outline.md`, writes the story with inline vocabulary links
-(only to words that already have a `06 Vocabulary/` file), adds the English
-translation, and updates the outline. This is separate from `new-lesson`; it
-doesn't touch `01 Lessons/`, `04 Flashcards/`, or Anki.
+- **Lesson**: `new-lesson` skill. Ends with automatic flashcard generation and
+  Anki sync — a separate `add-flashcards` step is not needed.
+- **Flashcards for an existing lesson**: `add-flashcards` skill, only when a
+  lesson's content changed after its cards were already made.
+- **Vocabulary file**: `new-vocabulary` skill. Independent of `new-lesson` and
+  Anki — doesn't touch `01 Lessons/`.
+- **Story**: `new-story` skill. Independent of `01 Lessons/`, `04 Flashcards/`,
+  and Anki.
 
 ## Categories currently in use (for `category` frontmatter + MOCs)
 
@@ -177,25 +160,9 @@ doesn't touch `01 Lessons/`, `04 Flashcards/`, or Anki.
 
 ## Tooling set up for this vault
 
-- **Skills**: `new-lesson` (full lesson creation workflow — includes writing
-  the `05 Conversations` sentence file and ends in flashcard generation and
-  Anki sync), `add-flashcards` (flashcard regeneration for an
-  already-existing lesson; also invoked automatically as the last step of
-  `new-lesson`), `new-vocabulary` (standalone word reference file in
-  `06 Vocabulary/` — conjugation tables + example sentences), `new-story`
-  (graded-reader story in `07 Stories/` — inline vocabulary links + English
-  translation), `add-todo` / `fix-todo` / `complete-todo` (see "Todo
-  tracking" above).
-- **Agent**: `spanish-style-reviewer` — read-only check of lesson/flashcard/
-  vocabulary/story content against `.claude/rules/spanish-language.md`.
-  `new-lesson`, `add-flashcards`, `new-vocabulary`, and `new-story` all
-  dispatch it automatically before reporting done.
-- **Rules**: `.claude/rules/spanish-language.md` — path-scoped, auto-loads
-  when Claude touches `01 Lessons/`, `04 Flashcards/`, `03 Attachments/`,
-  `02 MOCs/`, `06 Vocabulary/`, or `07 Stories/`.
-  `.claude/rules/anki-connect.md` — path-scoped to `04 Flashcards/`,
-  the exact AnkiConnect protocol `add-flashcards` uses to push cards to Anki
-  directly (profile, deck naming, note model, duplicate-avoidance, ID write-back).
+- **Agent**: `spanish-style-reviewer` is dispatched automatically by
+  `new-lesson`, `add-flashcards`, `new-vocabulary`, and `new-story` before
+  they report done — no need to invoke it manually after using those skills.
 - **Hooks**: `guard-lesson-renames.js` (blocks destructive `mv`/`rm` on
   lesson/flashcard/attachment paths), `guard-lesson-numbering.js` (blocks
   writing a lesson/flashcard file whose CEFR code collides with an existing,

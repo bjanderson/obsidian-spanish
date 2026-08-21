@@ -40,3 +40,4 @@ related: []
 
 - [[almuerzo]] — the next meal after breakfast.
 - [[huevo]] — a common breakfast food.
+- [[desayunar]] — the verb form, "to have breakfast."

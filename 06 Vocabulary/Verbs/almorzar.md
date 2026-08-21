@@ -219,3 +219,4 @@ present subjunctive (*almuerce, almuerces...*).
 ## Related Vocabulary
 
 - [[comer]] — the general verb "to eat"; *almorzar* is specifically eating the midday meal.
+- [[desayunar]] — the meal before lunch, "to have breakfast."

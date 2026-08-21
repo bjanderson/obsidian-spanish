@@ -1106,7 +1106,7 @@ flashcards can link out to.
 | 1063 | papa | n | potato | ✅ | [[papa]] |
 | 1064 | escritor | n | writer | ✅ | [[escritor]] |
 | 1065 | compartir | v | to share | ✅ | [[compartir]] |
-| 1066 | desayunar | v | to have breakfast | | |
+| 1066 | desayunar | v | to have breakfast | ✅ | [[desayunar]] |
 | 1067 | taza | n | cup | | |
 | 1068 | compañero-compañera | n | coworker/companion | | |
 | 1069 | preparar | v | to prepare | | |
